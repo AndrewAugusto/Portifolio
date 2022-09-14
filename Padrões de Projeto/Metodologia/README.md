@@ -16,5 +16,5 @@ Por conta desta experiência.
 Java
 
 Foi a primeira Linguagem que estudei, ainda antes do início da graduação.
-Ainda não tive a oportunidade de trabalhar em um projeto grande atuando como desenvolvedor Java, mas tive a oportunidade de fazer alguns projetos acadêmicos com está linguagem e seus frameworks, como Spring Boot, Hibernate.
+Não tive a oportunidade de trabalhar em um projeto grande atuando como desenvolvedor Java, mas tive a oportunidade de fazer alguns projetos acadêmicos com está linguagem e seus frameworks, como Spring Boot, Hibernate.
 
