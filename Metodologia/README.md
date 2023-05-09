@@ -4,7 +4,7 @@
 
 Olá, Sou Andrew, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal.
 
-Tenho 22 anos e trabalho como Analista Desenvolvedor na São José dos Campos.
+Tenho 23 anos e trabalho como Analista Desenvolvedor na São José dos Campos.
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
@@ -14,8 +14,6 @@ Tenho 22 anos e trabalho como Analista Desenvolvedor na São José dos Campos.
 
  - [x]  Python
  - [x]  Java
- - [x]  HTML
- - [x]  CSS
  - [x]  SQLite
  - [x]  Angular
 
@@ -24,61 +22,71 @@ Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados d
 
 # Projeto 1: Assistente Virtual
 
-### Projeto Semestral Proposto pela Instituição
+### Projeto Semestral Proposto pela Instituição Fatec
 <br/>
+
+![image](https://user-images.githubusercontent.com/80988756/218878798-d33629bc-acf9-4edb-b463-b14fd8a90404.png)
+##### *Figura 01. Logo Fatec - Profº Jassen Vidal*
+
+A Fatec é uma Faculdade Pública Estadual e todos os cursos oferecidos são gratuitos. De uma forma geral a formação do Tecnólogo, além de aspectos técnicos, envolve também, uma base de caráter social, ético, filosófico e ambiental que faz deste cidadão um profissional ciente de sua inserção e responsabilidades no meio social que integra.
 
 ![image](https://github.com/criskurim/CodeYCode/blob/main/Imagens/logo-removebg-preview.png)
 
-##### *Figura 01. Logo Ibet Assistente*
-
-A Instituição propôs o seguinte desafio baseado na metodologia ágil Scrum.
+##### *Figura 02. Logo do Projeto Ibet Assistente*
 
 ### Visão do Projeto
 
-A empresa parceira MidAll tem um problema para criação de promoções em E-commerce. A ideia foi criar um motor de regras com uma interface onde as regras das promoções possam ser cadastradas.
+A assistente Ibet foi criada com a ideia de ser uma assistente virtual que auxilia o usuário na busca por informações relacionadas a esportes. Entre as funcionalidades que ela possui algumas delas são definição de alarmes para jogos, placares de jogos ao vivo e jogos antigos, vídeos entre outros. O diferencial da aplicação é o retorno de informações entregando o máximo de interatividade ao cliente sem a necessidade de digitar ou clicar em nenhuma informação. Todas as funcionalidades são ativas por comando de voz.
+
+#### Requisitos do Projeto
+* Acionamento por comando de voz;
+* 8 funcionalidades distintas;
+* Ser mobile, web ou desktop;
+* Retornar o comando em qualquer forma (som, texto ou ação);
+* Ter um contexto específico de aplicação;
+* Não pode usar 100% de APIs prontas e disponíveis no mercado.
+
+Dessa forma, foi desenvolvido a IBet.
 
 Link do repositório do projeto: https://github.com/AndrewAugusto/Ibet_Assistente
 
-### Tecnologias adotadas na solução
+### Tecnologias adotadas no Projeto
 
-* **Back-end:** Python
-* **Banco de Dados:** SQLite
+<div style="display: inline_block"><br> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="100"    height="100" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="100" height="100" />
+</div>
 
 ## Contribuições Pessoais
 
-Fui responsável pela implementação da tecnologia de reconhecimento de voz na API,
-criei um algoritmo para possibilitar a execução do serviço em segundo plano (Modo Standy By) para ser acionada somente quando chamada, 
-devolvendo como resultado algumas funcionalidades, dentre elas: Agendamento de atividades, vizualizações de vídeo de acordo com o pedido, noticias diárias, entre outras.
-Todas as funcionalidades são ativas por comando de voz.
+Fui responsável pela implementação da tecnologia de reconhecimento de voz na API, criei um algoritmo para possibilitar a execução do serviço em segundo plano (Modo Standy By) para ser acionada somente quando chamada.
 
 <details open><summary>Informações código Back-End</summary>
   
   
-   1. Algoritmo de cálculo de valores das promoções.
+   1. Algoritmo para reconhecimento de voz.
      
-   ```js
+   ```python
    
-   public ResponseEntity<?> retornaProdutoPromocao(@RequestBody Integer id, Integer quantidade, Integer total, Integer categoria) {
-		       List<ProductPromotion> promotios = productPromotionRepository.findAll();
-		       List<ProductPromotion> productPromotion = new ArrayList<ProductPromotion>();
-
-		       Product product = productService.findById(id);
-		       productPromotion.addAll(product.getProductPromotions());
-		       int new = productPromotion.size();
-         
-         ...
-         
-         return new ResponseEntity<>(desconto, HttpStatus.OK);     
+   def ouvir_microfone():
+    microfone = SpeechRecognition.Recognizer()
+    with SpeechRecognition.Microphone() as source:
+        microfone.adjust_for_ambient_noise(source)
+        audio = microfone.listen(source)
+        try:
+            frase = microfone.recognize_google(audio, language='pt-BR')
+            return frase
+        except SpeechRecognition.UnknownValueError:
+            return "Não entendi!"   
+	    
    ```
-   
-   Consumido na camada controller através de um método com uma anotação HTTP, no caso dessa
-   requisição foi utilizado o verbo Post. 
      
-   O algoritmo mostrado é responsável por receber os parâmetros vindos do front end, esses parâmetros são filtrados por 
-   algumas condições, verificando o melhor valor de retorno para uma 
-   determinado produto que esteja em uma promoção, esse retorno é devolvido para camada controller que por sua vez devolve 
-   o resultado para a interface.
-
+O algoritmo mostrado define uma função chamada "ouvir_microfone()", que utiliza a biblioteca SpeechRecognition para transcrever o que é dito em um microfone para texto.
+O primeiro passo é criar uma instância do objeto Recognizer() da biblioteca SpeechRecognition. Em seguida, a função entra em um bloco "with" para configurar e usar o microfone como fonte de entrada de áudio.
+Dentro do bloco "with", o método "adjust_for_ambient_noise()" é chamado para ajustar automaticamente o nível de ruído de fundo para melhorar a precisão da transcrição.
+Em seguida, o método "listen()" é chamado para gravar o áudio da fonte (microfone) e armazená-lo na variável "audio".
+Depois disso, a função tenta transcrever o áudio em texto usando a API do Google Speech Recognition (recognize_google), especificando a linguagem de entrada como "pt-BR" (português do Brasil).
+Se a transcrição for bem-sucedida, o texto é armazenado na variável "frase" e retornado pela função. Caso contrário, se o reconhecimento de fala falhar ou não for compreendido, a função retornará a mensagem "Não entendi!".
 
 <details close></summary></summary>
 
