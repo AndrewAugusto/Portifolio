@@ -1,17 +1,33 @@
-# Andrew Santos
+# Andrew Augusto Dias Santos
 
 ## Introdução
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-##### *Figura 00. Andrew*
+Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/Products com o SAP Business One, anteriormente trabalhei como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre em busca de novos desafios e oportunidades para me desenvolver.
+<br>
+<br>
 
-Olá, Sou Andrew Augusto, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/Products com o SAP Business One, anteriormente trabalhei como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre em busca de novos desafios e oportunidades para me desenvolver.
+## Meus principais conhecimentos
 
-#### Projetos Integradores durante a graduação 
-Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de API "Aprendizagem por Processos Integrados". Um projeto integrador tem o objetivo de solucionar um problema do mundo real.<br/>
+### JavaScript  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" /> 
+Meu primeiro contato foi no meu período de estágio, desde aquele momento passei a ama-lá, foi uma das minhas principais linguagens de trabalho e realização de projetos pessoais, realizava desenvolvimento de Serviços em NodeJS, Integração de sistemas e foi uma via para aprender padrões de desenvolvimento.  
 
-# Projeto 1: Assistente Virtual
+### Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30" /> 
+Foi a primeira linguagem de programação que tive contato para estudo, foi a base na minha graduação, em um primeiro momento minha fonte inicial da minha curiosidade para descobrir o mundo do desenvolvimento.
+<br>
+<br>
+
+## Projetos Integradores durante a graduação 
+Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de API "Aprendizagem por Processos Integrados". Um projeto integrador tem o objetivo de solucionar um problema do mundo real.
+<br>
+<br>
+
+<details>
+  
+<summary>Projeto 1</summary>
+
+# Assistente Virtual - Ibet
 
 ### Projeto Semestral Proposto pela Instituição Fatec
 <br/>
@@ -161,6 +177,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 - **Gestão de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
 - **Gerenciamento de projetos**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
 
+</details>
+
+<details>
+  
+<summary>Projeto 2</summary>
 
 # Projeto 2: SGBD (Sistema de Gerenciamento de Banco de Dados)
 
@@ -303,7 +324,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 - **Gestão de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
 - **Gerenciamento de projetos**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
 
+</details>
 
+<details>
+  
+<summary>Projeto 3</summary>
 
 # Projeto 3: Aplicação Web com Motor de Regra de Promoções
 
@@ -446,7 +471,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 - **Gestão de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
 - **Gerenciamento de projetos**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
 
+</details>
 
+<details>
+  
+<summary>Projeto 4</summary>
 
 # Projeto 4: Aplicação Web (Sistema de abertura de chamados de suporte com níveis diferentes de acesso)
 
@@ -589,7 +618,7 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 - **Gestão de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
 - **Gerenciamento de projetos**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
 
-
+</details>
 
 ## Contatos
 * [GitHub](https://github.com/AndrewAugusto)
