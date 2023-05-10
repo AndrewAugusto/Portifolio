@@ -2,20 +2,11 @@
 
 ## Introdução
 
-Olá, Sou Andrew, estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal.
-
-Tenho 23 anos e trabalho como Analista Desenvolvedor na São José dos Campos.
-
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
 ##### *Figura 00. Andrew*
 
-## Principais Conhecimentos
-
- - [x]  Python
- - [x]  Java
- - [x]  SQLite
- - [x]  Angular
+Olá, Sou Andrew Augusto, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/Products com o SAP Business One, anteriormente trabalhei como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre em busca de novos desafios e oportunidades para me desenvolver.
 
 #### Projetos Integradores durante a graduação 
 Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de API "Aprendizagem por Processos Integrados". Um projeto integrador tem o objetivo de solucionar um problema do mundo real.<br/>
