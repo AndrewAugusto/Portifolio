@@ -39,8 +39,6 @@ problema do mundo real.
 
 # Assistente Virtual - Ibet
 
-### Projeto Semestral Proposto pela Instituição Fatec
-
 <br>
 
 ![image](https://user-images.githubusercontent.com/80988756/218878798-d33629bc-acf9-4edb-b463-b14fd8a90404.png)
@@ -210,7 +208,7 @@ desenvolvimento do projeto.
 	Mais Detalhes do Projeto II
 </summary>
 
-# Projeto 2: SGBD (Sistema de Gerenciamento de Banco de Dados)
+# SGBD (Sistema de Gerenciamento de Banco de Dados)
 
 ### Parceiro Acadêmico
 	
@@ -361,7 +359,7 @@ desenvolvimento do projeto.
 	 Mais Detalhes do Projeto III
 </summary>
 
-# Projeto 3: Aplicação Web com Motor de Regra de Promoções
+# Motor de Regra de Promoções
 
 ### Parceiro Acadêmico
 
@@ -505,7 +503,7 @@ desenvolvimento do projeto.
 	Mais Detalhes do Projeto IV
 </summary>
 
-# Projeto 4: Aplicação Web (Sistema de abertura de chamados de suporte com níveis diferentes de acesso)
+# Sistema de abertura de chamados de suporte com níveis diferentes de acesso
 
 ### Parceiro Acadêmico
 	
