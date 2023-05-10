@@ -23,9 +23,11 @@ Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados d
 <br>
 <br>
 
+## Projeto I
+
 <details>
   
-<summary>Projeto 1</summary>
+<summary>Mais Detalhes</summary>
 
 # Assistente Virtual - Ibet
 
@@ -99,8 +101,8 @@ Se a transcrição for bem-sucedida, o texto é armazenado na variável "frase" 
 
 Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 - O link acima traz detalhes da implementação da classe de serviço responsável por todos os métodos da promoção
+	
 </details>
-
 
 </details>   
 
@@ -140,8 +142,8 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 
 Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes :)
 -O link acima traz detalhes da implementação do método responsável por enviar a requisição para back-end. 
-</details>
 
+</details>
 
 </details> 
 
@@ -179,9 +181,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 
 </details>
 
+## Projeto II
+
 <details>
   
-<summary>Projeto 2</summary>
+<summary>Mais Detalhes</summary>
 
 # Projeto 2: SGBD (Sistema de Gerenciamento de Banco de Dados)
 
@@ -246,8 +250,8 @@ no carrinho de compras
 
 Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 - O link acima traz detalhes da implementação da classe de serviço responsável por todos os métodos da promoção
-</details>
 
+</details>
 
 </details>   
 
@@ -255,9 +259,7 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 
  <details open><summary>Informações código Front-End</summary>
   
-  
    1. Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
-   
      
    ```js
    
@@ -281,14 +283,12 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
    - Esse método é responsável por passar os parâmetros para o back-end, processar a informação e direcionar o retorno para a camada de visualização do usuário,
   sendo um trecho importante pois enviar dados, processa o retorno e já devolve os resultados para usuário.
 
-     
-
 <details close></summary></summary>
 
 Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes :)
 -O link acima traz detalhes da implementação do método responsável por enviar a requisição para back-end. 
-</details>
 
+</details>
 
 </details> 
 
@@ -326,9 +326,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 
 </details>
 
+## Projeto III
+
 <details>
   
-<summary>Projeto 3</summary>
+<summary>Mais Detalhes</summary>
 
 # Projeto 3: Aplicação Web com Motor de Regra de Promoções
 
@@ -426,16 +428,14 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
          return new ResponseEntity<>(desconto, HttpStatus.OK);     
    ```
    - Esse método é responsável por passar os parâmetros para o back-end, processar a informação e direcionar o retorno para a camada de visualização do usuário,
-  sendo um trecho importante pois enviar dados, processa o retorno e já devolve os resultados para usuário.
-
-     
+  sendo um trecho importante pois enviar dados, processa o retorno e já devolve os resultados para usuário. 
 
 <details close></summary></summary>
 
 Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes :)
 -O link acima traz detalhes da implementação do método responsável por enviar a requisição para back-end. 
-</details>
 
+</details>
 
 </details> 
 
@@ -473,9 +473,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 
 </details>
 
+## Projeto IV
+
 <details>
   
-<summary>Projeto 4</summary>
+<summary>Mais Detalhes</summary>
 
 # Projeto 4: Aplicação Web (Sistema de abertura de chamados de suporte com níveis diferentes de acesso)
 
@@ -619,6 +621,7 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 - **Gerenciamento de projetos**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o desenvolvimento do projeto.
 
 </details>
+<br>
 
 ## Contatos
 * [GitHub](https://github.com/AndrewAugusto)
