@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-   Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/Products com o SAP Business One, anteriormente trabalhei 
+   Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/New Products com o SAP Business One, anteriormente trabalhei 
 como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar 
 a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre 
 em busca de novos desafios e oportunidades para me desenvolver.
@@ -102,8 +102,7 @@ acionada somente quando chamada.
 	    
    ```
      
-   O algoritmo mostrado define uma função chamada "ouvir_microfone()", que utiliza a biblioteca SpeechRecognition para transcrever o que é dito em um microfone para texto.
-O primeiro passo é criar uma instância do objeto Recognizer() da biblioteca SpeechRecognition. Em seguida, a função entra em um bloco "with" para configurar e usar o microfone como fonte de 
+   O primeiro passo é criar uma instância do objeto Recognizer() da biblioteca SpeechRecognition. Em seguida, a função entra em um bloco "with" para configurar e usar o microfone como fonte de 
 entrada de áudio.
 Dentro do bloco "with", o método "adjust_for_ambient_noise()" é chamado para ajustar automaticamente o nível de ruído de fundo para melhorar a precisão da transcrição.
 Em seguida, o método "listen()" é chamado para gravar o áudio da fonte (microfone) e armazená-lo na variável "audio".
@@ -114,15 +113,15 @@ retornará a mensagem "Não entendi!".
 
 <details close></summary></summary>
 
-Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
+Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes. 
 	
-- O link acima traz detalhes da implementação da classe de serviço responsável por todos os métodos da promoção
+- O link acima traz detalhes da implementação da classe de serviço responsável por reconhecimento de voz.
 	
 </details>
 
 </details>   
 
-- Participei de forma efetiva da integração do Front-End com Back-End, criando alguns métodos e realizando testes para validação das requisições.
+   Por ser uma assistente foi levado em consideração a necessidade de ser executada em segundo plano e ativa assim que chamada, evitando ao máximo a interação fisica (Entrada de informações via teclado ou mouse) do usuário com a aplicação.
 
  <details open><summary>Informações código Front-End</summary>
   
