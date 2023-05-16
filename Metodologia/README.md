@@ -212,25 +212,24 @@ desenvolvimento do projeto.
 ### Parceiro Acadêmico
 	
 <br/>
+	
+<img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" alt="440" width="300"/>
 
-![image](https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png)
+##### *Figura 01. Logo Necto System Fonte(www.necto.com.br)*
 
-##### *Figura 01. Logo MidAll Fonte(www.midall.com.br)*
-
-A empresa MidAll situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
+A empresa Necto System situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
 
 ### Visão do Projeto
 
-   A empresa parceira MidAll tem um problema para criação de promoções em E-commerce. A ideia foi criar um motor de regras com uma interface onde as regras das promoções possam ser 
-cadastradas.
+   Desenvolvido uma integração para coleta de informações do servidor para geração de série histórica. A ideia foi desenvolver uma aplicação para coletar métricas periodicamente de um ou mais Sistemas Gerenciadores de Banco de Dados remoto. Através desta ferramenta o usuário terá informações para tomar decisões quanto a necessidade de manutenções, balanceamento e aumento de capacidade e melhoria no seus SGBDs, databases e na sua infra (Servidores).
 
-Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
+Link do repositório do projeto: https://github.com/apibanco/Vigilant
 
 ### Tecnologias adotadas na solução
 
 * **Back-end:** Java e Spring-Boot
 * **Front-end:** Angular, CSS, Bootstrap
-* **Banco de Dados:** SQLite
+* **Banco de Dados:** Po
 
 ## Contribuições Pessoais
 
