@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-   Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/New Products com o SAP Business One, anteriormente trabalhei 
+   Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Desenvolvedor Full Stack (Com foco em Node e React) com o SAP Business One, anteriormente trabalhei 
 como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar 
 a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre 
 em busca de novos desafios e oportunidades para me desenvolver.
