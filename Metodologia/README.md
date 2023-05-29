@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="200" width="200"/>
+<img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
    Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Consultor/New Products com o SAP Business One, anteriormente trabalhei 
 como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar 
