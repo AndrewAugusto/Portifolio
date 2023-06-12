@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-   Olá, Sou Andrew Santos, tenho 23 anos, atualmente estou concluindo minha graduação em Banco de Dados, trabalho como Desenvolvedor Full Stack (Com foco em Node e React) com o SAP Business One, anteriormente trabalhei 
+   Olá, Sou Andrew Santos, tenho 23 anos, atualmente concluindo graduação em Banco de Dados, trabalho como Desenvolvedor Full Stack (Com foco em Node e React) com o SAP Business One, anteriormente trabalhei 
 como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar 
 a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre 
 em busca de novos desafios e oportunidades para me desenvolver.
@@ -13,13 +13,8 @@ em busca de novos desafios e oportunidades para me desenvolver.
 
 ## Meus principais conhecimentos
 
-### JavaScript  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" /> 
-   Meu primeiro contato com a ferramenta foi no período de estágio, desde o momento que realizei a primeira integração passei a ama-lá, foi uma das minhas principais linguagens de trabalho 
-e projetos particulares, realizava desenvolvimento de Serviços em NodeJS, Integração de sistemas e foi uma via para aprender padrões de desenvolvimento.  
-
+### JavaScript  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" />   
 ### Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30" /> 
-   Foi a primeira linguagem de programação que tive contato para estudo, foi a base na minha graduação, em um primeiro momento minha fonte inicial da minha curiosidade para descobrir o 
-mundo do desenvolvimento.
 
 <br>
 
