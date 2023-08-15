@@ -327,7 +327,7 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 
 </details>
 
-</details> 
+ 
 
 ## Aprendizados Efetivos
 
@@ -336,6 +336,8 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 * Minha contribuição desempenhou um papel fundamental no desenvolvimento da aplicação, uma vez que pude criar consultas e rotinas que viabilizaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do próprio banco de dados. Essas métricas forneceram insights inestimáveis aos usuários, permitindo-lhes uma compreensão mais completa da situação e da evolução do sistema, além de respaldar decisões informadas com base nesses dados.
 * Ao longo desse processo, aprofundei minha compreensão dos princípios fundamentais que regem um SGBD e a importância de estruturar e organizar os dados de maneira adequada para facilitar operações futuras. A experiência também me mostrou a relevância de otimizar consultas e operações de banco de dados, contribuindo para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
 * Como resultado, minha atuação no projeto não apenas se limitou à coleta e manipulação de dados, mas também envolveu a criação de um ambiente de banco de dados resiliente e otimizado. Esse aspecto desempenhou um papel essencial no sucesso da aplicação como um todo. A experiência adquirida nesse processo me concedeu um conhecimento profundo e uma base sólida para futuros empreendimentos que envolvam a gestão de dados e o uso de SGBDs.
+
+</details>
   
 </details>
 
