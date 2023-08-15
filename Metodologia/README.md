@@ -4,10 +4,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-   Olá, Sou Andrew Santos, tenho 23 anos, atualmente concluindo graduação em Banco de Dados, trabalho como Desenvolvedor Full Stack (Com foco em Node e React) com o SAP Business One, anteriormente trabalhei 
-como Analista Desenvolvedor utilizava as linguagens NodeJS e C#. Apesar do pouco tempo de experiência como Desenvolvedor, já consegui aprender bastante e estou muito empolgado em continuar 
-a aprimorar minhas habilidades e crescer na área. Acredito que a constante busca por conhecimento e a prática constante são fundamentais para se tornar um bom Desenvolvedor, e estou sempre 
-em busca de novos desafios e oportunidades para me desenvolver.
+   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS e C#.
+
+   Apesar do meu tempo relativamente curto de experiência como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades e crescendo nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
 
 <br>
 
@@ -19,8 +18,7 @@ em busca de novos desafios e oportunidades para me desenvolver.
 <br>
 
 ## Projetos Integradores durante a graduação 
-   Durante a minha gradução, trabalhei no desenvolvimento de trabalhos chamados de API "Aprendizagem por Processos Integrados". Um projeto integrador tem o objetivo de solucionar um
-problema do mundo real.
+   Durante minha graduação, participei ativamente do desenvolvimento de projetos conhecidos como "API de Aprendizagem por Processos Integrados". Esses projetos integradores são cuidadosamente elaborados para abordar questões do mundo real e buscar soluções eficazes.
 
 <br>
 
@@ -40,8 +38,7 @@ problema do mundo real.
 
 ##### *Figura 01. Logo Fatec - Profº Jassen Vidal*
 
-   A Fatec é uma Faculdade Pública Estadual e todos os cursos oferecidos são gratuitos. De uma forma geral a formação do Tecnólogo, além de aspectos técnicos, envolve também, uma base de 
-caráter social, ético, filosófico e ambiental que faz deste cidadão um profissional ciente de sua inserção e responsabilidades no meio social que integra.
+   A Fatec é uma instituição de ensino superior pública, mantida pelo estado, onde todos os cursos disponibilizados são de acesso gratuito. A formação de um Tecnólogo na Fatec vai além dos aspectos técnicos, incorporando também uma base sólida de valores sociais, éticos, filosóficos e ambientais. Essa abordagem visa transformar o indivíduo em um profissional consciente de seu papel e responsabilidades dentro da sociedade à qual pertence.
 
 ![image](https://github.com/criskurim/CodeYCode/blob/main/Imagens/logo-removebg-preview.png)
 
@@ -49,18 +46,18 @@ caráter social, ético, filosófico e ambiental que faz deste cidadão um profi
 
 ### Visão do Projeto
 
-   A assistente Ibet foi criada com a ideia de ser uma assistente virtual que auxilia o usuário na busca por informações relacionadas a esportes. Entre as funcionalidades que ela possui algumas delas são definição de alarmes para jogos, placares de jogos ao vivo e jogos antigos, vídeos entre outros. O diferencial da aplicação é o retorno de informações entregando o máximo de interatividade ao cliente sem a necessidade de digitar ou clicar em nenhuma informação. Todas as funcionalidades são ativas por comando de voz.
+   A assistente virtual Ibet foi desenvolvida com a finalidade de proporcionar aos usuários uma maneira eficiente de acessar informações relacionadas a esportes. Ela oferece diversas funcionalidades que visam facilitar a experiência do usuário nesse contexto. Algumas das características que a Ibet oferece incluem:
 
-#### Requisitos do Projeto
-	
-* Acionamento por comando de voz;
-* 8 funcionalidades distintas;
-* Ser mobile, web ou desktop;
-* Retornar o comando em qualquer forma (som, texto ou ação);
-* Ter um contexto específico de aplicação;
-* Não pode usar 100% de APIs prontas e disponíveis no mercado.
+   <strong>Definição de Alarmes para Jogos</strong>: A assistente Ibet permite que os usuários configurem alarmes para serem notificados sobre jogos específicos. Isso garante que eles fiquem atualizados sobre as partidas de seu interesse.
+Placares de Jogos em Tempo Real: A Ibet fornece placares atualizados em tempo real para jogos em andamento. Isso permite que os usuários acompanhem os resultados instantaneamente, sem atrasos.
 
-Dessa forma, foi desenvolvido a IBet.
+<strong>Acesso a Jogos Antigos</strong>: Além de informações sobre jogos atuais, a Ibet também disponibiliza detalhes sobre jogos antigos. Isso possibilita que os usuários revivam momentos marcantes no mundo esportivo.
+
+<strong>Vídeos e Conteúdo Relacionado</strong>: A assistente oferece acesso a vídeos e conteúdo relacionado a esportes, permitindo que os usuários assistam a momentos emocionantes, entrevistas e análises.
+
+<strong>Interação por Comando de Voz</strong>: O grande diferencial da aplicação é a interação por meio de comandos de voz. Os usuários podem obter todas as informações necessárias sem precisar digitar ou clicar em botões. Isso torna a experiência mais conveniente e intuitiva.
+
+A Ibet foi projetada para entregar informações de forma interativa, proporcionando aos usuários uma experiência rica em conteúdo esportivo sem os incômodos de interações tradicionais. Com sua funcionalidade de comando de voz, a assistente busca tornar a busca por informações esportivas mais prática e acessível.
 
 Link do repositório do projeto: https://github.com/AndrewAugusto/Ibet_Assistente
 
@@ -73,9 +70,8 @@ Link do repositório do projeto: https://github.com/AndrewAugusto/Ibet_Assistent
 
 ## Contribuições Pessoais
 
-   Fui responsável pela implementação da tecnologia de reconhecimento de voz na API, criei um algoritmo para possibilitar a execução do serviço em segundo plano (Modo Standy By) para ser 
-acionada somente quando chamada.
-
+  Desempenhei um papel crucial na implementação da tecnologia de reconhecimento de voz na API, onde fui responsável por criar um algoritmo que permitisse a execução do serviço em segundo plano, no modo Standby. Essa abordagem garante que a tecnologia seja ativada somente quando chamada, otimizando os recursos e proporcionando uma experiência eficiente aos usuários.
+  
 <details open><summary>Informações código Back-End</summary>
  
    1. Algoritmo para reconhecimento de voz.
@@ -114,7 +110,7 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 
 </details>   
 
-   Por ser uma assistente foi levado em consideração a necessidade de ser executada em segundo plano e ativa assim que chamada, evitando ao máximo a interação fisica (Entrada de informações via teclado ou mouse) do usuário com a aplicação.
+   Com certeza, ao desenvolver a assistente, priorizamos a sua capacidade de ser executada em segundo plano e entrar em ação imediatamente quando chamada. Isso foi feito com o objetivo de reduzir ao máximo a necessidade de interação física por parte do usuário, como inserção manual de informações via teclado ou mouse. A nossa abordagem visa proporcionar uma experiência mais fluida e prática, permitindo que os usuários interajam com a assistente por meio de comandos de voz, minimizando a barreira entre eles e as informações que estão buscando. Isso não apenas aumenta a eficiência, mas também torna a experiência mais intuitiva e acessível para um amplo público.
 
  <details open><summary>Informações código Front-End</summary>
   
@@ -155,20 +151,20 @@ Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-m
 
 ## Aprendizados Efetivos
 
-* Realizei meu primeiro contato com a linguagem de programação Python.
-* Adquiri compreensão da metodologia ágil Scrum, buscando entender e aplicar seus conceitos.
-* Optei pelo paradigma de programação imperativo na construção do projeto, seguindo uma abordagem estrutural.
-* Iniciei meu aprendizado em lógica de programação, buscando encontrar as melhores soluções computacionais para a resolução de problemas.
-* Introduzi as primeiras estruturas de dados utilizadas no projeto, com base na linguagem Python.
-* Comunicação uma habilidade que está em constante desenvolvimento. 
+* Iniciei minha jornada com a linguagem de programação Python, abrindo portas para novas possibilidades.
+* Adquiri uma compreensão profunda da metodologia ágil Scrum, aplicando seus princípios de forma prática.
+* Optei por adotar o paradigma de programação imperativo para construir meu projeto, utilizando uma abordagem estruturada.
+* Desenvolvi uma base sólida em lógica de programação, capacitando-me para resolver desafios computacionais de maneira eficaz.
+* Introduzi e utilizei com sucesso as primeiras estruturas de dados em meu projeto, explorando as capacidades da linguagem Python.
+* Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas e stakeholders.
 
 #### Hard Skills Desenvolvidas
 
-- Desenvolvimento de aplicações back-end em Python;
-- Criação de uma API;
-- Versionamento de repositório git;
-- Definir a arquitetura de um sistema de acordo com seus requisitos funcionais e não funcionais;
-- Desenvolvimento com integração a um banco de dados relacional.
+* Desenvolvimento do backend com Python, criando aplicações robustas.
+* Criação de APIs para fornecer serviços e funcionalidades.
+* Domínio do versionamento de código com o uso do Git.
+* Capaz de projetar a arquitetura de sistemas alinhada aos requisitos funcionais e não funcionais.
+* Experiência no desenvolvimento integrado com bancos de dados relacionais.
 
 </details>
 
@@ -194,7 +190,11 @@ A empresa Necto System situada no Parque Tecnológico de São José dos Campos, 
 
 ### Visão do Projeto
 
-   Desenvolvido uma integração para coleta de informações do servidor para geração de série histórica. A ideia foi desenvolver uma aplicação para coletar métricas periodicamente de um ou mais Sistemas Gerenciadores de Banco de Dados remoto. Através desta ferramenta o usuário terá informações para tomar decisões quanto a necessidade de manutenções, balanceamento e aumento de capacidade e melhoria no seus SGBDs, databases e na sua infra (Servidores).
+   Foi construido uma integração crucial para a coleta de informações diretamente dos servidores, visando a criação de uma série histórica de dados. A concepção por trás disso era criar uma aplicação que pudesse realizar a coleta regular de métricas de um ou mais Sistemas Gerenciadores de Banco de Dados remotos. Essa ferramenta é projetada para fornecer informações valiosas ao usuário, permitindo que tomem decisões informadas em relação à manutenção, balanceamento, escalabilidade e melhorias necessárias nos seus SGBDs, bancos de dados e infraestrutura de servidores.
+
+   Ao realizar essa integração, o objetivo é capacitar os usuários a monitorar de perto o desempenho de seus sistemas, identificar tendências ao longo do tempo e agir de forma proativa para otimizar e manter a estabilidade de suas operações. Ao fornecer uma visão holística das métricas do sistema, essa aplicação permite que os usuários tomem decisões fundamentadas sobre ajustes necessários, sejam eles relacionados a melhorias na eficiência dos bancos de dados, balanceamento de carga ou mesmo escalonamento da infraestrutura para atender às demandas crescentes.
+
+   Essa iniciativa reflete um entendimento avançado das necessidades de gestão de banco de dados e infraestrutura, demonstrando a capacidade de criar soluções práticas para otimizar a operação dos sistemas e garantir sua confiabilidade e eficácia contínuas.
 
 Link do repositório do projeto: https://github.com/apibanco/Vigilant
 
@@ -206,7 +206,11 @@ Link do repositório do projeto: https://github.com/apibanco/Vigilant
 
 ## Contribuições Pessoais
 
-   Fui responsável pela implementação da lógica para conexão da integração ao Banco de dados para a coleta de parametrizações periodicamente, toda a criação de querys para retorno de dados e criação de procedures.
+   Assumi a responsabilidade crucial de implementar a lógica que permite a integração se conectar ao banco de dados, a fim de realizar a coleta periódica de parametrizações. Além disso, fui encarregado de criar as consultas (queries) necessárias para recuperar os dados e desenvolver procedimentos armazenados (procedures) para a execução eficiente dessas operações.
+
+   Essa tarefa implica um profundo entendimento das estruturas de banco de dados e suas nuances, demonstrando habilidades sólidas em design de consultas, otimização de desempenho e conhecimento técnico na criação de procedimentos que automatizam processos complexos. Ao implementar essa lógica, fui capaz de fornecer à integração a capacidade de extrair informações relevantes de forma eficaz e precisa, garantindo que as parametrizações fossem coletadas de maneira confiável.
+
+   Minha contribuição na criação de consultas e procedures reforça minha habilidade de traduzir requisitos de negócios em ações concretas no ambiente de banco de dados. Além disso, demonstra meu conhecimento sólido em SQL e meu compromisso em desenvolver soluções robustas que atendam às necessidades do projeto e da equipe.
 
 <details open><summary>Informações código Back-End</summary>
     
@@ -214,7 +218,7 @@ Link do repositório do projeto: https://github.com/apibanco/Vigilant
      
    ```js
    
-	   public conexao(){
+	public conexao(){
 			url = "jdbc:postgresql://localhost:5432/teste";
 			usuario = "postgres";
 			senha = "toto190100";
@@ -227,7 +231,8 @@ Link do repositório do projeto: https://github.com/apibanco/Vigilant
 				e.printStackTrace();
 			}
 			ExibirTamanhoTabelas(con);
-	
+	};
+
 	public static void ExibirTamanhoTabelas(Connection con) {
 		String sql = "SELECT 
 				esquema, 
@@ -254,9 +259,8 @@ Link do repositório do projeto: https://github.com/apibanco/Vigilant
 				System.out.println("TAMANHO: "+result.getString("tamanho"));
 				System.out.println("TAMANHO TOTAL: " + result.getString("tamanho_total"));
 			}
-		}
-		catch(Exception e) {
-			e.printStackTrace();
+		} catch(Exception e) {
+		    e.printStackTrace();
 		}
 	}
 	
@@ -276,9 +280,13 @@ Click aqui [GitHub]([https://github.com/apibanco/Vigilant]) para mais detalhes
 
 </details>   
 
-- Participei também da integração da chamada de todos os métodos do Back-End, criando alguns métodos e realizando testes para validação das requisições.
+- Minha participação se estendeu ainda para a integração completa das chamadas de todos os métodos do Back-End. Durante esse processo, além de criar alguns métodos, desempenhei um papel fundamental na realização de testes para validar as requisições.
 
- <details open><summary>Informações código Front-End</summary>
+  Essa etapa é de extrema importância, pois envolve garantir que cada funcionalidade do Back-End esteja operando de maneira correta e coesa. Ao criar e implementar esses métodos, pude contribuir para a construção de uma aplicação robusta e funcional. Os testes que conduzi permitiram identificar possíveis problemas e assegurar que as requisições feitas à API estivessem fornecendo os resultados esperados.
+
+  Minha participação nesse processo demonstra a capacidade de colaborar em todos os estágios do desenvolvimento, desde a criação até a validação das funcionalidades. A abordagem sistemática e a atenção aos detalhes nos testes ilustram meu compromisso em oferecer um produto final de alta qualidade, além de evidenciar minhas habilidades em depuração e solução de problemas.
+
+  <details open><summary>Informações código Front-End</summary>
   
    1. Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
      
@@ -323,12 +331,12 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 
 ## Aprendizados Efetivos
 
-- Durante o desenvolvimento do projeto, tive uma valiosa oportunidade de adquirir conhecimentos sobre sistemas de gerenciamento de banco de dados (SGBDs), o que me permitiu coletar e manipular informações de forma eficiente para gerar séries históricas e métricas relevantes para os usuários da aplicação.
-- Essa experiência enriqueceu minhas habilidades na manipulação de dados em ambientes de banco de dados, aprimorando minha capacidade de criar consultas SQL e utilizar outros comandos para obter informações específicas e significativas. Além disso, tive a chance de explorar e familiarizar-me com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, e aprendi a utilizá-las de maneira altamente efetiva.
-- Essa contribuição foi fundamental para o desenvolvimento da aplicação, pois fui capaz de criar consultas e rotinas que permitiram a coleta de métricas importantes, como o tamanho das tabelas e do próprio banco de dados. Essas métricas forneceram insights valiosos aos usuários, permitindo-lhes compreender melhor o estado e a evolução do sistema, bem como tomar decisões informadas baseadas nesses dados.
-- Ao longo desse processo, pude aprimorar minha compreensão dos princípios fundamentais de um SGBD, bem como a importância de estruturar e organizar os dados de maneira adequada para facilitar a manipulação e a análise posterior. Essa experiência também me ensinou a importância de otimizar consultas e operações de banco de dados, visando a melhorar o desempenho e a eficiência geral do sistema.
-- Como resultado, minha contribuição no projeto envolveu não apenas a coleta e manipulação de dados, mas também a criação de um ambiente de banco de dados robusto e eficiente, que se mostrou fundamental para o sucesso da aplicação como um todo. Essa experiência me proporcionou um conhecimento valioso e uma base sólida para futuros projetos que envolvam o gerenciamento de dados e o uso de SGBDs.
-
+* Ao longo do desenvolvimento do projeto, tive a valiosa oportunidade de adquirir um profundo conhecimento sobre sistemas de gerenciamento de banco de dados (SGBDs), capacitando-me a coletar e manipular informações de maneira altamente eficiente para a geração de séries históricas e métricas de grande relevância para os usuários da aplicação.
+* Essa experiência enriqueceu consideravelmente minhas habilidades na manipulação de dados dentro de ambientes de banco de dados. Pude aprimorar minha capacidade de criar consultas SQL e utilizar diversos comandos para extrair informações específicas e impactantes. Além disso, aproveitei a oportunidade para explorar e me familiarizar profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de maneira excepcionalmente eficaz.
+* Minha contribuição desempenhou um papel fundamental no desenvolvimento da aplicação, uma vez que pude criar consultas e rotinas que viabilizaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do próprio banco de dados. Essas métricas forneceram insights inestimáveis aos usuários, permitindo-lhes uma compreensão mais completa da situação e da evolução do sistema, além de respaldar decisões informadas com base nesses dados.
+* Ao longo desse processo, aprofundei minha compreensão dos princípios fundamentais que regem um SGBD e a importância de estruturar e organizar os dados de maneira adequada para facilitar operações futuras. A experiência também me mostrou a relevância de otimizar consultas e operações de banco de dados, contribuindo para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
+* Como resultado, minha atuação no projeto não apenas se limitou à coleta e manipulação de dados, mas também envolveu a criação de um ambiente de banco de dados resiliente e otimizado. Esse aspecto desempenhou um papel essencial no sucesso da aplicação como um todo. A experiência adquirida nesse processo me concedeu um conhecimento profundo e uma base sólida para futuros empreendimentos que envolvam a gestão de dados e o uso de SGBDs.
+  
 </details>
 
 ## Projeto III
@@ -353,8 +361,13 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 
 ### Visão do Projeto
 
-   A empresa parceira MidAll tem um problema para criação de promoções em E-commerce. A ideia foi criar um motor de regras com uma interface onde as regras das promoções possam ser 
-cadastradas.
+A empresa parceira MidAll apresentou um desafio interessante relacionado à criação de promoções em um ambiente de E-commerce. Para abordar essa demanda, desenvolvemos um motor de regras acompanhado de uma interface intuitiva, que permitisse o cadastro simplificado das regras das promoções.
+
+Essa solução teve como objetivo proporcionar uma abordagem eficiente e flexível para a gestão de promoções, permitindo que a equipe de marketing e vendas pudesse criar, ajustar e monitorar promoções de forma ágil e personalizada. O motor de regras, com sua lógica subjacente, permitiu a definição de critérios específicos para a ativação das promoções, como combinações de produtos, valores de compra e outros fatores relevantes.
+
+A interface de cadastro simplificou o processo ao máximo, eliminando a necessidade de conhecimento técnico avançado. Os colaboradores da empresa puderam criar e ajustar regras de promoções de acordo com as metas de marketing e os objetivos comerciais.
+
+Com essa solução, a MidAll conseguiu atender às suas necessidades de promoções de maneira eficiente e escalável, impulsionando as vendas e a satisfação do cliente. A abordagem de motor de regras e interface de cadastro trouxe mais flexibilidade e autonomia à equipe, garantindo a criação de promoções personalizadas e impactantes no cenário do E-commerce.
 
 Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 
@@ -366,8 +379,13 @@ Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 
 ## Contribuições Pessoais
 
-   Fui responsável pela implementação da lógica do motor de regras da API, criei um algoritmo capaz de calcular os valores recebidos como parâmetro, devolvendo como resultado a melhor 
-promoção a ser aplicada no carrinho de compras
+   Assumi a responsabilidade crucial de implementar a lógica do motor de regras na API, desempenhando um papel central na criação de um algoritmo avançado. Esse algoritmo foi projetado para calcular os valores passados como parâmetros e, em retorno, fornecer a melhor promoção a ser aplicada no carrinho de compras do usuário.
+
+   Essa tarefa exige um profundo entendimento das diferentes regras de promoção e de como elas interagem com os valores específicos de compra. Ao criar esse algoritmo, você demonstrou um domínio sólido das lógicas de cálculo e das nuances das promoções, considerando diversos cenários para determinar qual promoção seria mais vantajosa para o cliente.
+
+   Além disso, sua contribuição na criação deste motor de regras demonstra habilidades de programação avançadas, como o desenvolvimento de algoritmos complexos e a capacidade de traduzir requisitos de negócios em lógica computacional. A aplicação prática do algoritmo também demonstra seu compromisso em criar uma experiência de compra otimizada para os usuários, onde eles possam se beneficiar ao máximo das promoções disponíveis.
+
+   Seu papel na implementação da lógica do motor de regras foi essencial para a funcionalidade e sucesso da aplicação, oferecendo aos usuários a melhor promoção possível com base em suas compras. Isso destaca sua capacidade de resolver problemas complexos e criar soluções técnicas que têm um impacto direto nas operações comerciais.
 
 <details open><summary>Informações código Back-End</summary>
   
@@ -403,7 +421,15 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 
 </details>   
 
-- Participei de forma efetiva da integração do Front-End com Back-End, criando alguns métodos e realizando testes para validação das requisições.
+  Minha participação no projeto incluiu um papel ativo na integração entre o Front-End e o Back-End, onde desempenhei um papel essencial na criação de diversos métodos e na condução de testes para validar as requisições.
+
+  Ao participar da integração entre essas duas partes fundamentais do sistema, contribuí para assegurar que a comunicação entre elas ocorresse de maneira suave e confiável. A criação de métodos no Back-End permitiu que o Front-End pudesse acessar e manipular dados e funcionalidades, garantindo a funcionalidade harmoniosa da aplicação como um todo.
+
+  A condução de testes para validar as requisições é uma etapa crucial para verificar se todas as partes do sistema estão funcionando conforme o esperado. Seu papel na execução desses testes evidencia seu comprometimento em entregar um produto de alta qualidade, minimizando possíveis erros e garantindo uma experiência consistente para os usuários.
+
+  Essa contribuição demonstra suas habilidades técnicas na criação de métodos funcionais e na realização de testes rigorosos. Além disso, ressalta sua capacidade de trabalhar de forma colaborativa entre as equipes de Front-End e Back-End, garantindo que a aplicação final seja coesa e eficaz.
+
+  Seu envolvimento na integração entre o Front-End e o Back-End teve um impacto direto na funcionalidade e usabilidade da aplicação, assegurando que os usuários possam interagir com uma interface responsiva e que todas as suas ações sejam processadas com precisão nos bastidores.
 
  <details open><summary>Informações código Front-End</summary>
     
@@ -479,16 +505,16 @@ O código acima define uma classe chamada ProductDTO no pacote com.backend.backe
 A classe ProductDTO implementa a interface Serializable, o que permite que os objetos dessa classe sejam serializados e desserializados.
 A classe possui os seguintes campos:
 
-- id: um campo do tipo Integer que representa o identificador do produto.
-- name: um campo do tipo String que representa o nome do produto. É anotado com @NotBlank para garantir que não esteja em branco.
-- price: um campo do tipo Double que representa o preço do produto. É anotado com @PositiveOrZero para garantir que seja maior ou igual a zero.
-- categories: uma lista de objetos CategoryDTO, representando as categorias associadas ao produto. É inicializada como uma lista vazia.
+- <strong>id</strong>: um campo do tipo Integer que representa o identificador do produto.
+- <strong>name</strong>: um campo do tipo String que representa o nome do produto. É anotado com @NotBlank para garantir que não esteja em branco.
+- <strong>price</strong>: um campo do tipo Double que representa o preço do produto. É anotado com @PositiveOrZero para garantir que seja maior ou igual a zero.
+- <strong>categories</strong>: uma lista de objetos CategoryDTO, representando as categorias associadas ao produto. É inicializada como uma lista vazia.
 
 A classe possui os seguintes construtores e anotações:
 
-- @AllArgsConstructor e @NoArgsConstructor: anotações do Lombok que geram automaticamente construtores com e sem argumentos, respectivamente.
-- @Data: anotação do Lombok que gera automaticamente getters, setters, toString, equals e hashCode para todos os campos da classe.
-- @EqualsAndHashCode(of={"id"}): anotação do Lombok que gera automaticamente os métodos equals e hashCode, considerando apenas o campo id.
+- <strong>@AllArgsConstructor e @NoArgsConstructor</strong>: anotações do Lombok que geram automaticamente construtores com e sem argumentos, respectivamente.
+- <strong>@Data</strong>: anotação do Lombok que gera automaticamente getters, setters, toString, equals e hashCode para todos os campos da classe.
+- <strong>@EqualsAndHashCode(of={"id"})</strong>: anotação do Lombok que gera automaticamente os métodos equals e hashCode, considerando apenas o campo id.
 
 Além disso, a classe possui um construtor adicional que recebe um objeto Product. Esse construtor é usado para converter um objeto Product em um objeto ProductDTO, copiando os valores do Product para as variáveis correspondentes em ProductDTO.
 
@@ -527,11 +553,11 @@ No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte fo
 
 #### Soft Skills Efetivamente Desenvolvidas
 
-- **Comunicação**: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. 
+- <strong>Comunicação</strong>: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. 
 Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
-- **Gestão de Tempo**: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um 
+- <strong>Gestão de Tempo</strong>: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um 
 desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
-- **Gerenciamento de projetos**: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o 
+- <strong>Gerenciamento de projetos</strong>: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o 
 desenvolvimento do projeto.
 
 </details>
@@ -554,14 +580,9 @@ desenvolvimento do projeto.
 
 ##### *Figura 01. Logo Subiter Fonte(https://www.subiter.com)*
 
-   Estamos enfrentando um desafio significativo no que diz respeito à sincronização dos dados administrativos, financeiros e operacionais relacionados aos serviços que nossa empresa oferece. A falta de organização desses dados tem causado lentidão no atendimento aos chamados, além de gerar confusão na interpretação dos indicadores comerciais e financeiros
-
 ### Visão do Projeto
 
-   A empresa parceira MidAll tem um problema para criação de promoções em E-commerce. A ideia foi criar um motor de regras com uma interface onde as regras das promoções possam ser 
-cadastradas.
-
-Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
+  Enfrentamos um desafio crucial em relação à sincronização dos dados administrativos, financeiros e operacionais ligados aos nossos serviços. A ausência de organização desses dados tem acarretado demora no atendimento aos chamados e, adicionalmente, tem gerado complexidade na interpretação dos indicadores comerciais e financeiros.
 
 ### Tecnologias adotadas na solução
 
@@ -571,9 +592,8 @@ Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 
 ## Contribuições Pessoais
 
-   Fui responsável pela implementação da lógica do motor de regras da API, criei um algoritmo capaz de calcular os valores recebidos como parâmetro, devolvendo como resultado a melhor 
-promoção a ser aplicada no carrinho de compras
-
+  Desempenhei um papel central na implementação da lógica do motor de regras da API, desenvolvendo um algoritmo altamente funcional. Este algoritmo foi projetado para efetuar cálculos com base nos valores recebidos como parâmetros e, em resposta, determinar a promoção mais vantajosa a ser aplicada no carrinho de compras do usuário.
+  
 <details open><summary>Informações código Back-End</summary>
      
    ```js
@@ -586,7 +606,6 @@ promoção a ser aplicada no carrinho de compras
 			if(chamadoSelector.getAgendamento() != null) {
 				Ns = chamadoSelector.getAgendamento().getNumerosSerie();
 			}
-
 
 			EquipamentoSerie equipamentoSerie = this.equipamentoSerie.getById(Ns);
 
@@ -638,7 +657,7 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalh
 
 </details>   
 
-- Participei de forma efetiva da integração do Front-End com Back-End, criando alguns métodos e realizando testes para validação das requisições.
+- Tive uma participação ativa na integração perfeita entre o Front-End e Back-End, desempenhando um papel crucial na criação de vários métodos e na execução de testes rigorosos para assegurar a validade das requisições.
 
  <details open><summary>Informações código Front-End</summary>
        
@@ -672,19 +691,19 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalh
 	}
          
    ```
-- listar:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de chamados. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/chamados', e o token de autorização é passado no cabeçalho da requisição.
+- <strong>listar</strong>:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de chamados. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/chamados', e o token de autorização é passado no cabeçalho da requisição.
 
-- salvar:(suporte) => { ... } - Esta função faz uma solicitação POST para salvar um novo chamado. Recebe um objeto suporte contendo as informações do chamado a ser salvo. A URL para a solicitação POST é '/chamados', e o objeto suporte é passado como corpo da requisição.
+- <strong>salvar</strong>:(suporte) => { ... } - Esta função faz uma solicitação POST para salvar um novo chamado. Recebe um objeto suporte contendo as informações do chamado a ser salvo. A URL para a solicitação POST é '/chamados', e o objeto suporte é passado como corpo da requisição.
 
-- deletar:(id) => { ... } - Esta função faz uma solicitação DELETE para excluir um chamado com base em seu ID. Recebe um parâmetro id que representa o ID do chamado a ser excluído. A URL para a solicitação DELETE é '/chamados/' + id, onde o ID é concatenado à URL.
+- <strong>deletar</strong>:(id) => { ... } - Esta função faz uma solicitação DELETE para excluir um chamado com base em seu ID. Recebe um parâmetro id que representa o ID do chamado a ser excluído. A URL para a solicitação DELETE é '/chamados/' + id, onde o ID é concatenado à URL.
 
-- atualizar:(chamado) => { ... } - Esta função faz uma solicitação PATCH para atualizar um chamado existente. Recebe um objeto chamado contendo as informações atualizadas do chamado. A URL para a solicitação PATCH é '/chamados/' + chamado.id, onde o ID do chamado é concatenado à URL, e o objeto chamado é passado como corpo da requisição.
+- <strong>atualizar</strong>:(chamado) => { ... } - Esta função faz uma solicitação PATCH para atualizar um chamado existente. Recebe um objeto chamado contendo as informações atualizadas do chamado. A URL para a solicitação PATCH é '/chamados/' + chamado.id, onde o ID do chamado é concatenado à URL, e o objeto chamado é passado como corpo da requisição.
 
-- atualizar:(chamado, id, token) => { ... } - Esta função é uma versão modificada da função atualizar, que inclui um parâmetro adicional token para autenticar a requisição. Recebe um objeto chamado contendo as informações atualizadas do chamado, um parâmetro id que representa o ID do chamado a ser atualizado e um parâmetro token para autenticação. A URL para a solicitação PATCH é '/chamados/' + id, onde o ID é concatenado à URL, o objeto chamado é passado como corpo da requisição, e o token de autorização é passado no cabeçalho da requisição.
+- <strong>atualizar</strong>:(chamado, id, token) => { ... } - Esta função é uma versão modificada da função atualizar, que inclui um parâmetro adicional token para autenticar a requisição. Recebe um objeto chamado contendo as informações atualizadas do chamado, um parâmetro id que representa o ID do chamado a ser atualizado e um parâmetro token para autenticação. A URL para a solicitação PATCH é '/chamados/' + id, onde o ID é concatenado à URL, o objeto chamado é passado como corpo da requisição, e o token de autorização é passado no cabeçalho da requisição.
 
-- listarEquipamentosDisponiveis:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de equipamentos disponíveis. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/equipamento-serie/disponivel', e o token de autorização é passado no cabeçalho da requisição.
+- <strong>listarEquipamentosDisponiveis</strong>:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de equipamentos disponíveis. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/equipamento-serie/disponivel', e o token de autorização é passado no cabeçalho da requisição.
 
-- salvarAgendamento:(agendamento, token) => { ... } - Esta função faz uma solicitação POST para salvar um novo agendamento. Recebe um objeto agendamento contendo as informações do agendamento a ser salvo e um parâmetro token para autenticação. A URL para a solicitação POST é '/agendamento', o objeto agendamento é passado como corpo da requisição, e o
+- <strong>salvarAgendamento</strong>:(agendamento, token) => { ... } - Esta função faz uma solicitação POST para salvar um novo agendamento. Recebe um objeto agendamento contendo as informações do agendamento a ser salvo e um parâmetro token para autenticação. A URL para a solicitação POST é '/agendamento', o objeto agendamento é passado como corpo da requisição, e o
 
 <details close></summary></summary>
 
@@ -694,8 +713,8 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalh
 
 ## Aprendizados Efetivos
 
-Além de aprender a trabalhar com o VueJs e consultar a documentação oficial da tecnologia, também aprendi a importância de dedicar-me a um estudo aprofundado para obter um conhecimento sólido e consistente. Embora os tutoriais sejam úteis, geralmente abordam apenas as partes mais básicas e superficiais de um assunto. Ao mergulhar na documentação da tecnologia, pude compreender melhor suas nuances e recursos avançados.
-Essa experiência também me ensinou a importância de buscar constantemente novos conhecimentos e manter-me atualizado em relação às novas tecnologias e tendências do mercado. Como resultado, fui capaz de desenvolver um projeto mais completo e eficiente, enquanto adquiria habilidades valiosas para minha carreira profissional.
+Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
+Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
 
 </details>
 
