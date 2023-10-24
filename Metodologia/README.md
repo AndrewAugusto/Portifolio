@@ -720,6 +720,167 @@ Essa experiência também reforçou a importância de estar em constante busca p
 
 </details>
 
+## Projeto V
+
+<details>
+  
+<summary>
+	Mais Detalhes do Projeto V
+</summary>
+
+# Sistema de abertura de chamados de suporte com níveis diferentes de acesso
+
+### Parceiro Acadêmico
+	
+<br/>
+
+![image]([https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png](https://static.wixstatic.com/media/28f919_850cdd0bc47d4fbd8aa3eeb79db23bf3~mv2.png/v1/fill/w_144,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Subiter_NovoLogoCol.png))
+
+##### *Figura 01. Logo Subiter Fonte(https://www.subiter.com)*
+
+### Visão do Projeto
+
+O projeto consistia em criar uma solução para automatizar o processo de download de arquivos de uma plataforma de vídeo e transferi-los para a nuvem. Isso foi alcançado através do desenvolvimento de uma aplicação como serviço que simplificou o processo para o usuário, permitindo que eles configurassem o serviço com os parâmetros necessários para o download automático. Além disso, a aplicação foi projetada para gerar alertas em caso de erros durante o processamento.
+
+Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam posteriormente usados para construir um dashboard. Esse painel serviria para monitorar a execução do serviço, analisar resultados e fornecer indicadores importantes para avaliar o desempenho do sistema.
+
+### Tecnologias adotadas na solução
+
+* **Back-end:** Python/Flask
+* **Front-end:** Vuejs, CSS
+* **Banco de Dados:** SQL Azure
+
+## Contribuições Pessoais
+
+  Desempenhei um papel central na implementação do Banco de Dados, desenvolvendo um Modelo Lógico e Relacional para efetuar a organização e armazenamento eficiente dos metadados dos arquivos. Isso envolveu a criação de tabelas, definição de relacionamentos entre elas e a escolha de estratégias de indexação para otimizar o acesso aos dados. Além disso, trabalhei na implementação das consultas SQL necessárias para recuperar os metadados com rapidez e precisão, contribuindo assim para a construção do dashboard de monitoramento.
+
+Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamental para garantir que os metadados fossem armazenados de forma coerente e organizada, permitindo uma análise eficaz dos resultados e indicadores do serviço. Isso também facilitou a integração dos dados do banco de dados com a aplicação de serviço, criando uma solução completa e eficiente para o desafio do projeto.
+  
+<details open><summary>Informações código Back-End</summary>
+     
+   ```js
+   
+	   public Chamado updateChamadoById(Integer id, Chamado chamado) {
+			Chamado chamadoSelector = this.getChamadoById(id);
+
+			String Ns = chamadoSelector.getAgendamento().getNumerosSerie();
+			String Ns = "";
+			if(chamadoSelector.getAgendamento() != null) {
+				Ns = chamadoSelector.getAgendamento().getNumerosSerie();
+			}
+
+			EquipamentoSerie equipamentoSerie = this.equipamentoSerie.getById(Ns);
+
+			if (chamado.getSituacaoChamado().equals("F") || chamado.getSituacaoChamado().equals("f")) {
+				equipamentoSerie.setDisponibilidade(true);
+				chamadoSelector.setEncerramentoChamado(LocalDate.now());
+				this.equipamentoSerie.save(equipamentoSerie);
+			}
+			chamadoSelector.setCriticidadeChamado(chamado.getCriticidadeChamado());
+			chamadoSelector.setDataChamado(chamado.getDataChamado());
+			chamadoSelector.setDescricaoChamado(chamado.getDescricaoChamado());
+			chamadoSelector.setSituacaoChamado(chamado.getSituacaoChamado());
+			chamadoSelector.setSolucaoChamado(chamado.getSolucaoChamado());
+
+			return chamadoRepository.save(chamadoSelector);
+		}  
+
+   ```
+   
+Este código é um método de atualização de chamado em uma aplicação. Vou explicar o que cada parte faz:
+
+- O método recebe dois parâmetros: um ID do chamado a ser atualizado (representado por um número inteiro) e um objeto Chamado contendo as novas informações para atualização.
+Chamado chamadoSelector = this.getChamadoById(id); - Esta linha obtém o chamado existente com o ID fornecido usando um método getChamadoById (que não está presente neste trecho de código). O chamado original é armazenado na variável chamadoSelector.
+
+- String Ns = chamadoSelector.getAgendamento().getNumerosSerie(); - Esta linha extrai o número de série (atributo numerosSerie) do objeto Agendamento dentro do chamado selecionado e o armazena na variável Ns.
+
+- String Ns = ""; - Parece haver um erro neste trecho, pois a variável Ns já foi declarada anteriormente.
+
+- if(chamadoSelector.getAgendamento() != null) { Ns = chamadoSelector.getAgendamento().getNumerosSerie(); } - Esta condição verifica se o objeto Agendamento dentro do chamado selecionado não é nulo. Se não for nulo, o número de série é atribuído à variável Ns.
+
+- EquipamentoSerie equipamentoSerie = this.equipamentoSerie.getById(Ns); - Aqui, é obtido um objeto EquipamentoSerie com base no número de série obtido. O método getById (que pertence a uma instância de equipamentoSerie, provavelmente uma classe) é usado para obter o objeto correspondente ao número de série.
+
+- if (chamado.getSituacaoChamado().equals("F") || chamado.getSituacaoChamado().equals("f")) { ... } - Esta condição verifica se a situação do chamado recebido é igual a "F" ou "f". Se for, o seguinte bloco de código será executado:
+
+  a. equipamentoSerie.setDisponibilidade(true); - Define a disponibilidade do objeto equipamentoSerie como verdadeira.
+
+  b. chamadoSelector.setEncerramentoChamado(LocalDate.now()); - Define a data de encerramento do chamado selecionado como a data atual (representada por LocalDate.now()).
+
+  c. this.equipamentoSerie.save(equipamentoSerie); - Salva as alterações feitas no objeto equipamentoSerie no banco de dados ou em algum outro local de armazenamento.
+
+As linhas seguintes atualizam várias propriedades do chamado selecionado com os valores fornecidos no objeto chamado.
+- return chamadoRepository.save(chamadoSelector); - Por fim, o chamado selecionado, com todas as atualizações realizadas, é salvo utilizando o método save de um repositório chamado chamadoRepository (que não está presente neste trecho de código), e o chamado atualizado é retornado.
+
+<details close></summary></summary>
+
+Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalhes
+
+</details>
+
+</details>   
+
+- Tive uma participação ativa na integração perfeita entre o Front-End e Back-End, desempenhando um papel crucial na criação de vários métodos e na execução de testes rigorosos para assegurar a validade das requisições.
+
+ <details open><summary>Informações código Front-End</summary>
+       
+   ```js
+   
+        import {http} from './config'
+	export default{
+	    listar:(token) =>{
+		return http.get('/chamados', {headers:{Authorization: `Bearer ${token}`}})
+	    },
+	    salvar:(suporte)=>{
+		return http.post('/chamados', suporte)
+	    },
+	    deletar:(id)=>{
+		return http.delete('/chamados/' + id)
+	    },
+
+	    atualizar:(chamado)=>{
+		return http.patch('/chamados/' + chamado.id , chamado)
+	    atualizar:(chamado, id, token)=>{
+		return http.patch('/chamados/' + id , chamado, {headers:{Authorization: `Bearer ${token}`}})
+	    },
+
+	    listarEquipamentosDisponiveis:(token) =>{
+		return http.get('/equipamento-serie/disponivel', {headers:{Authorization: `Bearer ${token}`}})
+	    } ,
+
+	    salvarAgendamento:(agendamento, token)=>{
+		return http.post('/agendamento', agendamento, {headers:{Authorization: `Bearer ${token}`}})
+	    }
+	}
+         
+   ```
+- <strong>listar</strong>:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de chamados. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/chamados', e o token de autorização é passado no cabeçalho da requisição.
+
+- <strong>salvar</strong>:(suporte) => { ... } - Esta função faz uma solicitação POST para salvar um novo chamado. Recebe um objeto suporte contendo as informações do chamado a ser salvo. A URL para a solicitação POST é '/chamados', e o objeto suporte é passado como corpo da requisição.
+
+- <strong>deletar</strong>:(id) => { ... } - Esta função faz uma solicitação DELETE para excluir um chamado com base em seu ID. Recebe um parâmetro id que representa o ID do chamado a ser excluído. A URL para a solicitação DELETE é '/chamados/' + id, onde o ID é concatenado à URL.
+
+- <strong>atualizar</strong>:(chamado) => { ... } - Esta função faz uma solicitação PATCH para atualizar um chamado existente. Recebe um objeto chamado contendo as informações atualizadas do chamado. A URL para a solicitação PATCH é '/chamados/' + chamado.id, onde o ID do chamado é concatenado à URL, e o objeto chamado é passado como corpo da requisição.
+
+- <strong>atualizar</strong>:(chamado, id, token) => { ... } - Esta função é uma versão modificada da função atualizar, que inclui um parâmetro adicional token para autenticar a requisição. Recebe um objeto chamado contendo as informações atualizadas do chamado, um parâmetro id que representa o ID do chamado a ser atualizado e um parâmetro token para autenticação. A URL para a solicitação PATCH é '/chamados/' + id, onde o ID é concatenado à URL, o objeto chamado é passado como corpo da requisição, e o token de autorização é passado no cabeçalho da requisição.
+
+- <strong>listarEquipamentosDisponiveis</strong>:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de equipamentos disponíveis. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/equipamento-serie/disponivel', e o token de autorização é passado no cabeçalho da requisição.
+
+- <strong>salvarAgendamento</strong>:(agendamento, token) => { ... } - Esta função faz uma solicitação POST para salvar um novo agendamento. Recebe um objeto agendamento contendo as informações do agendamento a ser salvo e um parâmetro token para autenticação. A URL para a solicitação POST é '/agendamento', o objeto agendamento é passado como corpo da requisição, e o
+
+<details close></summary></summary>
+
+</details>
+
+</details> 
+
+## Aprendizados Efetivos
+
+Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
+Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
+
+</details>
+
+
 <br>
 
 ## Contatos
