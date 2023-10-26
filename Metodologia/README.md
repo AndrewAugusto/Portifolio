@@ -728,7 +728,7 @@ Essa experiência também reforçou a importância de estar em constante busca p
 	Mais Detalhes do Projeto V
 </summary>
 
-# Sistema de abertura de chamados de suporte com níveis diferentes de acesso
+# Solução de Automação de Downloads e Gerenciamento em Nuvem com Painel de Monitoramento de Desempenho
 
 ### Parceiro Acadêmico
 	
@@ -736,7 +736,7 @@ Essa experiência também reforçou a importância de estar em constante busca p
 
 ![image](https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png)
 
-##### *Figura 01. Logo Subiter Fonte(https://www.https://midall.com.br)*
+##### *Figura 01. Logo Midall Fonte(https://www.https://midall.com.br)*
 
 ### Visão do Projeto
 
