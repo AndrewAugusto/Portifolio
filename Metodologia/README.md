@@ -746,9 +746,27 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 
 ### Tecnologias adotadas na solução
 
-* **Back-end:** Python/Flask
-* **Front-end:** Vuejs, CSS
-* **Banco de Dados:** SQL Azure
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;"> #### BackEnd</div>
+  <div style="display: inline_block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="100" height="100" />
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Front-End</div>
+  <div style="display: inline_block">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
+  <div style="display: inline_block">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
 
 ## Contribuições Pessoais
 
