@@ -1052,4 +1052,4 @@ Essa experiência também reforçou a importância de estar em constante busca p
 
 ## Contatos
 * [GitHub](https://github.com/AndrewAugusto)
-* [LinkedIn](https://linkedin.com/in/AndrewAugusto/)
+* [LinkedIn](https://www.linkedin.com/in/andrew-augusto-778585127/)
