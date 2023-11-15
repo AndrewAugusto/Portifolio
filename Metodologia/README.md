@@ -12,8 +12,24 @@
 
 ## Meus principais conhecimentos
 
-### JavaScript  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" />   
-### Java  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30" /> 
+  <div style="margin-top: 10px; font-weight: bold;">Linguagens de programação (Back-End)</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="85" height="85" />
+  </div>
+  <div style="margin-top: 10px; font-weight: bold;">Linguagens de programação (Front-End)</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />  
+  </div>
+  <div style="margin-top: 10px; font-weight: bold;">Bancos de Dados</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85" />
+  </div>
+  
 
 <br>
 
@@ -34,7 +50,7 @@
 
 <br>
      
-![image](https://user-images.githubusercontent.com/80988756/218878798-d33629bc-acf9-4edb-b463-b14fd8a90404.png)
+![image](https://user-images.githubusercontent.com/85988756/218878798-d33629bc-acf9-4edb-b463-b14fd8a85404.png)
 
 ##### *Figura 01. Logo Fatec - Profº Jassen Vidal*
 
@@ -66,13 +82,13 @@ Link do repositório do projeto: [Repositório](https://github.com/AndrewAugusto
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="70" height="70" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0285e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -189,7 +205,7 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 	
 <br/>
 	
-<img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" alt="440" width="300"/>
+<img src="https://user-images.githubusercontent.com/85851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" alt="440" width="300"/>
 
 ##### *Figura 01. Logo Necto System Fonte([Necto](www.necto.com.br))*
 
@@ -210,22 +226,22 @@ Link do repositório do projeto: [Repositório](https://github.com/apibanco/Vigi
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="70" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">FrontEnd</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -246,7 +262,7 @@ Link do repositório do projeto: [Repositório](https://github.com/apibanco/Vigi
 	public conexao(){
 			url = "jdbc:postgresql://localhost:5432/teste";
 			usuario = "postgres";
-			senha = "toto190100";
+			senha = "toto185100";
 
 			try {
 				Class.forName("org.postgresql.Driver");
@@ -401,22 +417,22 @@ Link do repositório do projeto: [Repositório](https://github.com/Doc-Docker/AP
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="70" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">FrontEnd</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -626,22 +642,22 @@ desenvolvimento do projeto.
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="70" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">FrontEnd</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -802,22 +818,22 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="70" height="70" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0285e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Front-End</div>
   <div style="display: inline_block">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="85" height="85" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="70" height="70" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -932,22 +948,22 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="70" height="70" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0285e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Front-End</div>
   <div style="display: inline_block">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70" />
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="85" height="85" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="70" height="70" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
