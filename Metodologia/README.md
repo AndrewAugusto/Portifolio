@@ -33,7 +33,7 @@
 # Assistente Virtual - Ibet
 
 <br>
-
+     
 ![image](https://user-images.githubusercontent.com/80988756/218878798-d33629bc-acf9-4edb-b463-b14fd8a90404.png)
 
 ##### *Figura 01. Logo Fatec - Profº Jassen Vidal*
@@ -51,28 +51,35 @@
    <strong>Definição de Alarmes para Jogos</strong>: A assistente Ibet permite que os usuários configurem alarmes para serem notificados sobre jogos específicos. Isso garante que eles fiquem atualizados sobre as partidas de seu interesse.
 Placares de Jogos em Tempo Real: A Ibet fornece placares atualizados em tempo real para jogos em andamento. Isso permite que os usuários acompanhem os resultados instantaneamente, sem atrasos.
 
-<strong>Acesso a Jogos Antigos</strong>: Além de informações sobre jogos atuais, a Ibet também disponibiliza detalhes sobre jogos antigos. Isso possibilita que os usuários revivam momentos marcantes no mundo esportivo.
+   <strong>Acesso a Jogos Antigos</strong>: Além de informações sobre jogos atuais, a Ibet também disponibiliza detalhes sobre jogos antigos. Isso possibilita que os usuários revivam momentos marcantes no mundo esportivo.
 
-<strong>Vídeos e Conteúdo Relacionado</strong>: A assistente oferece acesso a vídeos e conteúdo relacionado a esportes, permitindo que os usuários assistam a momentos emocionantes, entrevistas e análises.
+   <strong>Vídeos e Conteúdo Relacionado</strong>: A assistente oferece acesso a vídeos e conteúdo relacionado a esportes, permitindo que os usuários assistam a momentos emocionantes, entrevistas e análises.
 
-<strong>Interação por Comando de Voz</strong>: O grande diferencial da aplicação é a interação por meio de comandos de voz. Os usuários podem obter todas as informações necessárias sem precisar digitar ou clicar em botões. Isso torna a experiência mais conveniente e intuitiva.
+   <strong>Interação por Comando de Voz</strong>: O grande diferencial da aplicação é a interação por meio de comandos de voz. Os usuários podem obter todas as informações necessárias sem precisar digitar ou clicar em botões. Isso torna a experiência mais conveniente e intuitiva.
 
 A Ibet foi projetada para entregar informações de forma interativa, proporcionando aos usuários uma experiência rica em conteúdo esportivo sem os incômodos de interações tradicionais. Com sua funcionalidade de comando de voz, a assistente busca tornar a busca por informações esportivas mais prática e acessível.
 
-Link do repositório do projeto: https://github.com/AndrewAugusto/Ibet_Assistente
+Link do repositório do projeto: [Repositório](https://github.com/AndrewAugusto/Ibet_Assistente)
 
 ### Tecnologias adotadas no Projeto
 
-<div style="display: inline_block">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="100"    height="100" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="100" height="100" />
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
+  <div style="display: inline_block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="70" height="70" />
+  </div>
 </div>
 
-## Contribuições Pessoais
-
-  Desempenhei um papel crucial na implementação da tecnologia de reconhecimento de voz na API, onde fui responsável por criar um algoritmo que permitisse a execução do serviço em segundo plano, no modo Standby. Essa abordagem garante que a tecnologia seja ativada somente quando chamada, otimizando os recursos e proporcionando uma experiência eficiente aos usuários.
+## Iniciativas Implementadas:
+  Desempenhei um papel crucial na implementação da tecnologia de reconhecimento de voz na API, onde criamos um algoritmo que permitisse a execução do serviço em segundo plano, no modo Standby. Essa abordagem garante que a tecnologia seja ativada somente quando chamada, otimizando os recursos e proporcionando uma experiência eficiente aos usuários.
   
-<details open><summary>Informações código Back-End</summary>
+<details open><summary>Informações sobre a Lógica do Sistema</summary>
  
    1. Algoritmo para reconhecimento de voz.
      
@@ -91,7 +98,7 @@ Link do repositório do projeto: https://github.com/AndrewAugusto/Ibet_Assistent
 	    
    ```
      
-   O primeiro passo foi criar uma instância do objeto Recognizer() da biblioteca SpeechRecognition. Em seguida, a função entra em um bloco "with" para configurar e usar o microfone como fonte de 
+   O ponto inicial foi criar uma instância do objeto Recognizer() da biblioteca SpeechRecognition. Em seguida, a função entra em um bloco "with" para configurar e usar o microfone como fonte de 
 entrada de áudio.
 Dentro do bloco "with", o método "adjust_for_ambient_noise()" é chamado para ajustar automaticamente o nível de ruído de fundo para melhorar a precisão da transcrição.
 Em seguida, o método "listen()" é chamado para gravar o áudio da fonte (microfone) e armazená-lo na variável "audio".
@@ -102,7 +109,7 @@ retornará a mensagem "Não entendi!".
 
 <details close></summary></summary>
 
-Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes. 
+Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do projeto.
 	
 - O link acima traz detalhes da implementação da classe de serviço responsável por reconhecimento de voz.
 	
@@ -141,7 +148,7 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
     
 <details close></summary></summary>
 
-Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes 😃
+Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do Projeto.
 
 - O link acima traz detalhes da implementação do método responsável por enviar a requisição para back-end. 
 
@@ -184,7 +191,7 @@ Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-m
 	
 <img src="https://user-images.githubusercontent.com/80851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" alt="440" width="300"/>
 
-##### *Figura 01. Logo Necto System Fonte(www.necto.com.br)*
+##### *Figura 01. Logo Necto System Fonte([Necto](www.necto.com.br))*
 
 A empresa Necto System situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
 
@@ -196,15 +203,33 @@ A empresa Necto System situada no Parque Tecnológico de São José dos Campos, 
 
    Essa iniciativa reflete um entendimento avançado das necessidades de gestão de banco de dados e infraestrutura, demonstrando a capacidade de criar soluções práticas para otimizar a operação dos sistemas e garantir sua confiabilidade e eficácia contínuas.
 
-Link do repositório do projeto: https://github.com/apibanco/Vigilant
+Link do repositório do projeto: [Repositório](https://github.com/apibanco/Vigilant)
 
 ### Tecnologias adotadas na solução
 
-* **Back-end:** Java e Spring-Boot
-* **Front-end:** Angular, CSS, Bootstrap
-* **Banco de Dados:** Po
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">FrontEnd</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
 
-## Contribuições Pessoais
+## Informações sobre a Lógica do Sistema:
 
    Assumi a responsabilidade crucial de implementar a lógica que permite a integração se conectar ao banco de dados, a fim de realizar a coleta periódica de parametrizações. Além disso, fui encarregado de criar as consultas (queries) necessárias para recuperar os dados e desenvolver procedimentos armazenados (procedures) para a execução eficiente dessas operações.
 
@@ -214,7 +239,7 @@ Link do repositório do projeto: https://github.com/apibanco/Vigilant
 
 <details open><summary>Informações código Back-End</summary>
     
-   1. Algoritmo de conexão com o Banco de Dados (Postgress).
+   1. Algoritmo para conexão com o Banco de Dados (Postgress).
      
    ```js
    
@@ -266,7 +291,7 @@ Link do repositório do projeto: https://github.com/apibanco/Vigilant
 	
    ```
    
-   Na primeira parte do código, são definidas as informações necessárias para a conexão com o banco de dados local. A variável "url" contém a URL de conexão com o banco, a porta padrão do PostgreSQL e o nome do banco de dados.
+   No primeiro trecho deste código acima, são definidas as informações necessárias para a conexão com o banco de dados local. A variável "url" contém a URL de conexão com o banco, a porta padrão do PostgreSQL e o nome do banco de dados.
 
 Em seguida, dentro de um bloco try-catch, o código tenta estabelecer a conexão com o banco de dados. A linha Class.forName("org.postgresql.Driver") carrega dinamicamente o driver JDBC necessário para se comunicar com o PostgreSQL. Em seguida, DriverManager.getConnection(url,usuario,senha) estabelece a conexão com o banco de dados usando as informações fornecidas. Se a conexão for estabelecida com sucesso, a mensagem "Conexão realizada com sucesso!!!" é exibida. Caso ocorra algum erro durante a conexão, a exceção é capturada e o rastreamento de pilha do erro é impresso.
 
@@ -274,21 +299,21 @@ Após a conexão ser estabelecida, há uma chamadas de método chamando "ExibirT
 	
 <details close></summary></summary>
 
-Click aqui [GitHub]([https://github.com/apibanco/Vigilant]) para mais detalhes
+Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijeto.
 
 </details>
 
 </details>   
 
-- Minha participação se estendeu ainda para a integração completa das chamadas de todos os métodos do Back-End. Durante esse processo, além de criar alguns métodos, desempenhei um papel fundamental na realização de testes para validar as requisições.
+- Auxiliei também a integração completa das chamadas de todos os métodos do Back-End. Durante esse processo, além de criar alguns métodos, desempenhei um papel fundamental na realização de testes para validar as requisições.
 
   Essa etapa é de extrema importância, pois envolve garantir que cada funcionalidade do Back-End esteja operando de maneira correta e coesa. Ao criar e implementar esses métodos, pude contribuir para a construção de uma aplicação robusta e funcional. Os testes que conduzi permitiram identificar possíveis problemas e assegurar que as requisições feitas à API estivessem fornecendo os resultados esperados.
 
-  Minha participação nesse processo demonstra a capacidade de colaborar em todos os estágios do desenvolvimento, desde a criação até a validação das funcionalidades. A abordagem sistemática e a atenção aos detalhes nos testes ilustram meu compromisso em oferecer um produto final de alta qualidade, além de evidenciar minhas habilidades em depuração e solução de problemas.
+  A abordagem sistemática e a atenção aos detalhes nos testes ilustram o compromisso em oferecer um produto final de alta qualidade, além de evidenciar minhas habilidades em depuração e solução de problemas.
 
-  <details open><summary>Informações código Front-End</summary>
+  <details open><summary>Detalhes da Interface do Usuário</summary>
   
-   1. Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.
+   1. Trecho do algoritmo responsável por receber o retorno do back-end.
      
    ```js
    
@@ -316,8 +341,8 @@ Click aqui [GitHub]([https://github.com/apibanco/Vigilant]) para mais detalhes
 	
    ```
 
-O código é uma classe Java chamada "Principal" com um método "main". O método "main" é o ponto de entrada principal do programa Java e recebe um array de strings como argumento.
-Na primeira parte do código, uma instância da classe "LoginModel" é criada chamada "loginModel", e o método estático "PreencherLogin()" da classe "LoginController" é chamado para preencher os dados do login.
+O código é uma classe Java chamada "Principal".
+Na primeiro trecho do código, uma instância da classe "LoginModel" é criada chamada "loginModel", e o método estático "PreencherLogin()" da classe "LoginController" é chamado para preencher os dados do login.
 Em seguida, uma instância da classe "Menu" chamada "menu" é criada, passando o objeto "loginModel" como argumento para o construtor da classe "Menu".
 A próxima linha cria uma instância da classe "Properties" chamada "prop" e chama o método estático "getProp()" da classe "LoginController" para obter um objeto "Properties".
 Em seguida, a propriedade chamada "openMenu" é recuperada do objeto "Properties" e armazenada na variável "openMenu" como uma string.
@@ -327,11 +352,9 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 
 </details>
 
- 
+## Conhecimentos Úteis Adquiridos
 
-## Aprendizados Efetivos
-
-* Ao longo do desenvolvimento do projeto, tive a valiosa oportunidade de adquirir um profundo conhecimento sobre sistemas de gerenciamento de banco de dados (SGBDs), capacitando-me a coletar e manipular informações de maneira altamente eficiente para a geração de séries históricas e métricas de grande relevância para os usuários da aplicação.
+* Ao longo do desenvolvimento do projeto, foi aproveitado a valiosa oportunidade de adquirir um profundo conhecimento sobre sistemas de gerenciamento de banco de dados (SGBDs), capacitando-me a coletar e manipular informações de maneira altamente eficiente para a geração de séries históricas e métricas de grande relevância para os usuários da aplicação.
 * Essa experiência enriqueceu consideravelmente minhas habilidades na manipulação de dados dentro de ambientes de banco de dados. Pude aprimorar minha capacidade de criar consultas SQL e utilizar diversos comandos para extrair informações específicas e impactantes. Além disso, aproveitei a oportunidade para explorar e me familiarizar profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de maneira excepcionalmente eficaz.
 * Minha contribuição desempenhou um papel fundamental no desenvolvimento da aplicação, uma vez que pude criar consultas e rotinas que viabilizaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do próprio banco de dados. Essas métricas forneceram insights inestimáveis aos usuários, permitindo-lhes uma compreensão mais completa da situação e da evolução do sistema, além de respaldar decisões informadas com base nesses dados.
 * Ao longo desse processo, aprofundei minha compreensão dos princípios fundamentais que regem um SGBD e a importância de estruturar e organizar os dados de maneira adequada para facilitar operações futuras. A experiência também me mostrou a relevância de otimizar consultas e operações de banco de dados, contribuindo para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
@@ -349,7 +372,7 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 	 Mais Detalhes do Projeto III
 </summary>
 
-# Motor de Regra de Promoções
+# Motor para Regra de Promoções
 
 ### Parceiro Acadêmico
 
@@ -357,13 +380,13 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 
 ![image](https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png)
 
-##### *Figura 01. Logo MidAll Fonte(www.midall.com.br)*
+##### *Figura 01. Logo MidAll Fonte([MidAll](www.midall.com.br))*
 
    A empresa MidAll situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
 
 ### Visão do Projeto
 
-A empresa parceira MidAll apresentou um desafio interessante relacionado à criação de promoções em um ambiente de E-commerce. Para abordar essa demanda, desenvolvemos um motor de regras acompanhado de uma interface intuitiva, que permitisse o cadastro simplificado das regras das promoções.
+Foi apresentado um desafio pela empresa parceira apresentou um desafio interessante relacionado à criação de promoções em um ambiente de E-commerce. Para abordar essa demanda, desenvolvemos um motor de regras acompanhado de uma interface intuitiva, que permitisse o cadastro simplificado das regras das promoções.
 
 Essa solução teve como objetivo proporcionar uma abordagem eficiente e flexível para a gestão de promoções, permitindo que a equipe de marketing e vendas pudesse criar, ajustar e monitorar promoções de forma ágil e personalizada. O motor de regras, com sua lógica subjacente, permitiu a definição de critérios específicos para a ativação das promoções, como combinações de produtos, valores de compra e outros fatores relevantes.
 
@@ -371,17 +394,35 @@ A interface de cadastro simplificou o processo ao máximo, eliminando a necessid
 
 Com essa solução, a MidAll conseguiu atender às suas necessidades de promoções de maneira eficiente e escalável, impulsionando as vendas e a satisfação do cliente. A abordagem de motor de regras e interface de cadastro trouxe mais flexibilidade e autonomia à equipe, garantindo a criação de promoções personalizadas e impactantes no cenário do E-commerce.
 
-Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
+Link do repositório do projeto: [Repositório](https://github.com/Doc-Docker/APIMidAll)
 
 ### Tecnologias adotadas na solução
 
-* **Back-end:** Java e Spring-Boot
-* **Front-end:** Angular, CSS, Bootstrap
-* **Banco de Dados:** SQLite
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">FrontEnd</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
 
-## Contribuições Pessoais
+## Conhecimentos Úteis Adquiridos
 
-   Assumi a responsabilidade crucial de implementar a lógica do motor de regras na API, desempenhando um papel central na criação de um algoritmo avançado. Esse algoritmo foi projetado para calcular os valores passados como parâmetros e, em retorno, fornecer a melhor promoção a ser aplicada no carrinho de compras do usuário.
+   Assumi a responsabilidade crucial de implementar a lógica do motor de regras na API, desempenhando um papel central na criação de um algoritmo avançado. Esse algoritmo foi projetado para calcular os valores passados como parâmetros, em retorno, fornecer a melhor promoção a ser aplicada no carrinho de compras do usuário.
 
    Essa tarefa exige um profundo entendimento das diferentes regras de promoção e de como elas interagem com os valores específicos de compra. Ao criar esse algoritmo, você demonstrou um domínio sólido das lógicas de cálculo e das nuances das promoções, considerando diversos cenários para determinar qual promoção seria mais vantajosa para o cliente.
 
@@ -389,7 +430,7 @@ Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 
    Seu papel na implementação da lógica do motor de regras foi essencial para a funcionalidade e sucesso da aplicação, oferecendo aos usuários a melhor promoção possível com base em suas compras. Isso destaca sua capacidade de resolver problemas complexos e criar soluções técnicas que têm um impacto direto nas operações comerciais.
 
-<details open><summary>Informações código Back-End</summary>
+<details open><summary>Informações sobre a Lógica do Sistema</summary>
   
    1. Algoritmo de cálculo de valores das promoções.
      
@@ -415,15 +456,13 @@ Link do repositório do projeto: https://github.com/Doc-Docker/APIMidAll
 
 <details close></summary></summary>
 
-Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
+Click [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do projeto.
 	
-- O link acima traz detalhes da implementação da classe de serviço responsável por todos os métodos da promoção
-
 </details>
 
 </details>   
 
-  Minha participação no projeto incluiu um papel ativo na integração entre o Front-End e o Back-End, onde desempenhei um papel essencial na criação de diversos métodos e na condução de testes para validar as requisições.
+  Minha participação no projeto incluiu um papel ativo na integração entre o Front-End e o Back-End, onde interagi na criação de diversos métodos e na condução de testes para validar as requisições.
 
   Ao participar da integração entre essas duas partes fundamentais do sistema, contribuí para assegurar que a comunicação entre elas ocorresse de maneira suave e confiável. A criação de métodos no Back-End permitiu que o Front-End pudesse acessar e manipular dados e funcionalidades, garantindo a funcionalidade harmoniosa da aplicação como um todo.
 
@@ -433,9 +472,9 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll) para mais detalhes
 
   Seu envolvimento na integração entre o Front-End e o Back-End teve um impacto direto na funcionalidade e usabilidade da aplicação, assegurando que os usuários possam interagir com uma interface responsiva e que todas as suas ações sejam processadas com precisão nos bastidores.
 
- <details open><summary>Informações código Front-End</summary>
+ <details open><summary>Detalhes da Interface do Usuário</summary>
     
-   1. Trecho do código responsável de receber o retorno do back-end, da explicação citada acima.  
+   1. Algoritmo responsável de receber o retorno do back-end.  
      
    ```js
    
@@ -463,9 +502,7 @@ pois enviar dados, processa o retorno e já devolve os resultados para usuário.
 
 <details close></summary></summary>
 
-Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes :)
-
-- O link acima traz detalhes da implementação do método responsável por enviar a requisição para back-end. 
+Click [aqui](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes do projeto
 
 </details>
 
@@ -473,7 +510,7 @@ Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-m
 
 - Participei de forma efetiva na implementação de DTO's.
 
- <details open><summary>Informações código Front-End</summary>
+ <details open><summary>Informações sobre a Lógica do Sistema</summary>
     
    ```js
 
@@ -503,14 +540,14 @@ Click aqui [GitHub](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-m
  
    ```
  
-O código acima define uma classe chamada ProductDTO no pacote com.backend.backend.dto. Essa classe representa um objeto de transferência de dados (DTO) para a entidade Product.
+O trecho acima define uma classe chamada ProductDTO no pacote com.backend.backend.dto. Essa classe representa um objeto de transferência de dados (DTO) para a entidade Product.
 A classe ProductDTO implementa a interface Serializable, o que permite que os objetos dessa classe sejam serializados e desserializados.
 A classe possui os seguintes campos:
 
-- <strong>id</strong>: um campo do tipo Integer que representa o identificador do produto.
-- <strong>name</strong>: um campo do tipo String que representa o nome do produto. É anotado com @NotBlank para garantir que não esteja em branco.
-- <strong>price</strong>: um campo do tipo Double que representa o preço do produto. É anotado com @PositiveOrZero para garantir que seja maior ou igual a zero.
-- <strong>categories</strong>: uma lista de objetos CategoryDTO, representando as categorias associadas ao produto. É inicializada como uma lista vazia.
+- <strong>id</strong>: Um campo do tipo Integer que representa o identificador do produto.
+- <strong>name</strong>: Um campo do tipo String que representa o nome do produto. É anotado com @NotBlank para garantir que não esteja em branco.
+- <strong>price</strong>: Um campo do tipo Double que representa o preço do produto. É anotado com @PositiveOrZero para garantir que seja maior ou igual a zero.
+- <strong>categories</strong>: Uma lista de objetos CategoryDTO, representando as categorias associadas ao produto. É inicializada como uma lista vazia.
 
 A classe possui os seguintes construtores e anotações:
 
@@ -524,27 +561,25 @@ Essa classe é usada para transferir informações específicas de um produto en
 
 <details close></summary></summary>
 
-Click aqui [GitHub]([https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts](https://github.com/AndrewAugusto/APIMidAll/blob/main/backend-midall/src/main/java/com/backend/backend/dto/ProductDTO.java)) para mais detalhes :)
+Click [aqui](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes do projeto.
 
 </details>
 
 </details> 
 
-## Aprendizados Efetivos
+## Conhecimentos Úteis Adquiridos
 
-   A integração do projeto com as matérias do semestre se deu em diversas frentes. A mais importante delas foi na disciplina de Engenharia de Software. Durante o semestre de desenvolvimento 
-deste trabalho, iniciamos o aprendizado sobre diversos padrões de projeto nesta disciplina, pela primeira vez. Com isso, pela primeira vez nos preocupamos em separar nosso programa que se 
-tornaria o produto em camadas, seguir padrões de arquitetura, torná-lo componentizável e seguindo modos de construção comuns aos utilizados no mercado e comunidade. Foi o passo inicial de 
-estudo sobre tais competências tão importantes para qualquer desenvolvedor de software.
-outros aprendizados também importantes precisam ser mencionados:
-Durante o desenvolvimento do projeto, a performance do sistema foi uma questão central em seu desenvolvimento.
-Possuíamos uma base de dados minimamente volumosa, e precisávamos calcular diversos fatores de todos os seus registros. Com isso, precisávamos pensar em formas mais eficientes em 
-processamento para garantir uma resposta rápida e confiável ao nosso usuário final. A evolução nos algoritmos de análise de dados com o passar do projeto é algo que foi de grande valia para 
-a nossa formação como profissionais desenvolvedores.
+  A integração do projeto com as disciplinas do semestre ocorreu em várias frentes, sendo a mais significativa na disciplina de Engenharia de Software. Durante o desenvolvimento deste trabalho ao longo do semestre, começamos a explorar diversos padrões de projeto nessa disciplina pela primeira vez. Pela primeira vez, concentramo-nos em organizar nosso programa, que se tornaria o produto final, em camadas, seguindo padrões de arquitetura, tornando-o modular e aderindo a métodos de construção comumente utilizados no mercado e na comunidade.
+
+Este foi um passo inicial na compreensão de competências fundamentais para qualquer desenvolvedor de software.
+
+Outros aprendizados igualmente importantes merecem destaque:
+
+Durante o desenvolvimento do projeto, a otimização de desempenho do sistema foi uma consideração central. Lidamos com uma base de dados de tamanho modesto, mas era necessário calcular diversos fatores para todos os seus registros. Diante disso, foi crucial pensar em métodos de processamento mais eficientes para garantir uma resposta rápida e confiável aos usuários finais. A evolução dos algoritmos de análise de dados ao longo do projeto foi de grande valia para nossa formação como profissionais desenvolvedores
 
 #### Hard Skills Efetivamente Desenvolvidas
 
-No mais, o conhecimento adquirido neste projeto pode ser resumido da seguinte forma:
+O conhecimento adquirido neste projeto pode ser resumido da seguinte forma:
 
 - Desenvolvimento de aplicações back-end em Java: Sei fazer com ajuda.
 - Criação de uma API HTTP que gerencia requests e respostas para um cliente: sei fazer com autonomia
@@ -580,7 +615,7 @@ desenvolvimento do projeto.
 
 ![image](https://static.wixstatic.com/media/28f919_850cdd0bc47d4fbd8aa3eeb79db23bf3~mv2.png/v1/fill/w_144,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Subiter_NovoLogoCol.png)
 
-##### *Figura 01. Logo Subiter Fonte(https://www.subiter.com)*
+##### *Figura 01. Logo Subiter Fonte([Subiter](https://www.subiter.com))*
 
 ### Visão do Projeto
 
@@ -588,15 +623,33 @@ desenvolvimento do projeto.
 
 ### Tecnologias adotadas na solução
 
-* **Back-end:** Java e Spring-Boot
-* **Front-end:** Angular, CSS, Bootstrap
-* **Banco de Dados:** SQLite
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">FrontEnd</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" width="70" height="70" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
+  <div style="display: inline_block">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
 
-## Contribuições Pessoais
+## Iniciativas Implementadas
 
   Desempenhei um papel central na implementação da lógica do motor de regras da API, desenvolvendo um algoritmo altamente funcional. Este algoritmo foi projetado para efetuar cálculos com base nos valores recebidos como parâmetros e, em resposta, determinar a promoção mais vantajosa a ser aplicada no carrinho de compras do usuário.
   
-<details open><summary>Informações código Back-End</summary>
+<details open><summary>Informações sobre a Lógica do Sistema</summary>
      
    ```js
    
@@ -627,7 +680,7 @@ desenvolvimento do projeto.
 
    ```
    
-Este código é um método de atualização de chamado em uma aplicação. Vou explicar o que cada parte faz:
+Este trecho é um método de atualização de chamado em uma aplicação. Vou explicar o que cada parte faz:
 
 - O método recebe dois parâmetros: um ID do chamado a ser atualizado (representado por um número inteiro) e um objeto Chamado contendo as novas informações para atualização.
 Chamado chamadoSelector = this.getChamadoById(id); - Esta linha obtém o chamado existente com o ID fornecido usando um método getChamadoById (que não está presente neste trecho de código). O chamado original é armazenado na variável chamadoSelector.
@@ -653,15 +706,15 @@ As linhas seguintes atualizam várias propriedades do chamado selecionado com os
 
 <details close></summary></summary>
 
-Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalhes
+Click [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
 
 </details>
 
 </details>   
 
-- Tive uma participação ativa na integração perfeita entre o Front-End e Back-End, desempenhando um papel crucial na criação de vários métodos e na execução de testes rigorosos para assegurar a validade das requisições.
+- Tive uma participação ativa na integração entre o Front-End e Back-End, desempenhando um papel crucial na criação de vários métodos e na execução de testes para assegurar a validade das requisições.
 
- <details open><summary>Informações código Front-End</summary>
+ <details open><summary>Detalhes da Interface do Usuário</summary>
        
    ```js
    
@@ -713,7 +766,7 @@ Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalh
 
 </details> 
 
-## Aprendizados Efetivos
+## Conhecimentos Úteis Adquiridos
 
 Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
 Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
@@ -736,7 +789,7 @@ Essa experiência também reforçou a importância de estar em constante busca p
 
 ![image](https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png)
 
-##### *Figura 01. Logo Midall Fonte(https://www.https://midall.com.br)*
+##### *Figura 01. Logo Midall Fonte([MidAll](https://www.https://midall.com.br))*
 
 ### Visão do Projeto
 
@@ -747,9 +800,9 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 ### Tecnologias adotadas na solução
 
 <div style="text-align: center;">
-  <div style="margin-top: 10px; font-weight: bold;"> #### BackEnd</div>
+  <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="100" height="100" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="70" height="70" />
   </div>
 </div>
 
@@ -768,136 +821,217 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
   </div>
 </div>
 
-## Contribuições Pessoais
+## Iniciativas Implementadas
 
   Desempenhei um papel central na implementação do Banco de Dados, desenvolvendo um Modelo Lógico e Relacional para efetuar a organização e armazenamento eficiente dos metadados dos arquivos. Isso envolveu a criação de tabelas, definição de relacionamentos entre elas e a escolha de estratégias de indexação para otimizar o acesso aos dados. Além disso, trabalhei na implementação das consultas SQL necessárias para recuperar os metadados com rapidez e precisão, contribuindo assim para a construção do dashboard de monitoramento.
 
 Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamental para garantir que os metadados fossem armazenados de forma coerente e organizada, permitindo uma análise eficaz dos resultados e indicadores do serviço. Isso também facilitou a integração dos dados do banco de dados com a aplicação de serviço, criando uma solução completa e eficiente para o desafio do projeto.
   
-<details open><summary>Informações código Back-End</summary>
+<details open><summary>Informações sobre a lógica utilizada na modelagem do Banco de Dados</summary>
+
+   ### Modelo Lógico
      
-   ```js
-   
-	   public Chamado updateChamadoById(Integer id, Chamado chamado) {
-			Chamado chamadoSelector = this.getChamadoById(id);
-
-			String Ns = chamadoSelector.getAgendamento().getNumerosSerie();
-			String Ns = "";
-			if(chamadoSelector.getAgendamento() != null) {
-				Ns = chamadoSelector.getAgendamento().getNumerosSerie();
-			}
-
-			EquipamentoSerie equipamentoSerie = this.equipamentoSerie.getById(Ns);
-
-			if (chamado.getSituacaoChamado().equals("F") || chamado.getSituacaoChamado().equals("f")) {
-				equipamentoSerie.setDisponibilidade(true);
-				chamadoSelector.setEncerramentoChamado(LocalDate.now());
-				this.equipamentoSerie.save(equipamentoSerie);
-			}
-			chamadoSelector.setCriticidadeChamado(chamado.getCriticidadeChamado());
-			chamadoSelector.setDataChamado(chamado.getDataChamado());
-			chamadoSelector.setDescricaoChamado(chamado.getDescricaoChamado());
-			chamadoSelector.setSituacaoChamado(chamado.getSituacaoChamado());
-			chamadoSelector.setSolucaoChamado(chamado.getSolucaoChamado());
-
-			return chamadoRepository.save(chamadoSelector);
-		}  
-
    ```
-   
-Este código é um método de atualização de chamado em uma aplicação. Vou explicar o que cada parte faz:
-
-- O método recebe dois parâmetros: um ID do chamado a ser atualizado (representado por um número inteiro) e um objeto Chamado contendo as novas informações para atualização.
-Chamado chamadoSelector = this.getChamadoById(id); - Esta linha obtém o chamado existente com o ID fornecido usando um método getChamadoById (que não está presente neste trecho de código). O chamado original é armazenado na variável chamadoSelector.
-
-- String Ns = chamadoSelector.getAgendamento().getNumerosSerie(); - Esta linha extrai o número de série (atributo numerosSerie) do objeto Agendamento dentro do chamado selecionado e o armazena na variável Ns.
-
-- String Ns = ""; - Parece haver um erro neste trecho, pois a variável Ns já foi declarada anteriormente.
-
-- if(chamadoSelector.getAgendamento() != null) { Ns = chamadoSelector.getAgendamento().getNumerosSerie(); } - Esta condição verifica se o objeto Agendamento dentro do chamado selecionado não é nulo. Se não for nulo, o número de série é atribuído à variável Ns.
-
-- EquipamentoSerie equipamentoSerie = this.equipamentoSerie.getById(Ns); - Aqui, é obtido um objeto EquipamentoSerie com base no número de série obtido. O método getById (que pertence a uma instância de equipamentoSerie, provavelmente uma classe) é usado para obter o objeto correspondente ao número de série.
-
-- if (chamado.getSituacaoChamado().equals("F") || chamado.getSituacaoChamado().equals("f")) { ... } - Esta condição verifica se a situação do chamado recebido é igual a "F" ou "f". Se for, o seguinte bloco de código será executado:
-
-  a. equipamentoSerie.setDisponibilidade(true); - Define a disponibilidade do objeto equipamentoSerie como verdadeira.
-
-  b. chamadoSelector.setEncerramentoChamado(LocalDate.now()); - Define a data de encerramento do chamado selecionado como a data atual (representada por LocalDate.now()).
-
-  c. this.equipamentoSerie.save(equipamentoSerie); - Salva as alterações feitas no objeto equipamentoSerie no banco de dados ou em algum outro local de armazenamento.
-
-As linhas seguintes atualizam várias propriedades do chamado selecionado com os valores fornecidos no objeto chamado.
-- return chamadoRepository.save(chamadoSelector); - Por fim, o chamado selecionado, com todas as atualizações realizadas, é salvo utilizando o método save de um repositório chamado chamadoRepository (que não está presente neste trecho de código), e o chamado atualizado é retornado.
-
-<details close></summary></summary>
-
-Click aqui [GitHub]([https://github.com/Doc-Docker/APISubiter]) para mais detalhes
-
-</details>
-
-</details>   
-
-- Tive uma participação ativa na integração perfeita entre o Front-End e Back-End, desempenhando um papel crucial na criação de vários métodos e na execução de testes rigorosos para assegurar a validade das requisições.
-
- <details open><summary>Informações código Front-End</summary>
-       
-   ```js
-   
-        import {http} from './config'
-	export default{
-	    listar:(token) =>{
-		return http.get('/chamados', {headers:{Authorization: `Bearer ${token}`}})
-	    },
-	    salvar:(suporte)=>{
-		return http.post('/chamados', suporte)
-	    },
-	    deletar:(id)=>{
-		return http.delete('/chamados/' + id)
-	    },
-
-	    atualizar:(chamado)=>{
-		return http.patch('/chamados/' + chamado.id , chamado)
-	    atualizar:(chamado, id, token)=>{
-		return http.patch('/chamados/' + id , chamado, {headers:{Authorization: `Bearer ${token}`}})
-	    },
-
-	    listarEquipamentosDisponiveis:(token) =>{
-		return http.get('/equipamento-serie/disponivel', {headers:{Authorization: `Bearer ${token}`}})
-	    } ,
-
-	    salvarAgendamento:(agendamento, token)=>{
-		return http.post('/agendamento', agendamento, {headers:{Authorization: `Bearer ${token}`}})
-	    }
+	
+	Entidades:
+	Usuários (Users)
+	{
+	   UserID (Chave Primária)
+	   Nome
+	   Email
+	   Senha
+	   Papel de Acesso (por exemplo, administrador, usuário comum)
 	}
-         
+
+  	Downloads (Downloads)
+	{
+ 	   DownloadID (Chave Primária)
+	   Nome do Arquivo
+	   Data de Início do Download
+	   Data de Conclusão do Download
+	   Status do Download (em andamento, concluído, falha, etc.)
+	   ID do Usuário (Chave Estrangeira relacionando ao Usuário que iniciou o download)
+	   Arquivos na Nuvem (CloudFiles)
+	}
+ 
+	FileID (Chave Primária)
+	{
+ 	   Nome do Arquivo
+	   Localização na Nuvem
+	   Tamanho do Arquivo
+	   Data de Upload
+	   ID do Usuário (Chave Estrangeira relacionando ao Usuário que fez o upload)
+	   Registros de Desempenho (PerformanceLogs)
+	}
+ 
+	LogID (Chave Primária)
+	{	
+ 	   Data e Hora do Log
+	   Descrição do Evento (por exemplo, início de download, conclusão de download, erro de download, etc.)
+	   Detalhes Adicionais (por exemplo, velocidade de download, tamanho do arquivo, etc.)
+	   ID do Download (Chave Estrangeira relacionando ao Download ao qual o log está associado)
+	}
+ 	
+  	Relacionamentos:
+	
+	Um Usuário pode iniciar vários Downloads, então há uma relação um-para-muitos entre Usuários e Downloads.
+	Um Usuário pode fazer upload de vários Arquivos na Nuvem, então há uma relação um-para-muitos entre Usuários e Arquivos na Nuvem.
+	Cada Log de Desempenho está associado a um Download específico, estabelecendo uma relação um-para-muitos entre Downloads e Registros de Desempenho.
+	Este é um modelo lógico básico que pode ser adaptado às necessidades específicas do seu projeto. Você pode considerar adicionar mais detalhes, como 
+	informações sobre os servidores de download, categorias de arquivos na nuvem, histórico de downloads, entre outros, conforme necessário para o seu 
+	aplicativo de automação de downloads e gerenciamento em nuvem com painel de monitoramento de desempenho. Além disso, você pode definir as chaves 
+	primárias, índices e restrições de integridade referencial apropriados com base nos requisitos do seu sistema.
+
    ```
-- <strong>listar</strong>:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de chamados. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/chamados', e o token de autorização é passado no cabeçalho da requisição.
+Este modelo lógico de banco de dados é projetado para um sistema de automação de downloads e gerenciamento em nuvem, com ênfase no monitoramento de desempenho. 
 
-- <strong>salvar</strong>:(suporte) => { ... } - Esta função faz uma solicitação POST para salvar um novo chamado. Recebe um objeto suporte contendo as informações do chamado a ser salvo. A URL para a solicitação POST é '/chamados', e o objeto suporte é passado como corpo da requisição.
-
-- <strong>deletar</strong>:(id) => { ... } - Esta função faz uma solicitação DELETE para excluir um chamado com base em seu ID. Recebe um parâmetro id que representa o ID do chamado a ser excluído. A URL para a solicitação DELETE é '/chamados/' + id, onde o ID é concatenado à URL.
-
-- <strong>atualizar</strong>:(chamado) => { ... } - Esta função faz uma solicitação PATCH para atualizar um chamado existente. Recebe um objeto chamado contendo as informações atualizadas do chamado. A URL para a solicitação PATCH é '/chamados/' + chamado.id, onde o ID do chamado é concatenado à URL, e o objeto chamado é passado como corpo da requisição.
-
-- <strong>atualizar</strong>:(chamado, id, token) => { ... } - Esta função é uma versão modificada da função atualizar, que inclui um parâmetro adicional token para autenticar a requisição. Recebe um objeto chamado contendo as informações atualizadas do chamado, um parâmetro id que representa o ID do chamado a ser atualizado e um parâmetro token para autenticação. A URL para a solicitação PATCH é '/chamados/' + id, onde o ID é concatenado à URL, o objeto chamado é passado como corpo da requisição, e o token de autorização é passado no cabeçalho da requisição.
-
-- <strong>listarEquipamentosDisponiveis</strong>:(token) => { ... } - Esta função faz uma solicitação GET para obter a lista de equipamentos disponíveis. Recebe um parâmetro token que é utilizado para autenticar a requisição. A URL para a solicitação GET é '/equipamento-serie/disponivel', e o token de autorização é passado no cabeçalho da requisição.
-
-- <strong>salvarAgendamento</strong>:(agendamento, token) => { ... } - Esta função faz uma solicitação POST para salvar um novo agendamento. Recebe um objeto agendamento contendo as informações do agendamento a ser salvo e um parâmetro token para autenticação. A URL para a solicitação POST é '/agendamento', o objeto agendamento é passado como corpo da requisição, e o
+As principais entidades incluem Usuários, Downloads, Arquivos na Nuvem e Registros de Desempenho, cada uma com atributos relevantes. 
+Os relacionamentos definem que um usuário pode iniciar vários downloads e fazer upload de vários arquivos na nuvem. Além disso, cada log de desempenho está associado a um download específico.   
 
 <details close></summary></summary>
+
+Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
 
 </details>
 
 </details> 
 
-## Aprendizados Efetivos
+## Conhecimentos Adquiridos
 
 Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
 Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
 
 </details>
 
+## Projeto VI
+
+<details>
+  
+<summary>
+	Mais Detalhes do Projeto VI
+</summary>
+
+# Solução de Automação de Downloads e Gerenciamento em Nuvem com Painel de Monitoramento de Desempenho
+
+### Parceiro Acadêmico
+	
+<br/>
+
+![image](https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png)
+
+##### *Figura 01. Logo Midall Fonte([MidAll](https://www.https://midall.com.br))*
+
+### Visão do Projeto
+
+O projeto consistia em criar uma solução para automatizar o processo de download de arquivos de uma plataforma de vídeo e transferi-los para a nuvem. Isso foi alcançado através do desenvolvimento de uma aplicação como serviço que simplificou o processo para o usuário, permitindo que eles configurassem o serviço com os parâmetros necessários para o download automático. Além disso, a aplicação foi projetada para gerar alertas em caso de erros durante o processamento.
+
+Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam posteriormente usados para construir um dashboard. Esse painel serviria para monitorar a execução do serviço, analisar resultados e fornecer indicadores importantes para avaliar o desempenho do sistema.
+
+### Tecnologias adotadas na solução
+
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
+  <div style="display: inline_block">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Front-End</div>
+  <div style="display: inline_block">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="70" height="70" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+
+<div style="text-align: center;">
+  <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
+  <div style="display: inline_block">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="70" height="70" />
+  </div>
+</div>
+
+## Iniciativas Implementadas
+
+  Desempenhei um papel central na implementação do Banco de Dados, desenvolvendo um Modelo Lógico e Relacional para efetuar a organização e armazenamento eficiente dos metadados dos arquivos. Isso envolveu a criação de tabelas, definição de relacionamentos entre elas e a escolha de estratégias de indexação para otimizar o acesso aos dados. Além disso, trabalhei na implementação das consultas SQL necessárias para recuperar os metadados com rapidez e precisão, contribuindo assim para a construção do dashboard de monitoramento.
+
+Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamental para garantir que os metadados fossem armazenados de forma coerente e organizada, permitindo uma análise eficaz dos resultados e indicadores do serviço. Isso também facilitou a integração dos dados do banco de dados com a aplicação de serviço, criando uma solução completa e eficiente para o desafio do projeto.
+  
+<details open><summary>Informações sobre a lógica utilizada na modelagem do Banco de Dados</summary>
+
+   ### Modelo Lógico
+     
+   ```
+	
+	Entidades:
+	Usuários (Users)
+	{
+	   UserID (Chave Primária)
+	   Nome
+	   Email
+	   Senha
+	   Papel de Acesso (por exemplo, administrador, usuário comum)
+	}
+
+  	Downloads (Downloads)
+	{
+ 	   DownloadID (Chave Primária)
+	   Nome do Arquivo
+	   Data de Início do Download
+	   Data de Conclusão do Download
+	   Status do Download (em andamento, concluído, falha, etc.)
+	   ID do Usuário (Chave Estrangeira relacionando ao Usuário que iniciou o download)
+	   Arquivos na Nuvem (CloudFiles)
+	}
+ 
+	FileID (Chave Primária)
+	{
+ 	   Nome do Arquivo
+	   Localização na Nuvem
+	   Tamanho do Arquivo
+	   Data de Upload
+	   ID do Usuário (Chave Estrangeira relacionando ao Usuário que fez o upload)
+	   Registros de Desempenho (PerformanceLogs)
+	}
+ 
+	LogID (Chave Primária)
+	{	
+ 	   Data e Hora do Log
+	   Descrição do Evento (por exemplo, início de download, conclusão de download, erro de download, etc.)
+	   Detalhes Adicionais (por exemplo, velocidade de download, tamanho do arquivo, etc.)
+	   ID do Download (Chave Estrangeira relacionando ao Download ao qual o log está associado)
+	}
+ 	
+  	Relacionamentos:
+	
+	Um Usuário pode iniciar vários Downloads, então há uma relação um-para-muitos entre Usuários e Downloads.
+	Um Usuário pode fazer upload de vários Arquivos na Nuvem, então há uma relação um-para-muitos entre Usuários e Arquivos na Nuvem.
+	Cada Log de Desempenho está associado a um Download específico, estabelecendo uma relação um-para-muitos entre Downloads e Registros de Desempenho.
+	Este é um modelo lógico básico que pode ser adaptado às necessidades específicas do seu projeto. Você pode considerar adicionar mais detalhes, como 
+	informações sobre os servidores de download, categorias de arquivos na nuvem, histórico de downloads, entre outros, conforme necessário para o seu 
+	aplicativo de automação de downloads e gerenciamento em nuvem com painel de monitoramento de desempenho. Além disso, você pode definir as chaves 
+	primárias, índices e restrições de integridade referencial apropriados com base nos requisitos do seu sistema.
+
+   ```
+Este modelo lógico de banco de dados é projetado para um sistema de automação de downloads e gerenciamento em nuvem, com ênfase no monitoramento de desempenho. 
+
+As principais entidades incluem Usuários, Downloads, Arquivos na Nuvem e Registros de Desempenho, cada uma com atributos relevantes. 
+Os relacionamentos definem que um usuário pode iniciar vários downloads e fazer upload de vários arquivos na nuvem. Além disso, cada log de desempenho está associado a um download específico.   
+
+<details close></summary></summary>
+
+Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
+
+</details>
+
+</details> 
+
+## Conhecimentos Adquiridos
+
+Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
+Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
+
+</details>
 
 <br>
 
