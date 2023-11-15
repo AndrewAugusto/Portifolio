@@ -4,9 +4,9 @@
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS e C#.
+   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS, C#, React.
 
-   Apesar do meu tempo relativamente curto de experiência como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades e crescendo nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
+   Apesar do meu tempo relativamente curto de experiência profissional como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades e crescendo nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
 
 <br>
 
@@ -29,7 +29,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />  
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85" />
   </div>
-  
 
 <br>
 
