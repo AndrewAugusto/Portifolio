@@ -173,20 +173,28 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 
 ## Aprendizados Efetivos
 
-* Iniciei minha jornada com a linguagem de programação Python, abrindo portas para novas possibilidades.
-* Adquiri uma compreensão profunda da metodologia ágil Scrum, aplicando seus princípios de forma prática.
-* Optei por adotar o paradigma de programação imperativo para construir meu projeto, utilizando uma abordagem estruturada.
-* Desenvolvi uma base sólida em lógica de programação, capacitando-me para resolver desafios computacionais de maneira eficaz.
-* Introduzi e utilizei com sucesso as primeiras estruturas de dados em meu projeto, explorando as capacidades da linguagem Python.
-* Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas e stakeholders.
-
-#### Hard Skills Desenvolvidas
-
-* Desenvolvimento do backend com Python, criando aplicações robustas.
-* Criação de APIs para fornecer serviços e funcionalidades.
-* Domínio do versionamento de código com o uso do Git.
-* Capaz de projetar a arquitetura de sistemas alinhada aos requisitos funcionais e não funcionais.
-* Experiência no desenvolvimento integrado com bancos de dados relacionais.
+#### Início com Python:
+Iniciei minha jornada com a linguagem de programação Python, abrindo portas para novas possibilidades.
+#### Compreensão Profunda do Scrum:
+Adquiri uma compreensão profunda da metodologia ágil Scrum, aplicando seus princípios de forma prática.
+#### Adoção do Paradigma Imperativo:
+Optei por adotar o paradigma de programação imperativo para construir meu projeto, utilizando uma abordagem estruturada.
+#### Base Sólida em Lógica de Programação:
+Desenvolvi uma base sólida em lógica de programação, capacitando-me para resolver desafios computacionais de maneira eficaz.
+#### Introdução e Uso de Estruturas de Dados:
+Introduzi e utilizei com sucesso as primeiras estruturas de dados em meu projeto, explorando as capacidades da linguagem Python.
+#### Evolução das Habilidades de Comunicação:
+Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas e stakeholders.
+#### Desenvolvimento Backend com Python:
+Desenvolvimento do backend com Python, criando aplicações robustas.
+#### Criação de APIs:
+Criação de APIs para fornecer serviços e funcionalidades.
+#### Versionamento de Código com Git:
+Domínio do versionamento de código com o uso do Git.
+#### Projetar Arquitetura de Sistemas:
+Capacidade de projetar a arquitetura de sistemas alinhada aos requisitos funcionais e não funcionais.
+#### Desenvolvimento Integrado com Bancos de Dados Relacionais:
+Experiência no desenvolvimento integrado com bancos de dados relacionais.
 
 </details>
 
@@ -367,13 +375,28 @@ Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y"
 
 </details>
 
-## Conhecimentos Úteis Adquiridos
+## Conhecimentos Adquiridos
 
-* Ao longo do desenvolvimento do projeto, foi aproveitado a valiosa oportunidade de adquirir um profundo conhecimento sobre sistemas de gerenciamento de banco de dados (SGBDs), capacitando-me a coletar e manipular informações de maneira altamente eficiente para a geração de séries históricas e métricas de grande relevância para os usuários da aplicação.
-* Essa experiência enriqueceu consideravelmente minhas habilidades na manipulação de dados dentro de ambientes de banco de dados. Pude aprimorar minha capacidade de criar consultas SQL e utilizar diversos comandos para extrair informações específicas e impactantes. Além disso, aproveitei a oportunidade para explorar e me familiarizar profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de maneira excepcionalmente eficaz.
-* Minha contribuição desempenhou um papel fundamental no desenvolvimento da aplicação, uma vez que pude criar consultas e rotinas que viabilizaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do próprio banco de dados. Essas métricas forneceram insights inestimáveis aos usuários, permitindo-lhes uma compreensão mais completa da situação e da evolução do sistema, além de respaldar decisões informadas com base nesses dados.
-* Ao longo desse processo, aprofundei minha compreensão dos princípios fundamentais que regem um SGBD e a importância de estruturar e organizar os dados de maneira adequada para facilitar operações futuras. A experiência também me mostrou a relevância de otimizar consultas e operações de banco de dados, contribuindo para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
-* Como resultado, minha atuação no projeto não apenas se limitou à coleta e manipulação de dados, mas também envolveu a criação de um ambiente de banco de dados resiliente e otimizado. Esse aspecto desempenhou um papel essencial no sucesso da aplicação como um todo. A experiência adquirida nesse processo me concedeu um conhecimento profundo e uma base sólida para futuros empreendimentos que envolvam a gestão de dados e o uso de SGBDs.
+#### Aquisição de Conhecimento Profundo:
+Aproveitei a oportunidade durante o desenvolvimento do projeto para adquirir um profundo conhecimento em sistemas de gerenciamento de banco de dados (SGBDs).
+#### Manipulação Eficiente de Informações: 
+Desenvolvi habilidades para coletar e manipular informações de maneira altamente eficiente, gerando séries históricas e métricas relevantes para os usuários. 
+#### Aprimoramento de Consultas SQL: 
+A experiência enriqueceu minhas habilidades na manipulação de dados, aprimorando minha capacidade de criar consultas SQL e utilizar diversos comandos para extrair informações específicas e impactantes.
+#### Exploração de Ferramentas de Gerenciamento: 
+Explorei e me familiarizei profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de maneira excepcionalmente eficaz. 
+#### Coleta de Métricas Cruciais:
+Criei consultas e rotinas que possibilitaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do banco de dados, fornecendo insights inestimáveis aos usuários.
+#### Aprofundamento nos Princípios Fundamentais:
+Aprofundei minha compreensão dos princípios fundamentais que regem um SGBD, destacando a importância de estruturar e organizar os dados adequadamente para facilitar operações futuras.
+#### Relevância da Otimização:
+Reconheci a relevância de otimizar consultas e operações de banco de dados para contribuir para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
+#### Atuação Além da Manipulação de Dados:
+Minha atuação no projeto não se limitou à coleta e manipulação de dados, envolvendo também a criação de um ambiente de banco de dados resiliente e otimizado.
+#### Papel Essencial no Sucesso da Aplicação:
+Esse aspecto desempenhou um papel essencial no sucesso da aplicação como um todo, contribuindo para a eficácia operacional.
+#### Conhecimento Profundo e Base Sólida:
+A experiência adquirida concedeu um conhecimento profundo e uma base sólida para futuros empreendimentos relacionados à gestão de dados e ao uso de SGBDs.
 
 </details>
   
@@ -435,7 +458,7 @@ Link do repositório do projeto: [Repositório](https://github.com/Doc-Docker/AP
   </div>
 </div>
 
-## Conhecimentos Úteis Adquiridos
+## Conhecimentos Adquiridos
 
    Assumi a responsabilidade crucial de implementar a lógica do motor de regras na API, desempenhando um papel central na criação de um algoritmo avançado. Esse algoritmo foi projetado para calcular os valores passados como parâmetros, em retorno, fornecer a melhor promoção a ser aplicada no carrinho de compras do usuário.
 
@@ -582,35 +605,24 @@ Click [aqui](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/s
 
 </details> 
 
-## Conhecimentos Úteis Adquiridos
+## Conhecimentos Adquiridos
 
-  A integração do projeto com as disciplinas do semestre ocorreu em várias frentes, sendo a mais significativa na disciplina de Engenharia de Software. Durante o desenvolvimento deste trabalho ao longo do semestre, começamos a explorar diversos padrões de projeto nessa disciplina pela primeira vez. Pela primeira vez, concentramo-nos em organizar nosso programa, que se tornaria o produto final, em camadas, seguindo padrões de arquitetura, tornando-o modular e aderindo a métodos de construção comumente utilizados no mercado e na comunidade.
-
-Este foi um passo inicial na compreensão de competências fundamentais para qualquer desenvolvedor de software.
-
-Outros aprendizados igualmente importantes merecem destaque:
-
-Durante o desenvolvimento do projeto, a otimização de desempenho do sistema foi uma consideração central. Lidamos com uma base de dados de tamanho modesto, mas era necessário calcular diversos fatores para todos os seus registros. Diante disso, foi crucial pensar em métodos de processamento mais eficientes para garantir uma resposta rápida e confiável aos usuários finais. A evolução dos algoritmos de análise de dados ao longo do projeto foi de grande valia para nossa formação como profissionais desenvolvedores
-
-#### Hard Skills Efetivamente Desenvolvidas
-
-O conhecimento adquirido neste projeto pode ser resumido da seguinte forma:
-
-- Desenvolvimento de aplicações back-end em Java: Sei fazer com ajuda.
-- Criação de uma API HTTP que gerencia requests e respostas para um cliente: sei fazer com autonomia
-- Versionamento de repositório git: Sei fazer com autonomia.
-- Importação de dados de diferentes fontes e análises gerais sobre o conteúdo importado: sei fazer com ajuda
-- Definir a arquitetura de um sistema de acordo com seus requisitos funcionais e não funcionais: sei fazer com ajuda
-- Desenvolvimento com integração a um banco de dados relacional: Sei fazer com autonomia
-
-#### Soft Skills Efetivamente Desenvolvidas
-
-- <strong>Comunicação</strong>: uma habilidade que está em constante desenvolvimento, e não foi diferente nesta etapa onde foi necessário apresentar o projeto para o cliente e professores avaliadores. 
-Além de ser necessário para manter um esquema organizacional eficiente, ativo e funcional entre os integrantes da equipe. 
-- <strong>Gestão de Tempo</strong>: por ser o primeiro projeto em parceria com um cliente real no curso de Banco de Dados, uma empresa parceira da universidade, com prazos mais curtos para um 
-desenvolvimento mais complexo e com mais requisitos, o controle do tempo foi necessário para cumprir com as entregas nos prazos determinados, buscando otimizar a eficiência.
-- <strong>Gerenciamento de projetos</strong>: muitas vezes o melhor caminho pode não ser o mais claro ou o mais fácil, portanto a tomada de decisões de forma assertiva foi uma habilidade crítica para o 
-desenvolvimento do projeto.
+#### Integração com Disciplinas do Semestre:
+Integração do projeto com a disciplina de Engenharia de Software, explorando padrões de projeto e organização em camadas.
+#### Padrões de Projeto:
+Exploração de diversos padrões de projeto, organizando o programa em camadas e seguindo padrões de arquitetura.
+#### Competências Fundamentais para Desenvolvedores:
+Desenvolvimento de competências fundamentais para qualquer desenvolvedor de software, incluindo modularização e métodos de construção comumente utilizados.
+#### Otimização de Desempenho do Sistema:
+Consideração central na otimização de desempenho do sistema, lidando com uma base de dados de tamanho modesto e implementando métodos de processamento eficientes.
+#### Evolução dos Algoritmos de Análise de Dados:
+Valorização da evolução dos algoritmos de análise de dados ao longo do projeto, contribuindo para a formação como profissionais desenvolvedores.
+#### Comunicação:
+Desenvolvimento constante da habilidade, destacando apresentações para clientes e professores avaliadores, além da comunicação eficiente dentro da equipe.
+#### Gestão de Tempo:
+Aplicação da habilidade em um projeto com prazos mais curtos, buscando otimizar a eficiência.
+#### Gerenciamento de Projetos:
+Tomada de decisões assertivas em situações onde o melhor caminho nem sempre era claro, demonstrando habilidades críticas de gerenciamento de projetos.
 
 </details>
 
@@ -781,10 +793,26 @@ Click [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do pro
 
 </details> 
 
-## Conhecimentos Úteis Adquiridos
+## Conhecimentos Adquiridos
 
-Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
-Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
+#### Aprendizado do VueJs:
+Adquiri habilidades no uso do VueJs, explorando suas funcionalidades e sintaxe.
+#### Consulta à Documentação Oficial:
+Compreendi a importância de consultar a documentação oficial do VueJs para obter informações detalhadas e precisas sobre a tecnologia.
+#### Estudo Aprofundado:
+Reconheci a necessidade de dedicar tempo a um estudo aprofundado para construir uma base sólida e confiável de conhecimento em VueJs.
+#### Noções Básicas vs. Complexidades:
+Percebi que, embora os tutoriais sejam úteis para noções básicas, o estudo da documentação permitiu a compreensão das complexidades da tecnologia.
+#### Exploração de Recursos Avançados:
+Aprofundei meu conhecimento explorando recursos avançados do VueJs, além do que é geralmente abordado em tutoriais introdutórios.
+#### Constante Busca por Novos Aprendizados:
+Reforcei a importância de estar constantemente em busca de novos aprendizados para acompanhar as evoluções tecnológicas.
+#### Atualização sobre Tendências do Mercado:
+Compreendi a necessidade de manter-me atualizado sobre as últimas tecnologias e tendências do mercado para permanecer relevante no cenário profissional.
+#### Desenvolvimento de Projeto Sofisticado:
+Utilizando o conhecimento adquirido, desenvolvi um projeto mais sofisticado e eficaz, incorporando práticas avançadas do VueJs.
+#### Aquisição de Habilidades Valiosas:
+Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
 
 </details>
 
@@ -911,10 +939,103 @@ Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do
 
 </details> 
 
+<details open><summary>Informações sobre Migração de DataBase</summary>
+
+   ### Modelo Lógico
+     
+   ```python
+
+ 	import os
+	import subprocess
+	
+	# Configurações
+	source_server = "ninjasnovo.********************"
+	target_server = "ninjastech.********************"
+	
+	# Clone o repositório Git
+	def clone_repository():
+	    os.system("git clone https://github.com/TechNinjass/midall-backend.git")
+	
+	# Execute as tarefas de migração usando Ansible
+	def run_migration():
+	    command = f"ansible-playbook {ansible_playbook_path}"
+	    os.system(command)
+	
+	# Atualize o repositório Git após a migração
+	def update_repository():
+	    os.chdir("midall-backend")
+	    os.system("git pull origin main")
+	
+	# Faça o push das alterações para o novo servidor
+	def push_to_target():
+	    os.system(f"rsync -avzhe ssh ./* main")
+	
+	# Limpeza
+	def cleanup():
+	    os.system("rm -rf midall-backend")
+	
+	# Fluxo principal
+	def main():
+	repo_url = input("https://github.com/TechNinjass/midall-backend.git")
+	clone_repository(repo_url)
+	run_migration()
+	update_repository()
+	push_to_target()
+	cleanup()
+	
+	if __name__ == "__main__":
+	main()
+	
+   ```
+Este é uma ideia de automação de migração foi desenvolvido para facilitar a transição de um aplicativo de um servidor de origem para um servidor de destino. A migração é realizada utilizando práticas comuns de DevOps, incluindo a automação de tarefas com o Ansible e o controle de versão com o Git.
+
+Esse processo tinha a intenção de trazer algumas funcionalidades como:
+
+#### Clone do Repositório:
+O script começa clonando o repositório Git do aplicativo a ser migrado. O repositório original está hospedado no GitHub.
+
+#### Execução de Tarefas de Migração com Ansible:
+Em seguida, o Ansible é utilizado para executar tarefas de migração específicas. As tarefas podem incluir a configuração de servidores, instalação de dependências, entre outras ações necessárias para a migração.
+
+#### Atualização do Repositório Git após Migração:
+Após a migração, o repositório local é atualizado para refletir as alterações feitas durante o processo de migração.
+
+#### Push das Alterações para o Novo Servidor:
+As alterações no repositório local são então sincronizadas e enviadas para o novo servidor usando o comando rsync via SSH.
+
+#### Limpeza:
+Por fim, mas não menos importante, para manter a organização, o script realiza a limpeza, removendo o repositório local.
+
+<details close></summary></summary>
+
+Click [aqui](https://github.com/TechNinjass/midall-parent/wiki/3--Migration-Database) para mais detalhes do projeto de migração de Database.
+
+</details>
+
+</details> 
+
 ## Conhecimentos Adquiridos
 
-Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
-Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
+#### Automação de Migração:
+Desenvolvi um script em Python para automatizar o processo de migração de um aplicativo entre servidores, facilitando a execução de tarefas complexas de DevOps.
+#### Integração com Git:
+Utilizei comandos Git no script para clonar um repositório remoto, atualizar o repositório local após a migração e realizar operações de limpeza.
+#### Ansible para Automação de Tarefas:
+Integrei o Ansible no fluxo de trabalho para realizar tarefas de migração específicas, permitindo uma automação eficiente e consistente.
+#### Manipulação de Ambientes Remotos:
+O script executa operações em ambientes remotos, incluindo a clonagem do repositório do GitHub e a execução de tarefas no servidor de destino usando SSH.
+#### Controle de Versão:
+Demonstrado conhecimento em controle de versão usando Git, incluindo clonagem, atualização e manipulação de repositórios locais.
+#### Sincronização de Arquivos com Rsync:
+Utilizei o Rsync para sincronizar eficientemente arquivos entre o repositório local e o novo servidor, garantindo consistência nas alterações.
+#### Entrada do Usuário e Interatividade:
+Implementei a capacidade de receber entrada do usuário para a URL do repositório Git, tornando o script mais flexível e adaptável a diferentes cenários.
+#### Organização e Limpeza:
+Incorporado procedimentos de limpeza no script para garantir a organização e remoção de recursos desnecessários após a conclusão da migração.
+#### Adaptação e Personalização:
+O script foi projetado para ser facilmente adaptável, permitindo que o usuário ajuste as configurações, como URLs de repositório e servidores, de acordo com os requisitos específicos.
+#### Boas Práticas de Desenvolvimento:
+Segui boas práticas de desenvolvimento, como modularização do código em funções, uso de comentários para documentação e identação consistente para melhor legibilidade.
 
 </details>
 
