@@ -4,9 +4,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
 
-   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS, C#, React.
+   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS, C#, e tenho experiência sólida em bancos de dados SQL e Hana.
 
-   Apesar do meu tempo relativamente curto de experiência profissional como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades e crescendo nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
+Ao longo da minha carreira, pude aplicar meu conhecimento em modelagem, otimização e manipulação de dados usando SQL, contribuindo para a eficiência e integridade dos sistemas em que estive envolvido.
+
+Apesar do meu tempo relativamente curto de experiência profissional como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades em bancos de dados SQL e Hana, bem como crescendo de forma abrangente nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
 
 <br>
 
@@ -49,7 +51,7 @@
 
 <br>
      
-![image](https://user-images.githubusercontent.com/85988756/218878798-d33629bc-acf9-4edb-b463-b14fd8a85404.png)
+![image](https://bstqb.org.br/b9/sites/default/files/styles/max_325x325/public/2021-07/fatec.png?itok=2yof3fX8)
 
 ##### *Figura 01. Logo Fatec - Profº Jassen Vidal*
 
@@ -81,7 +83,7 @@ Link do repositório do projeto: [Repositório](https://github.com/AndrewAugusto
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0285e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 <div style="text-align: center;">
@@ -126,8 +128,6 @@ retornará a mensagem "Não entendi!".
 
 Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do projeto.
 	
-- O link acima traz detalhes da implementação da classe de serviço responsável por reconhecimento de voz.
-	
 </details>
 
 </details>   
@@ -164,8 +164,6 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 <details close></summary></summary>
 
 Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do Projeto.
-
-- O link acima traz detalhes da implementação do método responsável por enviar a requisição para back-end. 
 
 </details>
 
@@ -204,9 +202,9 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 	
 <br/>
 	
-<img src="https://user-images.githubusercontent.com/85851038/133914328-794317fa-31e1-4279-afb0-d986acb5db45.png" alt="440" width="300"/>
+<img src="https://necto.com.br/wp-content/uploads/2023/04/cropped-Frame-1.png"/>
 
-##### *Figura 01. Logo Necto System Fonte([Necto](www.necto.com.br))*
+##### *Figura 01. Logo Necto System Fonte([Necto](https://necto.com.br))*
 
 A empresa Necto System situada no Parque Tecnológico de São José dos Campos, propôs o seguinte desafio baseado na metodologia ágil Scrum.
 
@@ -817,7 +815,7 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0285e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
@@ -947,7 +945,7 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">BackEnd</div>
   <div style="display: inline_block">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0285e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="85" height="85" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
