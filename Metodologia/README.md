@@ -1,8 +1,8 @@
 # Andrew Augusto Dias Santos
 
-## Introdução
-
 <img src="https://avatars.githubusercontent.com/u/81338441?v=4" height="250" width="250"/>
+
+## Introdução
 
    Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS, C#, e tenho experiência sólida em bancos de dados SQL e Hana.
 
@@ -12,7 +12,7 @@ Apesar do meu tempo relativamente curto de experiência profissional como Desenv
 
 <br>
 
-## Meus principais conhecimentos
+## Principais conhecimentos
 
   <div style="margin-top: 10px; font-weight: bold;">Linguagens de programação (Back-End)</div>
   <div style="display: inline_block">
@@ -20,11 +20,13 @@ Apesar do meu tempo relativamente curto de experiência profissional como Desenv
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="85" height="85" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="85" height="85" />
   </div>
+  <div>  </div>
   <div style="margin-top: 10px; font-weight: bold;">Linguagens de programação (Front-End)</div>
   <div style="display: inline_block">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="85" height="85" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />  
   </div>
+  <div>  </div>
   <div style="margin-top: 10px; font-weight: bold;">Bancos de Dados</div>
   <div style="display: inline_block">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="85" height="85" />
