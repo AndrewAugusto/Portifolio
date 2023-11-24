@@ -1047,21 +1047,19 @@ Segui boas práticas de desenvolvimento, como modularização do código em fun�
 	Mais Detalhes do Projeto VI
 </summary>
 
-# Solução de Automação de Downloads e Gerenciamento em Nuvem com Painel de Monitoramento de Desempenho
+# Organização de um banco de dados público do Proagro para consultas e análises rápidas em Sistema de Informação Geográfica.
 
 ### Parceiro Acadêmico
 	
 <br/>
 
-![image](https://static.wixstatic.com/media/456d95_d8bfdcb4942b46c69950e9616742df4e~mv2.png/v1/fill/w_156,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo%20MidAll.png)
+![image](https://visionaespacial.com/wp-content/themes/VisionaEspacial/assets/img/logo-branca-completa.svg)
 
-##### *Figura 01. Logo Midall Fonte([MidAll](https://www.https://midall.com.br))*
+##### *Figura 01. Logo Visiona Espacial Fonte([MidAll](https://visionaespacial.com))*
 
 ### Visão do Projeto
 
-O projeto consistia em criar uma solução para automatizar o processo de download de arquivos de uma plataforma de vídeo e transferi-los para a nuvem. Isso foi alcançado através do desenvolvimento de uma aplicação como serviço que simplificou o processo para o usuário, permitindo que eles configurassem o serviço com os parâmetros necessários para o download automático. Além disso, a aplicação foi projetada para gerar alertas em caso de erros durante o processamento.
-
-Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam posteriormente usados para construir um dashboard. Esse painel serviria para monitorar a execução do serviço, analisar resultados e fornecer indicadores importantes para avaliar o desempenho do sistema.
+O Proagro é um programa do governo federal que tem por finalidade o custeio agrícola do pequeno e médio produtor brasileiro. Ao aderir ao programa, o produtor rural deverá informar dados referentes à atividade agrícola que irá desempenhar a partir da necessidade monetária. Estas informações são salvas em tabelas e em banco de dados relacionais. Ademais, informações espaciais da localização dos vértices das glebas cultivadas são informadas. E outras informações alfanuméricas referentes ao manejo, cultivar utilizada, produtividade potencial, data de plantio e colheita são obrigatórios no cadastro.
 
 ### Tecnologias adotadas na solução
 
