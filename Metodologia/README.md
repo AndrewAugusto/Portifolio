@@ -173,29 +173,60 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 
 ## Aprendizados Efetivos
 
-#### Início com Python:
-Iniciei minha jornada com a linguagem de programação Python, abrindo portas para novas possibilidades.
-#### Compreensão Profunda do Scrum:
-Adquiri uma compreensão profunda da metodologia ágil Scrum, aplicando seus princípios de forma prática.
-#### Adoção do Paradigma Imperativo:
-Optei por adotar o paradigma de programação imperativo para construir meu projeto, utilizando uma abordagem estruturada.
-#### Base Sólida em Lógica de Programação:
-Desenvolvi uma base sólida em lógica de programação, capacitando-me para resolver desafios computacionais de maneira eficaz.
-#### Introdução e Uso de Estruturas de Dados:
-Introduzi e utilizei com sucesso as primeiras estruturas de dados em meu projeto, explorando as capacidades da linguagem Python.
-#### Evolução das Habilidades de Comunicação:
-Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas e stakeholders.
-#### Desenvolvimento Backend com Python:
-Desenvolvimento do backend com Python, criando aplicações robustas.
-#### Criação de APIs:
-Criação de APIs para fornecer serviços e funcionalidades.
-#### Versionamento de Código com Git:
-Domínio do versionamento de código com o uso do Git.
-#### Projetar Arquitetura de Sistemas:
-Capacidade de projetar a arquitetura de sistemas alinhada aos requisitos funcionais e não funcionais.
-#### Desenvolvimento Integrado com Bancos de Dados Relacionais:
-Experiência no desenvolvimento integrado com bancos de dados relacionais.
+<h4><strong>Início com Python:</strong></h4>
+<pre>
+   Iniciei minha jornada com a linguagem de programação Python, abrindo portas para novas possibilidades.
+</pre>
 
+<h4><strong>Compreensão Profunda do Scrum:</strong></h4>
+<pre>
+   Adquiri uma compreensão profunda da metodologia ágil Scrum, aplicando seus princípios de forma prática.
+</pre>
+
+<h4><strong>Adoção do Paradigma Imperativo:</strong></h4>
+<pre>
+   Optei por adotar o paradigma de programação imperativo para construir meu projeto, utilizando uma abordagem estruturada.
+</pre>
+
+<h4><strong>Base Sólida em Lógica de Programação:</strong></h4>
+<pre>
+   Desenvolvi uma base sólida em lógica de programação, capacitando-me para resolver desafios computacionais de maneira eficaz.
+</pre>
+
+<h4><strong>Introdução e Uso de Estruturas de Dados:</strong></h4>
+<pre>
+   Introduzi e utilizei com sucesso as primeiras estruturas de dados em meu projeto, explorando as capacidades da linguagem Python.
+</pre>
+
+<h4><strong>Evolução das Habilidades de Comunicação:</strong></h4>
+<pre>
+   Minhas habilidades de comunicação estão em constante evolução, contribuindo para uma melhor interação com colegas.
+</pre>
+
+<h4><strong>Desenvolvimento Backend com Python:</strong></h4>
+<pre>
+   Desenvolvimento do backend com Python, criando aplicações robustas.
+</pre>
+
+<h4><strong>Criação de APIs:</strong></h4>
+<pre>
+   Criação de APIs para fornecer serviços e funcionalidades.
+</pre>
+
+<h4><strong>Versionamento de Código com Git:</strong></h4>
+<pre>
+   Domínio do versionamento de código com o uso do Git.
+</pre>
+
+<h4><strong>Projetar Arquitetura de Sistemas:</strong></h4>
+<pre>
+   Capacidade de projetar a arquitetura de sistemas alinhada aos requisitos funcionais e não funcionais.
+</pre>
+
+<h4><strong>Desenvolvimento Integrado com Bancos de Dados Relacionais:</strong></h4>
+<pre>
+   Experiência no desenvolvimento integrado com bancos de dados relacionais.
+</pre>
 </details>
 
 ## Projeto II
