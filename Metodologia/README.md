@@ -1036,18 +1036,12 @@ Clique [aqui](https://github.com/TechNinjass/midall-parent/wiki/3--Migration-Dat
     Utilizei comandos Git no script para clonar um repositório remoto, atualizar o repositório local após a migração e realizar operações de limpeza.
 #### Ansible para Automação de Tarefas:
     Integrei o Ansible no fluxo de trabalho para realizar tarefas de migração específicas, permitindo uma automação eficiente e consistente.
-#### Manipulação de Ambientes Remotos:
-    O script executa operações em ambientes remotos, incluindo a clonagem do repositório do GitHub e a execução de tarefas no servidor de destino usando SSH.
-#### Controle de Versão:
-    Demonstrado conhecimento em controle de versão usando Git, incluindo clonagem, atualização e manipulação de repositórios locais.
 #### Sincronização de Arquivos com Rsync:
     Utilizei o Rsync para sincronizar eficientemente arquivos entre o repositório local e o novo servidor, garantindo consistência nas alterações.
 #### Entrada do Usuário e Interatividade:
     Implementei a capacidade de receber entrada do usuário para a URL do repositório Git, tornando o script mais flexível e adaptável a diferentes cenários.
-#### Organização e Limpeza:
-    Incorporado procedimentos de limpeza no script para garantir a organização e remoção de recursos desnecessários após a conclusão da migração.
 #### Adaptação e Personalização:
-    O script foi projetado para ser facilmente adaptável, permitindo que o usuário ajuste as configurações, como URLs de repositório e servidores, de acordo com os requisitos específicos.
+    Projetei o script para ser facilmente adaptável, permitindo que o usuário ajuste as configurações, como URLs de repositório e servidores, de acordo com os requisitos específicos.
 #### Boas Práticas de Desenvolvimento:
     Segui boas práticas de desenvolvimento, como modularização do código em funções, uso de comentários para documentação e identação consistente para melhor legibilidade.
 
