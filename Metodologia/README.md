@@ -638,7 +638,7 @@ Essa classe é usada para transferir informações específicas de um produto en
 
 <details close></summary></summary>
 
-Click [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do projeto.
+Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do projeto.
 
 </details>
 
@@ -828,7 +828,7 @@ As linhas seguintes atualizam várias propriedades do chamado selecionado com os
 
 <details close></summary></summary>
 
-Click [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
+Clique [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
 
 </details>
 
@@ -1022,7 +1022,7 @@ Esse processo tinha a intenção de trazer algumas funcionalidades como:
 
 <details close></summary></summary>
 
-Click [aqui](https://github.com/TechNinjass/midall-parent/wiki/3--Migration-Database) para mais detalhes do projeto de migração de Database.
+Clique [aqui](https://github.com/TechNinjass/midall-parent/wiki/3--Migration-Database) para mais detalhes do projeto de migração de Database.
 
 </details>
 
@@ -1055,7 +1055,7 @@ Click [aqui](https://github.com/TechNinjass/midall-parent/wiki/3--Migration-Data
 
 <details close></summary></summary>
 
-Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
+Clique [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
 
 </details>
 
