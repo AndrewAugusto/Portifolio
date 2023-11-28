@@ -126,12 +126,6 @@ Brasil).
 Se a transcrição for bem-sucedida, o texto é armazenado na variável "frase" e retornado pela função. Caso contrário, se o reconhecimento de fala falhar ou não for compreendido, a função 
 retornará a mensagem "Não entendi!".
 
-<details close></summary></summary>
-
-Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do projeto.
-	
-</details>
-
 </details>   
 
    Com certeza, ao desenvolver a assistente, priorizamos a sua capacidade de ser executada em segundo plano e entrar em ação imediatamente quando chamada. Isso foi feito com o objetivo de reduzir ao máximo a necessidade de interação física por parte do usuário, como inserção manual de informações via teclado ou mouse. A nossa abordagem visa proporcionar uma experiência mais fluida e prática, permitindo que os usuários interajam com a assistente por meio de comandos de voz, minimizando a barreira entre eles e as informações que estão buscando. Isso não apenas aumenta a eficiência, mas também torna a experiência mais intuitiva e acessível para um amplo público.
@@ -162,12 +156,6 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 	
    - Esse método é responsável por passar os parâmetros para o back-end, processar a informação e direcionar o retorno para a camada de visualização do usuário,
   sendo um trecho importante pois enviar dados, processa o retorno e já devolve os resultados para usuário.
-    
-<details close></summary></summary>
-
-Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do Projeto.
-
-</details>
 
 </details> 
 
@@ -227,6 +215,17 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 <pre>
    Experiência no desenvolvimento integrado com bancos de dados relacionais.
 </pre>
+
+<br>
+
+<details close></summary></summary>
+
+Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalhes do Projeto.
+
+</details>
+
+<br>
+
 </details>
 
 ## Projeto II
@@ -350,12 +349,6 @@ Link do repositório do projeto: [Repositório](https://github.com/apibanco/Vigi
 Em seguida, dentro de um bloco try-catch, o código tenta estabelecer a conexão com o banco de dados. A linha Class.forName("org.postgresql.Driver") carrega dinamicamente o driver JDBC necessário para se comunicar com o PostgreSQL. Em seguida, DriverManager.getConnection(url,usuario,senha) estabelece a conexão com o banco de dados usando as informações fornecidas. Se a conexão for estabelecida com sucesso, a mensagem "Conexão realizada com sucesso!!!" é exibida. Caso ocorra algum erro durante a conexão, a exceção é capturada e o rastreamento de pilha do erro é impresso.
 
 Após a conexão ser estabelecida, há uma chamadas de método chamando "ExibirTamanhoTabelas". Esse método exibe o tamanho das tabelas do banco de dados através de um retorno de uma query consultando através da conexão realizada.
-	
-<details close></summary></summary>
-
-Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijeto.
-
-</details>
 
 </details>   
 
@@ -402,35 +395,39 @@ A próxima linha cria uma instância da classe "Properties" chamada "prop" e cha
 Em seguida, a propriedade chamada "openMenu" é recuperada do objeto "Properties" e armazenada na variável "openMenu" como uma string.
 Em seguida, o código verifica se o valor da variável "openMenu" é igual a "y". Se for, o método "startmenu()" é chamado no objeto "menu". Caso contrário, uma instância da classe "ImprimeMetricas" chamada "imprimeMetricas" é criada, passando o objeto "loginModel" como argumento para o construtor. Em seguida, vários métodos são chamados nessa instância, como "tamanhobancos()", "tamanhoTabelas()", "selectsChamadas1000x()", "SelectMaisDemoradas()", "selectsMaisDemoradasMedia()" e "conflicts()". Esses métodos provavelmente realizam diferentes operações relacionadas a métricas e análises de um sistema.
 
-<details close></summary></summary>
-
-</details>
-
 ## Conhecimentos Adquiridos
 
 #### Aquisição de Conhecimento Profundo:
-Aproveitei a oportunidade durante o desenvolvimento do projeto para adquirir um profundo conhecimento em sistemas de gerenciamento de banco de dados (SGBDs).
+    Aproveitei a oportunidade durante o desenvolvimento do projeto para adquirir um profundo conhecimento em sistemas de gerenciamento de banco de dados (SGBDs).
 #### Manipulação Eficiente de Informações: 
-Desenvolvi habilidades para coletar e manipular informações de maneira altamente eficiente, gerando séries históricas e métricas relevantes para os usuários. 
+    Desenvolvi habilidades para coletar e manipular informações de maneira altamente eficiente, gerando séries históricas e métricas relevantes para os usuários. 
 #### Aprimoramento de Consultas SQL: 
-A experiência enriqueceu minhas habilidades na manipulação de dados, aprimorando minha capacidade de criar consultas SQL e utilizar diversos comandos para extrair informações específicas e impactantes.
+    A experiência enriqueceu minhas habilidades na manipulação de dados, aprimorando minha capacidade de criar consultas SQL e utilizar diversos comandos para extrair informações específicas e impactantes.
 #### Exploração de Ferramentas de Gerenciamento: 
-Explorei e me familiarizei profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de maneira excepcionalmente eficaz. 
+    Explorei e me familiarizei profundamente com ferramentas de gerenciamento de banco de dados, como o PostgreSQL, aplicando-as de maneira excepcionalmente eficaz. 
 #### Coleta de Métricas Cruciais:
-Criei consultas e rotinas que possibilitaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do banco de dados, fornecendo insights inestimáveis aos usuários.
+    Criei consultas e rotinas que possibilitaram a coleta de métricas cruciais, como o dimensionamento das tabelas e do banco de dados, fornecendo insights inestimáveis aos usuários.
 #### Aprofundamento nos Princípios Fundamentais:
-Aprofundei minha compreensão dos princípios fundamentais que regem um SGBD, destacando a importância de estruturar e organizar os dados adequadamente para facilitar operações futuras.
+    Aprofundei minha compreensão dos princípios fundamentais que regem um SGBD, destacando a importância de estruturar e organizar os dados adequadamente para facilitar operações futuras.
 #### Relevância da Otimização:
-Reconheci a relevância de otimizar consultas e operações de banco de dados para contribuir para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
+    Reconheci a relevância de otimizar consultas e operações de banco de dados para contribuir para um desempenho mais eficiente e uma experiência geral mais satisfatória para os usuários.
 #### Atuação Além da Manipulação de Dados:
-Minha atuação no projeto não se limitou à coleta e manipulação de dados, envolvendo também a criação de um ambiente de banco de dados resiliente e otimizado.
+    Minha atuação no projeto não se limitou à coleta e manipulação de dados, envolvendo também a criação de um ambiente de banco de dados resiliente e otimizado.
 #### Papel Essencial no Sucesso da Aplicação:
-Esse aspecto desempenhou um papel essencial no sucesso da aplicação como um todo, contribuindo para a eficácia operacional.
+    Esse aspecto desempenhou um papel essencial no sucesso da aplicação como um todo, contribuindo para a eficácia operacional.
 #### Conhecimento Profundo e Base Sólida:
-A experiência adquirida concedeu um conhecimento profundo e uma base sólida para futuros empreendimentos relacionados à gestão de dados e ao uso de SGBDs.
+    A experiência adquirida concedeu um conhecimento profundo e uma base sólida para futuros empreendimentos relacionados à gestão de dados e ao uso de SGBDs.
 
-</details>
+<br>
+
+<details close></summary></summary>
+
+Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijeto.
   
+</details>
+
+<br>
+
 </details>
 
 ## Projeto III
@@ -523,12 +520,6 @@ Link do repositório do projeto: [Repositório](https://github.com/Doc-Docker/AP
    O algoritmo mostrado é responsável por receber os parâmetros vindos do front end, esses parâmetros são filtrados por algumas condições, verificando o melhor valor de retorno para uma 
    determinado produto que esteja em uma promoção, esse retorno é devolvido para camada controller que por sua vez devolve o resultado para a interface.
 
-<details close></summary></summary>
-
-Click [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do projeto.
-	
-</details>
-
 </details>   
 
   Minha participação no projeto incluiu um papel ativo na integração entre o Front-End e o Back-End, onde interagi na criação de diversos métodos e na condução de testes para validar as requisições.
@@ -568,12 +559,6 @@ Click [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do proj
  
   - Esse método é responsável por passar os parâmetros para o back-end, processar a informação e direcionar o retorno para a camada de visualização do usuário, sendo um trecho importante 
 pois enviar dados, processa o retorno e já devolve os resultados para usuário. 
-
-<details close></summary></summary>
-
-Click [aqui](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes do projeto
-
-</details>
 
 </details> 
 
@@ -628,32 +613,36 @@ Além disso, a classe possui um construtor adicional que recebe um objeto Produc
 
 Essa classe é usada para transferir informações específicas de um produto entre diferentes partes de uma aplicação, geralmente em operações de criação, leitura, atualização e exclusão (CRUD) ou em serviços de API.
 
-<details close></summary></summary>
-
-Click [aqui](https://github.com/Doc-Docker/APIMidAll/blob/main/frontend-midall/src/app/cart.service.ts) para mais detalhes do projeto.
-
-</details>
-
 </details> 
 
 ## Conhecimentos Adquiridos
 
 #### Integração com Disciplinas do Semestre:
-Integração do projeto com a disciplina de Engenharia de Software, explorando padrões de projeto e organização em camadas.
+    Integração do projeto com a disciplina de Engenharia de Software, explorando padrões de projeto e organização em camadas.
 #### Padrões de Projeto:
-Exploração de diversos padrões de projeto, organizando o programa em camadas e seguindo padrões de arquitetura.
+    Exploração de diversos padrões de projeto, organizando o programa em camadas e seguindo padrões de arquitetura.
 #### Competências Fundamentais para Desenvolvedores:
-Desenvolvimento de competências fundamentais para qualquer desenvolvedor de software, incluindo modularização e métodos de construção comumente utilizados.
+    Desenvolvimento de competências fundamentais para qualquer desenvolvedor de software, incluindo modularização e métodos de construção comumente utilizados.
 #### Otimização de Desempenho do Sistema:
-Consideração central na otimização de desempenho do sistema, lidando com uma base de dados de tamanho modesto e implementando métodos de processamento eficientes.
+    Consideração central na otimização de desempenho do sistema, lidando com uma base de dados de tamanho modesto e implementando métodos de processamento eficientes.
 #### Evolução dos Algoritmos de Análise de Dados:
-Valorização da evolução dos algoritmos de análise de dados ao longo do projeto, contribuindo para a formação como profissionais desenvolvedores.
+    Valorização da evolução dos algoritmos de análise de dados ao longo do projeto, contribuindo para a formação como profissionais desenvolvedores.
 #### Comunicação:
-Desenvolvimento constante da habilidade, destacando apresentações para clientes e professores avaliadores, além da comunicação eficiente dentro da equipe.
+    Desenvolvimento constante da habilidade, destacando apresentações para clientes e professores avaliadores, além da comunicação eficiente dentro da equipe.
 #### Gestão de Tempo:
-Aplicação da habilidade em um projeto com prazos mais curtos, buscando otimizar a eficiência.
+    Aplicação da habilidade em um projeto com prazos mais curtos, buscando otimizar a eficiência.
 #### Gerenciamento de Projetos:
-Tomada de decisões assertivas em situações onde o melhor caminho nem sempre era claro, demonstrando habilidades críticas de gerenciamento de projetos.
+    Tomada de decisões assertivas em situações onde o melhor caminho nem sempre era claro, demonstrando habilidades críticas de gerenciamento de projetos.
+
+<br>
+
+<details close></summary></summary>
+
+Click [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do projeto.
+
+</details>
+
+<br>
 
 </details>
 
@@ -762,12 +751,6 @@ Chamado chamadoSelector = this.getChamadoById(id); - Esta linha obtém o chamado
 As linhas seguintes atualizam várias propriedades do chamado selecionado com os valores fornecidos no objeto chamado.
 - return chamadoRepository.save(chamadoSelector); - Por fim, o chamado selecionado, com todas as atualizações realizadas, é salvo utilizando o método save de um repositório chamado chamadoRepository (que não está presente neste trecho de código), e o chamado atualizado é retornado.
 
-<details close></summary></summary>
-
-Click [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
-
-</details>
-
 </details>   
 
 - Tive uma participação ativa na integração entre o Front-End e Back-End, desempenhando um papel crucial na criação de vários métodos e na execução de testes para assegurar a validade das requisições.
@@ -818,32 +801,38 @@ Click [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do pro
 
 - <strong>salvarAgendamento</strong>:(agendamento, token) => { ... } - Esta função faz uma solicitação POST para salvar um novo agendamento. Recebe um objeto agendamento contendo as informações do agendamento a ser salvo e um parâmetro token para autenticação. A URL para a solicitação POST é '/agendamento', o objeto agendamento é passado como corpo da requisição, e o
 
-<details close></summary></summary>
-
-</details>
-
 </details> 
 
 ## Conhecimentos Adquiridos
 
 #### Aprendizado do VueJs:
-Adquiri habilidades no uso do VueJs, explorando suas funcionalidades e sintaxe.
+    Adquiri habilidades no uso do VueJs, explorando suas funcionalidades e sintaxe.
 #### Consulta à Documentação Oficial:
-Compreendi a importância de consultar a documentação oficial do VueJs para obter informações detalhadas e precisas sobre a tecnologia.
+    Compreendi a importância de consultar a documentação oficial do VueJs para obter informações detalhadas e precisas sobre a tecnologia.
 #### Estudo Aprofundado:
-Reconheci a necessidade de dedicar tempo a um estudo aprofundado para construir uma base sólida e confiável de conhecimento em VueJs.
+    Reconheci a necessidade de dedicar tempo a um estudo aprofundado para construir uma base sólida e confiável de conhecimento em VueJs.
 #### Noções Básicas vs. Complexidades:
-Percebi que, embora os tutoriais sejam úteis para noções básicas, o estudo da documentação permitiu a compreensão das complexidades da tecnologia.
+    Percebi que, embora os tutoriais sejam úteis para noções básicas, o estudo da documentação permitiu a compreensão das complexidades da tecnologia.
 #### Exploração de Recursos Avançados:
-Aprofundei meu conhecimento explorando recursos avançados do VueJs, além do que é geralmente abordado em tutoriais introdutórios.
+    Aprofundei meu conhecimento explorando recursos avançados do VueJs, além do que é geralmente abordado em tutoriais introdutórios.
 #### Constante Busca por Novos Aprendizados:
-Reforcei a importância de estar constantemente em busca de novos aprendizados para acompanhar as evoluções tecnológicas.
+    Reforcei a importância de estar constantemente em busca de novos aprendizados para acompanhar as evoluções tecnológicas.
 #### Atualização sobre Tendências do Mercado:
-Compreendi a necessidade de manter-me atualizado sobre as últimas tecnologias e tendências do mercado para permanecer relevante no cenário profissional.
+    Compreendi a necessidade de manter-me atualizado sobre as últimas tecnologias e tendências do mercado para permanecer relevante no cenário profissional.
 #### Desenvolvimento de Projeto Sofisticado:
-Utilizando o conhecimento adquirido, desenvolvi um projeto mais sofisticado e eficaz, incorporando práticas avançadas do VueJs.
+    Utilizando o conhecimento adquirido, desenvolvi um projeto mais sofisticado e eficaz, incorporando práticas avançadas do VueJs.
 #### Aquisição de Habilidades Valiosas:
-Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
+    Ao explorar a documentação e desenvolver um projeto mais complexo, adquiri habilidades valiosas que contribuíram significativamente para minha trajetória profissional.
+
+<br>
+
+<details close></summary></summary>
+
+Click [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do projeto.
+
+</details>
+
+<br>
 
 </details>
 
@@ -899,7 +888,7 @@ Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam po
 
   Desempenhei um papel central na implementação do Banco de Dados, desenvolvendo um Modelo Lógico e Relacional para efetuar a organização e armazenamento eficiente dos metadados dos arquivos. Isso envolveu a criação de tabelas, definição de relacionamentos entre elas e a escolha de estratégias de indexação para otimizar o acesso aos dados. Além disso, trabalhei na implementação das consultas SQL necessárias para recuperar os metadados com rapidez e precisão, contribuindo assim para a construção do dashboard de monitoramento.
 
-Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamental para garantir que os metadados fossem armazenados de forma coerente e organizada, permitindo uma análise eficaz dos resultados e indicadores do serviço. Isso também facilitou a integração dos dados do banco de dados com a aplicação de serviço, criando uma solução completa e eficiente para o desafio do projeto.
+  Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamental para garantir que os metadados fossem armazenados de forma coerente e organizada, permitindo uma análise eficaz dos resultados e indicadores do serviço. Isso também facilitou a integração dos dados do banco de dados com a aplicação de serviço, criando uma solução completa e eficiente para o desafio do projeto.
   
 <details open><summary>Informações sobre a lógica utilizada na modelagem do Banco de Dados</summary>
 
@@ -961,12 +950,6 @@ Este modelo lógico de banco de dados é projetado para um sistema de automaçã
 
 As principais entidades incluem Usuários, Downloads, Arquivos na Nuvem e Registros de Desempenho, cada uma com atributos relevantes. 
 Os relacionamentos definem que um usuário pode iniciar vários downloads e fazer upload de vários arquivos na nuvem. Além disso, cada log de desempenho está associado a um download específico.   
-
-<details close></summary></summary>
-
-Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
-
-</details>
 
 </details> 
 
@@ -1023,19 +1006,19 @@ Este é uma ideia de automação de migração foi desenvolvido para facilitar a
 Esse processo tinha a intenção de trazer algumas funcionalidades como:
 
 #### Clone do Repositório:
-O script começa clonando o repositório Git do aplicativo a ser migrado. O repositório original está hospedado no GitHub.
+    O script começa clonando o repositório Git do aplicativo a ser migrado. O repositório original está hospedado no GitHub.
 
 #### Execução de Tarefas de Migração com Ansible:
-Em seguida, o Ansible é utilizado para executar tarefas de migração específicas. As tarefas podem incluir a configuração de servidores, instalação de dependências, entre outras ações necessárias para a migração.
+    Em seguida, o Ansible é utilizado para executar tarefas de migração específicas. As tarefas podem incluir a configuração de servidores, instalação de dependências, entre outras ações necessárias para a migração.
 
 #### Atualização do Repositório Git após Migração:
-Após a migração, o repositório local é atualizado para refletir as alterações feitas durante o processo de migração.
+    Após a migração, o repositório local é atualizado para refletir as alterações feitas durante o processo de migração.
 
 #### Push das Alterações para o Novo Servidor:
-As alterações no repositório local são então sincronizadas e enviadas para o novo servidor usando o comando rsync via SSH.
+    As alterações no repositório local são então sincronizadas e enviadas para o novo servidor usando o comando rsync via SSH.
 
 #### Limpeza:
-Por fim, mas não menos importante, para manter a organização, o script realiza a limpeza, removendo o repositório local.
+    Por fim, mas não menos importante, para manter a organização, o script realiza a limpeza, removendo o repositório local.
 
 <details close></summary></summary>
 
@@ -1048,25 +1031,35 @@ Click [aqui](https://github.com/TechNinjass/midall-parent/wiki/3--Migration-Data
 ## Conhecimentos Adquiridos
 
 #### Automação de Migração:
-Desenvolvi um script em Python para automatizar o processo de migração de um aplicativo entre servidores, facilitando a execução de tarefas complexas de DevOps.
+    Desenvolvi um script em Python para automatizar o processo de migração de um aplicativo entre servidores, facilitando a execução de tarefas complexas de DevOps.
 #### Integração com Git:
-Utilizei comandos Git no script para clonar um repositório remoto, atualizar o repositório local após a migração e realizar operações de limpeza.
+    Utilizei comandos Git no script para clonar um repositório remoto, atualizar o repositório local após a migração e realizar operações de limpeza.
 #### Ansible para Automação de Tarefas:
-Integrei o Ansible no fluxo de trabalho para realizar tarefas de migração específicas, permitindo uma automação eficiente e consistente.
+    Integrei o Ansible no fluxo de trabalho para realizar tarefas de migração específicas, permitindo uma automação eficiente e consistente.
 #### Manipulação de Ambientes Remotos:
-O script executa operações em ambientes remotos, incluindo a clonagem do repositório do GitHub e a execução de tarefas no servidor de destino usando SSH.
+    O script executa operações em ambientes remotos, incluindo a clonagem do repositório do GitHub e a execução de tarefas no servidor de destino usando SSH.
 #### Controle de Versão:
-Demonstrado conhecimento em controle de versão usando Git, incluindo clonagem, atualização e manipulação de repositórios locais.
+    Demonstrado conhecimento em controle de versão usando Git, incluindo clonagem, atualização e manipulação de repositórios locais.
 #### Sincronização de Arquivos com Rsync:
-Utilizei o Rsync para sincronizar eficientemente arquivos entre o repositório local e o novo servidor, garantindo consistência nas alterações.
+    Utilizei o Rsync para sincronizar eficientemente arquivos entre o repositório local e o novo servidor, garantindo consistência nas alterações.
 #### Entrada do Usuário e Interatividade:
-Implementei a capacidade de receber entrada do usuário para a URL do repositório Git, tornando o script mais flexível e adaptável a diferentes cenários.
+    Implementei a capacidade de receber entrada do usuário para a URL do repositório Git, tornando o script mais flexível e adaptável a diferentes cenários.
 #### Organização e Limpeza:
-Incorporado procedimentos de limpeza no script para garantir a organização e remoção de recursos desnecessários após a conclusão da migração.
+    Incorporado procedimentos de limpeza no script para garantir a organização e remoção de recursos desnecessários após a conclusão da migração.
 #### Adaptação e Personalização:
-O script foi projetado para ser facilmente adaptável, permitindo que o usuário ajuste as configurações, como URLs de repositório e servidores, de acordo com os requisitos específicos.
+    O script foi projetado para ser facilmente adaptável, permitindo que o usuário ajuste as configurações, como URLs de repositório e servidores, de acordo com os requisitos específicos.
 #### Boas Práticas de Desenvolvimento:
-Segui boas práticas de desenvolvimento, como modularização do código em funções, uso de comentários para documentação e identação consistente para melhor legibilidade.
+    Segui boas práticas de desenvolvimento, como modularização do código em funções, uso de comentários para documentação e identação consistente para melhor legibilidade.
+
+<br>
+
+<details close></summary></summary>
+
+Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
+
+</details>
+
+<br>
 
 </details>
 
@@ -1104,7 +1097,7 @@ O Proagro é um programa do governo federal que tem por finalidade o custeio agr
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Front-End</div>
   <div style="display: inline_block">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="85" height="85" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="85" height="85" />
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
@@ -1112,15 +1105,22 @@ O Proagro é um programa do governo federal que tem por finalidade o custeio agr
 <div style="text-align: center;">
   <div style="margin-top: 10px; font-weight: bold;">Banco de Dados</div>
   <div style="display: inline_block">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="85" height="85" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="85" height="85" />
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="85" height="85" />
   </div>
 </div>
 
 ## Iniciativas Implementadas
 
-  Desempenhei um papel central na implementação do Banco de Dados, desenvolvendo um Modelo Lógico e Relacional para efetuar a organização e armazenamento eficiente dos metadados dos arquivos. Isso envolveu a criação de tabelas, definição de relacionamentos entre elas e a escolha de estratégias de indexação para otimizar o acesso aos dados. Além disso, trabalhei na implementação das consultas SQL necessárias para recuperar os metadados com rapidez e precisão, contribuindo assim para a construção do dashboard de monitoramento.
+  Desempenhei um papel essencial ao liderar a iniciativa relacionada ao banco de dados no projeto, assumindo a responsabilidade pela elaboração e implementação de um Modelo Lógico e Relacional robusto. O foco principal foi organizar e armazenar de maneira eficiente os metadados dos arquivos, assegurando a integridade e acessibilidade dos dados.
 
-Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamental para garantir que os metadados fossem armazenados de forma coerente e organizada, permitindo uma análise eficaz dos resultados e indicadores do serviço. Isso também facilitou a integração dos dados do banco de dados com a aplicação de serviço, criando uma solução completa e eficiente para o desafio do projeto.
+  No âmbito da minha participação, desenvolvi um Modelo Lógico detalhado, delineando cuidadosamente as entidades envolvidas, seus atributos e os relacionamentos entre elas. Essa estrutura proporcionou uma base sólida para a criação das tabelas no banco de dados, incorporando estratégias de indexação que otimizaram significativamente o acesso aos metadados. A definição precisa dos relacionamentos entre as entidades foi crucial para garantir a consistência das informações armazenadas.
+
+  Além da arquitetura do banco de dados, concentrei meus esforços na implementação de consultas SQL estratégicas. Essas consultas foram projetadas para recuperar os metadados de maneira rápida e precisa, contribuindo de maneira decisiva para a construção do dashboard de monitoramento do projeto. A capacidade de extrair informações relevantes de forma eficiente foi um fator-chave para o sucesso do projeto como um todo.
+
+  Minha participação não se limitou apenas à criação do banco de dados; trabalhei de perto com a equipe para garantir uma integração perfeita entre os dados armazenados e a aplicação de serviço. Essa abordagem holística resultou em uma solução completa e eficiente para o desafio proposto, proporcionando uma base sólida para a análise de resultados e indicadores do serviço.
+
+  Em resumo, meu comprometimento com o desenvolvimento do banco de dados, desde a concepção do Modelo Lógico até a implementação das consultas SQL, desempenhou um papel fundamental na construção de uma estrutura coesa e eficaz para o projeto. 
   
 <details open><summary>Informações sobre a lógica utilizada na modelagem do Banco de Dados</summary>
 
@@ -1128,75 +1128,247 @@ Minha contribuição na elaboração do Modelo Lógico e Relacional foi fundamen
      
    ```
 	
-	Entidades:
-	Usuários (Users)
-	{
-	   UserID (Chave Primária)
-	   Nome
-	   Email
-	   Senha
-	   Papel de Acesso (por exemplo, administrador, usuário comum)
-	}
+	Entidade: Gleba_SP
 
-  	Downloads (Downloads)
-	{
- 	   DownloadID (Chave Primária)
-	   Nome do Arquivo
-	   Data de Início do Download
-	   Data de Conclusão do Download
-	   Status do Download (em andamento, concluído, falha, etc.)
-	   ID do Usuário (Chave Estrangeira relacionando ao Usuário que iniciou o download)
-	   Arquivos na Nuvem (CloudFiles)
-	}
- 
-	FileID (Chave Primária)
-	{
- 	   Nome do Arquivo
-	   Localização na Nuvem
-	   Tamanho do Arquivo
-	   Data de Upload
-	   ID do Usuário (Chave Estrangeira relacionando ao Usuário que fez o upload)
-	   Registros de Desempenho (PerformanceLogs)
-	}
- 
-	LogID (Chave Primária)
-	{	
- 	   Data e Hora do Log
-	   Descrição do Evento (por exemplo, início de download, conclusão de download, erro de download, etc.)
-	   Detalhes Adicionais (por exemplo, velocidade de download, tamanho do arquivo, etc.)
-	   ID do Download (Chave Estrangeira relacionando ao Download ao qual o log está associado)
-	}
- 	
-  	Relacionamentos:
-	
-	Um Usuário pode iniciar vários Downloads, então há uma relação um-para-muitos entre Usuários e Downloads.
-	Um Usuário pode fazer upload de vários Arquivos na Nuvem, então há uma relação um-para-muitos entre Usuários e Arquivos na Nuvem.
-	Cada Log de Desempenho está associado a um Download específico, estabelecendo uma relação um-para-muitos entre Downloads e Registros de Desempenho.
-	Este é um modelo lógico básico que pode ser adaptado às necessidades específicas do seu projeto. Você pode considerar adicionar mais detalhes, como 
-	informações sobre os servidores de download, categorias de arquivos na nuvem, histórico de downloads, entre outros, conforme necessário para o seu 
-	aplicativo de automação de downloads e gerenciamento em nuvem com painel de monitoramento de desempenho. Além disso, você pode definir as chaves 
-	primárias, índices e restrições de integridade referencial apropriados com base nos requisitos do seu sistema.
+	Atributos:
+	  REF_BACEN (Chave Primária)
+	  NU_ORDEM
+	  NU_IDENTIFICADOR
+	  NU_INDICE_GLEBA
+	  NU_INDICE_PONTO
+	  CGL_VL_ALTITUDE
+	  VL_VERTICES (Tipo Geometry)
+	A tabela glebas_sp armazena informações relacionadas a glebas de terras, Brasil. Aqui estão algumas explicações para os atributos:
 
+	REF_BACEN: Referência relacionada ao Banco Central (Identificador único para cada registro).
+	NU_ORDEM: Número de ordem.
+	NU_IDENTIFICADOR: Número identificador.
+	NU_INDICE_GLEBA: Número de índice da gleba.
+	NU_INDICE_PONTO: Número de índice do ponto.
+	CGL_VL_ALTITUDE: Valor da altitude.
+	VL_VERTICES: Dados geométricos representando os vértices (pontos) da gleba.
+
+	No seu caso, a coluna VL_VERTICES é do tipo geometry e é utilizada para armazenar informações sobre a forma geográfica da gleba do terreno. Isso pode incluir coordenadas espaciais que definem os vértices da gleba,
+	permitindo representar a forma da área de terra no plano geográfico.
+  
    ```
-Este modelo lógico de banco de dados é projetado para um sistema de automação de downloads e gerenciamento em nuvem, com ênfase no monitoramento de desempenho. 
+Este modelo lógico de banco de dados é projetado para um sistema de armazenamento de coordenadas de áreas de terrenos.
 
-As principais entidades incluem Usuários, Downloads, Arquivos na Nuvem e Registros de Desempenho, cada uma com atributos relevantes. 
-Os relacionamentos definem que um usuário pode iniciar vários downloads e fazer upload de vários arquivos na nuvem. Além disso, cada log de desempenho está associado a um download específico.   
+</details> 
 
-<details close></summary></summary>
+<details open><summary>Informações sobre scripts utilizados para manipulção de dados</summary>
 
-Click [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes do projeto.
+   ### Script para Coordenadas
+     
+   ```python
+	
+ 	import pandas as pd
+	from shapely.geometry import Point
+	from sqlalchemy import create_engine, Column, Integer, Text, Float, Geometry
+	from sqlalchemy.ext.declarative import declarative_base
+	from sqlalchemy.orm import sessionmaker
+	
+	# Definindo a classe da tabela
+	Base = declarative_base()
+	
+	class Gleba(Base):
+	    __tablename__ = 'glebas_sp'
+	
+	    REF_BACEN = Column(Integer, primary_key=True)
+	    NU_ORDEM = Column(Text)
+	    NU_IDENTIFICADOR = Column(Text)
+	    NU_INDICE_GLEBA = Column(Text)
+	    NU_INDICE_PONTO = Column(Integer)
+	    VL_LATITUDE = Column(Text)
+	    VL_LONGITUDE = Column(Text)
+	    CGL_VL_ALTITUDE = Column(Text)
+	    VL_VERTICES = Column(Geometry(geometry_type='POINT', srid=4326))
+	
+	# Configurações do banco de dados
+	db_user = 'techninjas'
+	db_password = '**********'
+	db_host = 'techninjas.microsoft'
+	db_port = '3306'
+	db_name = 'techvision'
+	
+	# Criando a conexão com o banco de dados
+	engine = create_engine(f"mysql+mysqlconnector://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}")
+	
+	# Criando a tabela no banco de dados (caso não exista)
+	Base.metadata.create_all(engine)
+	
+	# Lendo o arquivo CSV
+	csv_path = '/glebas.csv'
+	df = pd.read_csv(csv_path)
+	
+	# Criando objetos geométricos e inserindo no banco de dados
+	Session = sessionmaker(bind=engine)
+	session = Session()
+	
+	for _, row in df.iterrows():
+	    latitude = float(row['VL_LATITUDE'])
+	    longitude = float(row['VL_LONGITUDE'])
+	    point = Point(longitude, latitude)
+	
+	    gleba = Gleba(
+	        REF_BACEN=row['REF_BACEN'],
+	        NU_ORDEM=row['NU_ORDEM'],
+	        NU_IDENTIFICADOR=row['NU_IDENTIFICADOR'],
+	        NU_INDICE_GLEBA=row['NU_INDICE_GLEBA'],
+	        NU_INDICE_PONTO=row['NU_INDICE_PONTO'],
+	        VL_LATITUDE=row['VL_LATITUDE'],
+	        VL_LONGITUDE=row['VL_LONGITUDE'],
+	        CGL_VL_ALTITUDE=row['CGL_VL_ALTITUDE'],
+	        VL_VERTICES=point
+	    )
+	
+	    session.add(gleba)
+	
+	session.commit()
+	session.close()
 
-</details>
+  
+   ```
+1 - Importação de Bibliotecas:
+  pandas: Usada para manipulação de dados, especialmente para ler e escrever dados em formato de DataFrame.
+  shapely.geometry.Point: Usada para representar objetos geométricos do tipo ponto.
+  sqlalchemy: Uma biblioteca SQL para Python, usada para interagir com o banco de dados.
+  declarative_base: Usada para criar classes de mapeamento ORM.
+  sessionmaker: Usada para criar instâncias de sessão para interação com o banco de dados.
+
+2 - Definição da Classe de Tabela:
+  declarative_base: Função que retorna uma classe base para declarar modelos ORM.
+  Gleba: Classe que herda de Base e representa a tabela glebas_sp no banco de dados.
+
+3 - Criação da Conexão com o Banco de Dados:
+  Criação de uma instância de Engine do SQLAlchemy para interagir com o banco de dados MySQL.
+
+4 - Criação da Tabela no Banco de Dados:
+  Criação da tabela glebas_sp no banco de dados se ela não existir.
+
+5 - Leitura do Arquivo CSV:
+  Leitura do arquivo CSV usando o pandas e armazenamento dos dados em um DataFrame (df).
+
+6 - Criação de Objetos Geométricos e Inserção no Banco de Dados:
+  Um loop através do DataFrame, onde para cada linha, são criados objetos geométricos do tipo Point a partir das colunas VL_LATITUDE e VL_LONGITUDE.
+  Um objeto Gleba é criado para cada linha do DataFrame, e a coluna VL_VERTICES é preenchida com o objeto geométrico correspondente.
+  Os objetos são adicionados à sessão e, ao final do loop, as alterações são confirmadas no banco de dados. 
+
+</details> 
+
+<details open><summary>Querys para retorno de informações </summary>
+
+   ### Query Retorno Glebas
+     
+   ```MYSQL
+	
+	SELECT 
+	    Glebas.REF_BACEN,
+	    Glebas.VL_VERTICES,
+	    S5.DT_EMISSAO AS DATA_EMISSAO_REFBACEN,
+	    CASE 
+	        WHEN S5.CD_ESTADO = 'SP' THEN 'São Paulo'
+	        ELSE S5.CD_ESTADO 
+	    END AS ESTADO,
+	    GARAN_EMPREEND.DESCRICAO AS TIPO_SEGURO,
+	    S5.DT_FIM_PLANTIO AS DATA_PLANTIO,
+	    GRAO_IRRIG.DESCRICAO AS TIPO_IRRIGACAO,
+	    GRAO.DESCRICAO AS TIPO_GRAO,
+	    S5.VL_ALIQ_PROAGRO AS VALOR_ALIQUOTA,
+	    S5.VL_JUROS AS JUROS_INVESTIMENTO,
+	    S5.VL_RECEITA_BRUTA_ESPERADA AS RECEITA_BRUTA_ESTIMADA,
+	    S5.DT_FIM_COLHEITA AS DATA_FIM_COLHEITA
+	FROM (
+	    SELECT 
+	        GLP.REF_BACEN,
+	        GLP.VL_VERTICES
+	    FROM 
+		techdata.glebas_sp GLP
+	    ORDER BY 
+		GLP.NU_INDICE_PONTO
+	) AS Glebas
+	JOIN techdata.saida5 S5 ON S5.REF_BACEN = Glebas.REF_BACEN
+	JOIN  techvision.grao_semente GRAO ON GRAO.CODIGO = S5.CD_TIPO_GRAO_SEMENTE
+	LEFT JOIN  techvision.tipo_irrigacao GRAO_IRRIG ON GRAO_IRRIG.CODIGO = S5.CD_TIPO_IRRIGACAO
+	LEFT JOIN (
+	    SELECT 
+	        CODIGO, 
+		DESCRICAO
+	    FROM 
+		techvision.tipo_garantia_empreendimento
+	) AS GARAN_EMPREEND ON GARAN_EMPREEND.CODIGO = S5.CD_TIPO_SEGURO
+	GROUP BY
+	    Glebas.REF_BACEN, S5.DT_EMISSAO, 		
+	    S5.CD_ESTADO, GARAN_EMPREEND.DESCRICAO, 
+	    GRAO_IRRIG.DESCRICAO, GRAO.DESCRICAO,
+	    S5.DT_FIM_PLANTIO, S5.CD_TIPO_IRRIGACAO, 
+	    S5.VL_ALIQ_PROAGRO,	S5.CD_TIPO_CULTIVO, 
+	    S5.VL_JUROS, S5.VL_RECEITA_BRUTA_ESPERADA, 
+	    S5.DT_FIM_COLHEITA, S5.VL_PERC_CUSTO_EFET_TOTAL
+  
+   ```
+#### Seleção de Dados da Tabela Glebas:
+    A subconsulta interna (SELECT GLP.REF_BACEN, GLP.VL_VERTICES FROM techdata.glebas_sp GLP ORDER BY GLP.NU_INDICE_PONTO) seleciona os campos REF_BACEN e VL_VERTICES da tabela glebas_sp, ordenados pelo NU_INDICE_PONTO.
+    Essa subconsulta é renomeada como Glebas e serve como base para a junção posterior.
+
+#### Junção com a Tabela saida5:
+    A consulta principal junta a subconsulta Glebas com a tabela techdata.saida5 usando a condição S5.REF_BACEN = Glebas.REF_BACEN.
+    Além disso, são realizadas junções adicionais com as tabelas techvision.grao_semente, techvision.tipo_irrigacao e techvision.tipo_garantia_empreendimento.
+
+#### Seleção de Campos e Manipulação de Dados:
+    A consulta seleciona vários campos, incluindo REF_BACEN, VL_VERTICES, DT_EMISSAO, CD_ESTADO, e outros.
+    A cláusula CASE é usada para alterar o valor da coluna ESTADO dependendo do valor de CD_ESTADO, renomeando o estado "SP" para "São Paulo".
+
+#### Agrupamento e Funções de Agregação:
+    Os resultados são agrupados usando a cláusula GROUP BY com base em várias colunas, incluindo REF_BACEN, DT_EMISSAO, CD_ESTADO, e outros.
+    Funções de agregação, como SUM ou AVG, não estão presentes na consulta, mas poderiam ser adicionadas se necessário.
+
+#### Resultados da Consulta:
+    A consulta retorna informações sobre glebas agrícolas, suas safras associadas, tipos de grãos, informações sobre irrigação, seguro agrícola e outros detalhes relevantes.
+    Os resultados são organizados de acordo com as colunas especificadas na cláusula GROUP BY.
 
 </details> 
 
 ## Conhecimentos Adquiridos
 
-Além de adquirir habilidades no uso do VueJs e de consultar sua documentação oficial, compreendi a importância de me dedicar a um estudo aprofundado para construir uma base sólida e confiável de conhecimento. Embora os tutoriais sejam úteis, muitas vezes tratam apenas das noções básicas de um tópico. Ao me aprofundar na documentação da tecnologia, pude entender suas complexidades e explorar recursos avançados.
-Essa experiência também reforçou a importância de estar em constante busca por novos aprendizados e de manter-me atualizado sobre as últimas tecnologias e tendências do mercado. Como resultado, pude desenvolver um projeto mais sofisticado e eficaz, ao mesmo tempo em que adquiria habilidades valiosas para minha trajetória profissional.
+Ao longo do projeto obtive bastante aprendizado sobre bancos de dados e manipulação de dados, adquiri uma compreensão aprofundada dos conceitos fundamentais e das práticas essenciais associadas a tecnologia. 
+
+#### SQL (Structured Query Language):
+    Ganhei proficiência na linguagem SQL, que serve como a espinha dorsal para interação com bancos de dados relacional. 
+    A capacidade de criar consultas SQL eficientes para recuperar, inserir, atualizar e excluir dados proporciona uma base 
+    sólida para a manipulação eficaz de informações em um ambiente de banco de dados relacional.
+
+##### Modelagem de Dados Relacionais: 
+    Princípios da modelagem de dados relacionais, incluindo a criação de tabelas, definição de chaves primárias e estrangeiras, e o estabelecimento de relações entre entidades. 
+    Essa base é crucial para garantir a integridade dos dados e para representar adequadamente a estrutura das informações armazenadas.
+
+#### Indexação e Otimização de Consultas: 
+    Indexação para melhorar o desempenho das consultas. A criação de índices apropriados em colunas-chave e a compreensão dos planos de execução de consultas são conhecimentos essenciais para otimizar a eficiência das operações no banco de dados.
+
+#### Procedimentos Armazenados, Funções e parametrizações:  
+    Explorando a criação de procedimentos armazenados e funções no MySQL, ganhei a capacidade de encapsular lógica de negócios no banco de dados. Isso não apenas promove a modularidade, mas também contribui para a segurança e eficiência na execução de operações complexas.
+
+#### Backup e Recuperação de Dados: 
+    Aprendi as práticas recomendadas para realizar backups regulares e garantir a recuperação eficiente de dados em situações de falha. 
+    A segurança e a integridade dos dados são prioridades, e a capacidade de restaurar dados é essencial para a continuidade dos negócios.
+
+#### Manipulação Geoespacial com MySQL: 
+    Ganhei familiaridade com o armazenamento e manipulação de dados geoespaciais no MySQL, utilizando tipos de dados espaciais e consultas espaciais. 
+    Isso é essencial para projetos relacionados a Sistemas de Informação Geográfica (SIG) e análise geográfica.
+
+<br>
+
+<details close></summary></summary>
+
+Clique [aqui](https://github.com/TechVisionn/tech-parent) para mais detalhes do projeto.
 
 </details>
+
+<br>
+
+</details>
+
+
 
 <br>
 
