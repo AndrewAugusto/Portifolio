@@ -236,7 +236,7 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 	Mais Detalhes do Projeto II
 </summary>
 
-# SGBD (Sistema de Gerenciamento de Banco de Dados)
+# Vigilant (Sistema de Gerenciamento de Banco de Dados)
 
 ### Parceiro Acadêmico
 	
@@ -438,7 +438,7 @@ Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijet
 	 Mais Detalhes do Projeto III
 </summary>
 
-# Motor para Regra de Promoções
+# PromoAll - Motor para Regra de Promoções
 
 ### Parceiro Acadêmico
 
@@ -1065,7 +1065,7 @@ Clique [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes d
 	Mais Detalhes do Projeto VI
 </summary>
 
-# Organização de um banco de dados público do Proagro para consultas e análises rápidas em Sistema de Informação Geográfica.
+# TechVision - Organização de um banco de dados público do Proagro para consultas e análises rápidas em Sistema de Informação Geográfica.
 
 ### Parceiro Acadêmico
 	
@@ -1361,8 +1361,6 @@ Clique [aqui](https://github.com/TechVisionn/tech-parent) para mais detalhes do 
 <br>
 
 </details>
-
-
 
 <br>
 
