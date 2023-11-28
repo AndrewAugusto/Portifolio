@@ -856,7 +856,7 @@ Clique [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do pr
 
 ### Visão do Projeto
 
-O projeto consistia em criar uma solução para automatizar o processo de download de arquivos de uma plataforma de vídeo e transferi-los para a nuvem. Isso foi alcançado através do desenvolvimento de uma aplicação como serviço que simplificou o processo para o usuário, permitindo que eles configurassem o serviço com os parâmetros necessários para o download automático. Além disso, a aplicação foi projetada para gerar alertas em caso de erros durante o processamento.
+O projeto consiste em criar uma solução para automatizar o processo de download de arquivos de uma plataforma de vídeo e transferi-los para a nuvem. Isso foi alcançado através do desenvolvimento de uma aplicação como serviço que simplificou o processo para o usuário, permitindo que eles configurassem o serviço com os parâmetros necessários para o download automático. Além disso, a aplicação foi projetada para gerar alertas em caso de erros durante o processamento.
 
 Uma parte crucial do desafio era salvar os metadados dos arquivos, que seriam posteriormente usados para construir um dashboard. Esse painel serviria para monitorar a execução do serviço, analisar resultados e fornecer indicadores importantes para avaliar o desempenho do sistema.
 
