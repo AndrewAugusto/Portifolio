@@ -8,7 +8,7 @@
 
 Ao longo da minha carreira, pude aplicar meu conhecimento em modelagem, otimização e manipulação de dados usando SQL, contribuindo para a eficiência e integridade dos sistemas em que estive envolvido.
 
-Apesar do meu tempo relativamente curto de experiência profissional como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades em bancos de dados SQL e Hana, bem como crescendo de forma abrangente nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
+Em minha experiência profissional como Desenvolvedor, já obtive conquistas significativas e adquiri um conhecimento substancial. Sinto-me entusiasmado com a perspectiva de continuar aprimorando minhas habilidades em bancos de dados SQL e Hana, bem como crescendo de forma abrangente nessa área dinâmica. Acredito firmemente que a busca contínua por conhecimento e a dedicação à prática são pilares essenciais para se tornar um profissional de excelência. Sempre estou em busca de novos desafios e oportunidades que me permitam expandir meu potencial e aprofundar meu aprendizado.
 
 <br>
 
@@ -65,7 +65,7 @@ Apesar do meu tempo relativamente curto de experiência profissional como Desenv
 
 ### Visão do Projeto
 
-   A assistente virtual Ibet foi desenvolvida com a finalidade de proporcionar aos usuários uma maneira eficiente de acessar informações relacionadas a esportes. Ela oferece diversas funcionalidades que visam facilitar a experiência do usuário nesse contexto. Algumas das características que a Ibet oferece incluem:
+   A assistente virtual Ibet foi desenvolvida com a finalidade de proporcionar aos usuários uma maneira eficiente de acessar informações relacionadas a esportes. Esta ferramenta oferece diversas funcionalidades que visam facilitar a experiência do usuário nesse contexto. Algumas das características que a Ibet oferece incluem:
 
    <strong>Definição de Alarmes para Jogos</strong>: A assistente Ibet permite que os usuários configurem alarmes para serem notificados sobre jogos específicos. Isso garante que eles fiquem atualizados sobre as partidas de seu interesse.
 Placares de Jogos em Tempo Real: A Ibet fornece placares atualizados em tempo real para jogos em andamento. Isso permite que os usuários acompanhem os resultados instantaneamente, sem atrasos.
@@ -96,7 +96,7 @@ Link do repositório do projeto: [Repositório](https://github.com/AndrewAugusto
 </div>
 
 ## Iniciativas Implementadas:
-  Desempenhei um papel crucial na implementação da tecnologia de reconhecimento de voz na API, onde criamos um algoritmo que permitisse a execução do serviço em segundo plano, no modo Standby. Essa abordagem garante que a tecnologia seja ativada somente quando chamada, otimizando os recursos e proporcionando uma experiência eficiente aos usuários.
+  Desempenhei um papel crucial na implementação da tecnologia de reconhecimento de voz na API, onde criei um algoritmo que permitisse a execução do serviço em segundo plano, no modo Standby. Essa abordagem garante que a tecnologia seja ativada somente quando chamada, otimizando os recursos e proporcionando uma experiência eficiente aos usuários.
   
 <details open><summary>Informações sobre a Lógica do Sistema</summary>
  
@@ -128,7 +128,7 @@ retornará a mensagem "Não entendi!".
 
 </details>   
 
-   Com certeza, ao desenvolver a assistente, priorizamos a sua capacidade de ser executada em segundo plano e entrar em ação imediatamente quando chamada. Isso foi feito com o objetivo de reduzir ao máximo a necessidade de interação física por parte do usuário, como inserção manual de informações via teclado ou mouse. A nossa abordagem visa proporcionar uma experiência mais fluida e prática, permitindo que os usuários interajam com a assistente por meio de comandos de voz, minimizando a barreira entre eles e as informações que estão buscando. Isso não apenas aumenta a eficiência, mas também torna a experiência mais intuitiva e acessível para um amplo público.
+   Com certeza, ao desenvolver a assistente, priorizei a sua capacidade de ser executada em segundo plano e entrar em ação imediatamente quando chamada. Isso foi feito com o objetivo de reduzir ao máximo a necessidade de interação física por parte do usuário, como inserção manual de informações via teclado ou mouse. A minha abordagem visa proporcionar uma experiência mais fluida e prática, permitindo que os usuários interajam com a assistente por meio de comandos de voz, minimizando a barreira entre eles e as informações que estão buscando. Isso não apenas aumenta a eficiência, mas também torna a experiência mais intuitiva e acessível para um amplo público.
 
  <details open><summary>Informações código Front-End</summary>
   
@@ -250,7 +250,7 @@ A empresa Necto System situada no Parque Tecnológico de São José dos Campos, 
 
 ### Visão do Projeto
 
-   Foi construido uma integração crucial para a coleta de informações diretamente dos servidores, visando a criação de uma série histórica de dados. A concepção por trás disso era criar uma aplicação que pudesse realizar a coleta regular de métricas de um ou mais Sistemas Gerenciadores de Banco de Dados remotos. Essa ferramenta é projetada para fornecer informações valiosas ao usuário, permitindo que tomem decisões informadas em relação à manutenção, balanceamento, escalabilidade e melhorias necessárias nos seus SGBDs, bancos de dados e infraestrutura de servidores.
+   Neste projeto foi proposto a construção de uma integração para a coleta de informações diretamente dos servidores, visando a criação de uma série histórica de dados. A concepção por trás disso era criar uma aplicação que pudesse realizar a coleta regular de métricas de um ou mais Sistemas Gerenciadores de Banco de Dados remotos. Essa ferramenta é projetada para fornecer informações valiosas ao usuário, permitindo que tomem decisões informadas em relação à manutenção, balanceamento, escalabilidade e melhorias necessárias nos seus SGBDs, bancos de dados e infraestrutura de servidores.
 
    Ao realizar essa integração, o objetivo é capacitar os usuários a monitorar de perto o desempenho de seus sistemas, identificar tendências ao longo do tempo e agir de forma proativa para otimizar e manter a estabilidade de suas operações. Ao fornecer uma visão holística das métricas do sistema, essa aplicação permite que os usuários tomem decisões fundamentadas sobre ajustes necessários, sejam eles relacionados a melhorias na eficiência dos bancos de dados, balanceamento de carga ou mesmo escalonamento da infraestrutura para atender às demandas crescentes.
 
@@ -284,11 +284,11 @@ Link do repositório do projeto: [Repositório](https://github.com/apibanco/Vigi
 
 ## Informações sobre a Lógica do Sistema:
 
-   Assumi a responsabilidade crucial de implementar a lógica que permite a integração se conectar ao banco de dados, a fim de realizar a coleta periódica de parametrizações. Além disso, fui encarregado de criar as consultas (queries) necessárias para recuperar os dados e desenvolver procedimentos armazenados (procedures) para a execução eficiente dessas operações.
+   Assumi a responsabilidade crucial de implementar a lógica que permitiu a integração ao conectar ao banco de dados, a fim de realizar a coleta periódica de parametrizações. Além disso, fui encarregado de criar as consultas (queries) necessárias para recuperar os dados e desenvolver procedimentos armazenados (procedures) para a execução eficiente dessas operações.
 
-   Essa tarefa implica um profundo entendimento das estruturas de banco de dados e suas nuances, demonstrando habilidades sólidas em design de consultas, otimização de desempenho e conhecimento técnico na criação de procedimentos que automatizam processos complexos. Ao implementar essa lógica, fui capaz de fornecer à integração a capacidade de extrair informações relevantes de forma eficaz e precisa, garantindo que as parametrizações fossem coletadas de maneira confiável.
+   Essa tarefa implicou em um profundo entendimento das estruturas de banco de dados e suas nuances, demonstrando habilidades sólidas em design de consultas, otimização de desempenho e conhecimento técnico na criação de procedimentos que automatizam processos complexos. Ao implementar essa lógica, fui capaz de fornecer à integração a capacidade de extrair informações relevantes de forma eficaz e precisa, garantindo que as parametrizações fossem coletadas de maneira confiável.
 
-   Minha contribuição na criação de consultas e procedures reforça minha habilidade de traduzir requisitos de negócios em ações concretas no ambiente de banco de dados. Além disso, demonstra meu conhecimento sólido em SQL e meu compromisso em desenvolver soluções robustas que atendam às necessidades do projeto e da equipe.
+   Minha contribuição na criação de consultas e procedures reforça minha habilidade de traduzir requisitos de negócios em ações concretas no ambiente de banco de dados. Além disso, demonstrou meu conhecimento sólido em SQL e meu compromisso em desenvolver soluções robustas que atendam às necessidades do projeto e da equipe.
 
 <details open><summary>Informações código Back-End</summary>
     
@@ -344,7 +344,7 @@ Link do repositório do projeto: [Repositório](https://github.com/apibanco/Vigi
 	
    ```
    
-   No primeiro trecho deste código acima, são definidas as informações necessárias para a conexão com o banco de dados local. A variável "url" contém a URL de conexão com o banco, a porta padrão do PostgreSQL e o nome do banco de dados.
+   No primeiro trecho deste código acima, foram definidas as informações necessárias para a conexão com o banco de dados local. A variável "url" contém a URL de conexão com o banco, a porta padrão do PostgreSQL e o nome do banco de dados.
 
 Em seguida, dentro de um bloco try-catch, o código tenta estabelecer a conexão com o banco de dados. A linha Class.forName("org.postgresql.Driver") carrega dinamicamente o driver JDBC necessário para se comunicar com o PostgreSQL. Em seguida, DriverManager.getConnection(url,usuario,senha) estabelece a conexão com o banco de dados usando as informações fornecidas. Se a conexão for estabelecida com sucesso, a mensagem "Conexão realizada com sucesso!!!" é exibida. Caso ocorra algum erro durante a conexão, a exceção é capturada e o rastreamento de pilha do erro é impresso.
 
@@ -452,7 +452,7 @@ Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijet
 
 ### Visão do Projeto
 
-Foi apresentado um desafio pela empresa parceira apresentou um desafio interessante relacionado à criação de promoções em um ambiente de E-commerce. Para abordar essa demanda, desenvolvemos um motor de regras acompanhado de uma interface intuitiva, que permitisse o cadastro simplificado das regras das promoções.
+Neste projeto foi proposta a criação de promoções em um ambiente de E-commerce. Para abordar essa demanda, desenvolvemos um motor de regras acompanhado de uma interface intuitiva, que permitisse o cadastro simplificado das regras das promoções.
 
 Essa solução teve como objetivo proporcionar uma abordagem eficiente e flexível para a gestão de promoções, permitindo que a equipe de marketing e vendas pudesse criar, ajustar e monitorar promoções de forma ágil e personalizada. O motor de regras, com sua lógica subjacente, permitiu a definição de critérios específicos para a ativação das promoções, como combinações de produtos, valores de compra e outros fatores relevantes.
 
@@ -490,9 +490,9 @@ Link do repositório do projeto: [Repositório](https://github.com/Doc-Docker/AP
 
    Assumi a responsabilidade crucial de implementar a lógica do motor de regras na API, desempenhando um papel central na criação de um algoritmo avançado. Esse algoritmo foi projetado para calcular os valores passados como parâmetros, em retorno, fornecer a melhor promoção a ser aplicada no carrinho de compras do usuário.
 
-   Essa tarefa exige um profundo entendimento das diferentes regras de promoção e de como elas interagem com os valores específicos de compra. Ao criar esse algoritmo, você demonstrou um domínio sólido das lógicas de cálculo e das nuances das promoções, considerando diversos cenários para determinar qual promoção seria mais vantajosa para o cliente.
+   Essa tarefa exigiu um profundo entendimento das diferentes regras de promoção e de como elas interagem com os valores específicos de compra. Ao criar esse algoritmo, foi demonstrado um domínio sólido das lógicas de cálculo e das nuances das promoções, considerando diversos cenários para determinar qual promoção seria mais vantajosa para o cliente.
 
-   Além disso, sua contribuição na criação deste motor de regras demonstra habilidades de programação avançadas, como o desenvolvimento de algoritmos complexos e a capacidade de traduzir requisitos de negócios em lógica computacional. A aplicação prática do algoritmo também demonstra seu compromisso em criar uma experiência de compra otimizada para os usuários, onde eles possam se beneficiar ao máximo das promoções disponíveis.
+   Além disso, minha contribuição na criação deste motor de regras demonstrou habilidades de programação avançadas, como o desenvolvimento de algoritmos complexos e a capacidade de traduzir requisitos de negócios em lógica computacional. A aplicação prática do algoritmo também demonstra seu compromisso em criar uma experiência de compra otimizada para os usuários, onde eles possam se beneficiar ao máximo das promoções disponíveis.
 
    Seu papel na implementação da lógica do motor de regras foi essencial para a funcionalidade e sucesso da aplicação, oferecendo aos usuários a melhor promoção possível com base em suas compras. Isso destaca sua capacidade de resolver problemas complexos e criar soluções técnicas que têm um impacto direto nas operações comerciais.
 
@@ -666,7 +666,7 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 
 ### Visão do Projeto
 
-  Enfrentamos um desafio crucial em relação à sincronização dos dados administrativos, financeiros e operacionais ligados aos nossos serviços. A ausência de organização desses dados tem acarretado demora no atendimento aos chamados e, adicionalmente, tem gerado complexidade na interpretação dos indicadores comerciais e financeiros.
+  Neste projeto foi proposto um desafio crucial em relação à sincronização dos dados administrativos, financeiros e operacionais ligados aos nossos serviços. A ausência de organização desses dados tem acarretado demora no atendimento aos chamados e, adicionalmente, tem gerado complexidade na interpretação dos indicadores comerciais e financeiros.
 
 ### Tecnologias adotadas na solução
 
@@ -727,7 +727,7 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 
    ```
    
-Este trecho é um método de atualização de chamado em uma aplicação. Vou explicar o que cada parte faz:
+Este trecho é um método de atualização de chamado em uma aplicação com cada parte descrita a seguir:
 
 - O método recebe dois parâmetros: um ID do chamado a ser atualizado (representado por um número inteiro) e um objeto Chamado contendo as novas informações para atualização.
 Chamado chamadoSelector = this.getChamadoById(id); - Esta linha obtém o chamado existente com o ID fornecido usando um método getChamadoById (que não está presente neste trecho de código). O chamado original é armazenado na variável chamadoSelector.
