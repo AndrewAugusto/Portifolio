@@ -1073,7 +1073,7 @@ Clique [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes d
 
 ![image](https://visionaespacial.com/wp-content/themes/VisionaEspacial/assets/img/logo-branca-completa.svg)
 
-##### *Figura 01. Logo Visiona Espacial Fonte([MidAll](https://visionaespacial.com))*
+##### *Figura 01. Logo Visiona Espacial Fonte([Visiona](https://visionaespacial.com))*
 
 ### Visão do Projeto
 
