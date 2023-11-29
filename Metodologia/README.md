@@ -41,7 +41,7 @@ Em minha experiência profissional como Desenvolvedor, já obtive conquistas sig
 
 <br>
 
-## Projeto I
+## Projeto I - Assistente Ibet
 
 <details>
   
@@ -49,7 +49,7 @@ Em minha experiência profissional como Desenvolvedor, já obtive conquistas sig
          Mais Detalhes do Projeto I
 </summary>
 
-# Assistente Virtual - Ibet
+# Ibet - Assistente Virtual
 
 <br>
      
@@ -228,7 +228,7 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 
 </details>
 
-## Projeto II
+## Projeto II - Vigilant
 
 <details>
   
@@ -236,7 +236,7 @@ Clique [aqui](https://github.com/AndrewAugusto/Ibet_Assistente) para mais detalh
 	Mais Detalhes do Projeto II
 </summary>
 
-# Vigilant (Sistema de Gerenciamento de Banco de Dados)
+# Vigilant - (Sistema de Gerenciamento de Banco de Dados)
 
 ### Parceiro Acadêmico
 	
@@ -430,7 +430,7 @@ Clique [aqui](https://github.com/apibanco/Vigilant) para mais detalhes do prijet
 
 </details>
 
-## Projeto III
+## Projeto III - PromoAll
 
 <details>
   
@@ -646,7 +646,7 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 
 </details>
 
-## Projeto IV
+## Projeto IV - BoatHelp
 
 <details>
   
@@ -654,7 +654,7 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 	Mais Detalhes do Projeto IV
 </summary>
 
-# Sistema de abertura de chamados de suporte com níveis diferentes de acesso
+# BoatHelp - Sistema de abertura de chamados de suporte com níveis diferentes de acesso
 
 ### Parceiro Acadêmico
 	
@@ -836,7 +836,7 @@ Clique [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do pr
 
 </details>
 
-## Projeto V
+## Projeto V - TransferCloud
 
 <details>
   
@@ -844,7 +844,7 @@ Clique [aqui](https://github.com/Doc-Docker/APISubiter) para mais detalhes do pr
 	Mais Detalhes do Projeto V
 </summary>
 
-# Solução de Automação de Downloads e Gerenciamento em Nuvem com Painel de Monitoramento de Desempenho
+# TransferCloud - Solução de Automação de Downloads e Gerenciamento em Nuvem com Painel de Monitoramento de Desempenho
 
 ### Parceiro Acadêmico
 	
@@ -1057,7 +1057,7 @@ Clique [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes d
 
 </details>
 
-## Projeto VI
+## Projeto VI - TechVision
 
 <details>
   
