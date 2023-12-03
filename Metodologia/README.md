@@ -1077,7 +1077,7 @@ Clique [aqui](https://github.com/TechNinjass/midall-parent) para mais detalhes d
 
 ### Visão do Projeto
 
-O Proagro é um programa do governo federal que tem por finalidade o custeio agrícola do pequeno e médio produtor brasileiro. Ao aderir ao programa, o produtor rural deverá informar dados referentes à atividade agrícola que irá desempenhar a partir da necessidade monetária. Estas informações são salvas em tabelas e em banco de dados relacionais. Ademais, informações espaciais da localização dos vértices das glebas cultivadas são informadas. E outras informações alfanuméricas referentes ao manejo, cultivar utilizada, produtividade potencial, data de plantio e colheita são obrigatórios no cadastro.
+Foi proposto uma solução abrangente que envolve a coleta e o tratamento dos dados do programa Federal ProAgro, a reestruturação eficiente dos dados e o desenvolvimento de um Sistema de Informação Geográfica (SIG) personalizado, fornecendo informações de forma mais simples e organizada para o usuário. Essa abordagem busca facilitar a compreensão e análise dos dados, contribuindo para melhorias nos processos internos da empresa.
 
 ### Tecnologias adotadas na solução
 
@@ -1325,19 +1325,12 @@ Este modelo lógico de banco de dados é projetado para um sistema de armazename
 
 ## Conhecimentos Adquiridos
 
-Ao longo do projeto obtive bastante aprendizado sobre bancos de dados e manipulação de dados, adquiri uma compreensão aprofundada dos conceitos fundamentais e das práticas essenciais associadas a tecnologia. 
+Ao longo do projeto aprendi bastante sobre bancos de dados e manipulação de dados, adquiri uma compreensão aprofundada dos conceitos fundamentais e das práticas essenciais associadas a tecnologia. 
 
 #### SQL (Structured Query Language):
     Ganhei proficiência na linguagem SQL, que serve como a espinha dorsal para interação com bancos de dados relacional. 
-    A capacidade de criar consultas SQL eficientes para recuperar, inserir, atualizar e excluir dados proporciona uma base 
+    A capacidade de criar consultas SQL eficientes para recuperar, inserir, atualizar e excluir dados proporcionou-me uma base 
     sólida para a manipulação eficaz de informações em um ambiente de banco de dados relacional.
-
-##### Modelagem de Dados Relacionais: 
-    Princípios da modelagem de dados relacionais, incluindo a criação de tabelas, definição de chaves primárias e estrangeiras, e o estabelecimento de relações entre entidades. 
-    Essa base é crucial para garantir a integridade dos dados e para representar adequadamente a estrutura das informações armazenadas.
-
-#### Indexação e Otimização de Consultas: 
-    Indexação para melhorar o desempenho das consultas. A criação de índices apropriados em colunas-chave e a compreensão dos planos de execução de consultas são conhecimentos essenciais para otimizar a eficiência das operações no banco de dados.
 
 #### Procedimentos Armazenados, Funções e parametrizações:  
     Explorando a criação de procedimentos armazenados e funções no MySQL, ganhei a capacidade de encapsular lógica de negócios no banco de dados. Isso não apenas promove a modularidade, mas também contribui para a segurança e eficiência na execução de operações complexas.
