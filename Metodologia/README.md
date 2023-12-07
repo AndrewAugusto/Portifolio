@@ -4,7 +4,7 @@
 
 ## Introdução
 
-   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS, C#, e tenho experiência sólida em bancos de dados SQL e Hana.
+   Olá, sou Andrew Santos, tenho 23 anos e estou atualmente na fase final da minha graduação em Banco de Dados. Atuo como Desenvolvedor Full Stack, com foco em Node e React, dentro do contexto do SAP Business One. Anteriormente, desempenhei o papel de Analista Desenvolvedor, trabalhando com linguagens como NodeJS, C#, e tenho experiência sólida em bancos de dados SQL e SAP Hana.
 
 Ao longo da minha carreira, pude aplicar meu conhecimento em modelagem, otimização e manipulação de dados usando SQL, contribuindo para a eficiência e integridade dos sistemas em que estive envolvido.
 
@@ -665,8 +665,6 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 ##### *Figura 01. Logo Subiter Fonte([Subiter](https://www.subiter.com))*
 
 ### Visão do Projeto
-
-  Neste projeto foi proposto um desafio crucial em relação à sincronização dos dados administrativos, financeiros e operacionais ligados aos nossos serviços. A ausência de organização desses dados tem acarretado demora no atendimento aos chamados e, adicionalmente, tem gerado complexidade na interpretação dos indicadores comerciais e financeiros.
 
 ### Tecnologias adotadas na solução
 
