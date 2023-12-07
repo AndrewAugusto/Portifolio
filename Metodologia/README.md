@@ -666,7 +666,8 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 
 ### Visão do Projeto
 
-Neste projeto foi proposto um desafio crucial em relação à sincronização dos dados administrativos, financeiros e operacionais ligados aos nossos serviços. A ausência de organização desses dados tem acarretado demora no atendimento aos chamados e, adicionalmente, tem gerado complexidade na interpretação dos indicadores comerciais e financeiros.
+Neste projeto foi proposto a demanda de otimizar a gestão por meio da implementação de um sistema abrangente que engloba os cadastros de usuários, equipamentos e horários. A diversidade de perfis de usuários é essencial, com categorias distintas como administrador, suporte e cliente, garantindo a segurança e eficiência nas operações.
+O cerne do projeto reside no registro de chamados, um elemento central para a melhoria do atendimento. A falta de um sistema integrado tem levado a atrasos e dificuldades na resolução das demandas, impactando diretamente na satisfação dos clientes. A proposta inclui um acompanhamento de chamados de ponta a ponta, visando não apenas a resolução rápida, mas também a análise detalhada de cada interação, proporcionando insights valiosos para aprimorar continuamente os processos.
 
 ### Tecnologias adotadas na solução
 
