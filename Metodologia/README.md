@@ -666,6 +666,8 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 
 ### Visão do Projeto
 
+Neste projeto foi proposto um desafio crucial em relação à sincronização dos dados administrativos, financeiros e operacionais ligados aos nossos serviços. A ausência de organização desses dados tem acarretado demora no atendimento aos chamados e, adicionalmente, tem gerado complexidade na interpretação dos indicadores comerciais e financeiros.
+
 ### Tecnologias adotadas na solução
 
 <div style="text-align: center;">
@@ -691,8 +693,6 @@ Clique [aqui](https://github.com/Doc-Docker/APIMidAll) para mais detalhes do pro
 </div>
 
 ## Iniciativas Implementadas
-
-  Desempenhei um papel central na implementação da lógica do motor de regras da API, desenvolvendo um algoritmo altamente funcional. Este algoritmo foi projetado para efetuar cálculos com base nos valores recebidos como parâmetros e, em resposta, determinar a promoção mais vantajosa a ser aplicada no carrinho de compras do usuário.
   
 <details open><summary>Informações sobre a Lógica do Sistema</summary>
      
